@@ -1987,3 +1987,129 @@ _C0 Infinite Bullet
 _L 0x201D7C00 0x00000000
 _C0 Infinite Bullet [Off]
 _L 0x201D7C00 0xAE020010
+_S NPUH-10088
+_G 101-In-1 Megamix (PlayStation Store) [US]
+_C0 Score Max
+_L 0x2115FD4C 0x0098967F
+_S NPEZ-00401
+_G 1,000 Tiny Claws (Mini) [EU]
+_C0 AI Disable
+_L 0x20035588 0x00000000
+_C0 AI Enable
+_L 0x20035588 0x0E20D155
+_C0 Can't Fall Off Ledge
+_L 0x20030954 0x00000000
+_C0 Infinite Health
+_L 0x20028F74 0xACA00058
+_C0 Infinite Shield Usage
+_L 0x20031A9C 0x44806800
+_C0 Instant Sword Charge
+_L 0x2002E454 0xAC850190
+_L 0x2002E45C 0x34040000
+_C0 Invincible
+_L 0x2002D9FC 0x100000B4
+_C0 Max Apples On PickUp
+_L 0x2002D9BC 0x24040063
+_C0 Max Bugs Killed On Kill
+_L 0x2002E174 0x24050063
+_C0 Max Goals Scored On Score Goal
+_L 0x20036994 0x24050063
+_C0 Player Speed: Faster
+_L 0x2002F1AC 0x3C0640A0
+_C0 Player Speed: Hyper
+_L 0x2002F1AC 0x3C064120
+_C0 Player Speed: Insane
+_L 0x2002F1AC 0x3C064170
+_C0 Player Speed: Normal
+_L 0x2002F1AC 0x3C064019
+_C0 Player Speed: Slow
+_L 0x2002F1AC 0x3C064000
+_C0 Player Speed: Super Slow
+_L 0x2002F1AC 0x3C063F80
+_C0 Score Multiplier x1
+_L 0x2002DF84 0x24020001
+_C0 Score Multiplier x2
+_L 0x2002DF84 0x24020002
+_C0 Score Multiplier x3
+_L 0x2002DF84 0x24020003
+_C0 Score Multiplier x4
+_L 0x2002DF84 0x24020004
+_C0 Score Multiplier x5
+_L 0x2002DF84 0x24020005
+_C0 Score Multiplier x6
+_L 0x2002DF84 0x24020006
+_C0 Score Multiplier x7
+_L 0x2002DF84 0x24020007
+_C0 Score Multiplier x8
+_L 0x2002DF84 0x24020008
+_C0 Score Multiplier x9
+_L 0x2002DF84 0x24020009
+_C0 Score Multiplier x10
+_L 0x2002DF84 0x2402000A
+_C0 Timer
+_L 0x2001A510 0x0E20688B
+_C0 Timer [Disable]
+_L 0x2001A510 0x00000000
+_C0 Walk Through Walls
+_L 0x200256D4 0x100000C5
+_S NPUZ-00262
+_G 1,000 Tiny Claws (Mini) [US]
+_C0 AI Disable
+_L 0x2003559C 0x00000000
+_C0 AI Enable
+_L 0x2003559C 0x0E20D15A
+_C0 Can't Fall Off Ledge
+_L 0x20030968 0x00000000
+_C0 Infinite Health
+_L 0x20028F88 0xACA00058
+_C0 Infinite Shield Usage
+_L 0x20031AB0 0x44806800
+_C0 Instant Sword Charge
+_L 0x2002E468 0xAC850190
+_L 0x2002E470 0x34040000
+_C0 Invincible
+_L 0x2002DA10 0x100000B4
+_C0 Max Apples On PickUp
+_L 0x2002D9D0 0x24040063
+_C0 Max Bugs Killed On Kill
+_L 0x2002E188 0x24050063
+_C0 Max Goals Scored On Score Goal
+_L 0x200369A8 0x24050063
+_C0 Player Speed: Faster
+_L 0x2002F1C0 0x3C0640A0
+_C0 Player Speed: Hyper
+_L 0x2002F1C0 0x3C064120
+_C0 Player Speed: Insane
+_L 0x2002F1C0 0x3C064170
+_C0 Player Speed: Normal
+_L 0x2002F1C0 0x3C064019
+_C0 Player Speed: Slow
+_L 0x2002F1C0 0x3C064000
+_C0 Player Speed: Super Slow
+_L 0x2002F1C0 0x3C063F80
+_C0 Score Multiplier x1
+_L 0x2002DF98 0x24020001
+_C0 Score Multiplier x2
+_L 0x2002DF98 0x24020002
+_C0 Score Multiplier x3
+_L 0x2002DF98 0x24020003
+_C0 Score Multiplier x4
+_L 0x2002DF98 0x24020004
+_C0 Score Multiplier x5
+_L 0x2002DF98 0x24020005
+_C0 Score Multiplier x6
+_L 0x2002DF98 0x24020006
+_C0 Score Multiplier x7
+_L 0x2002DF98 0x24020007
+_C0 Score Multiplier x8
+_L 0x2002DF98 0x24020008
+_C0 Score Multiplier x9
+_L 0x2002DF98 0x24020009
+_C0 Score Multiplier x10
+_L 0x2002DF98 0x2402000A
+_C0 Timer
+_L 0x2001A524 0x0E206890
+_C0 Timer [Disable]
+_L 0x2001A524 0x00000000
+_C0 Walk Through Walls
+_L 0x200256E8 0x100000C5
