@@ -2188,3 +2188,57 @@ _L 0x2066C3A8 0x3B9AC9FF
 _C0 Unlock All Levels
 _L 0x200193EC 0x2405001F
 _L 0x200193FC 0xAC8500C8
+_S ULES-00451
+_G 50 Cent: Bulletproof G Unit Edition [EU]
+_C0 Inf. Health
+_L 0x00004908 0x0A200400
+_L 0x00001000 0x3c08090E
+_L 0x00001004 0x3c0942c8
+_L 0x00001008 0x25290000
+_L 0x0000100C 0xad09c754
+_L 0x00001010 0x03e00008
+_C0 Inf. Health V.2
+_L 0x208DC754 0x44160000
+_C0 Inf. Money
+_L 0x008DC6D8 0x000021C2
+_C0 Infinite Ammo
+_L 0x208DE138 0x000003E7
+_L 0x208DE144 0x000003E7
+_L 0x208DE150 0x000003E7
+_C0 Infinite Body Armor
+_L 0x208DC684 0x43960000
+_C0 Infinite Cash
+_L 0x208DC6D8 0x3B9AC9FF
+_C0 Infinite Painkillers
+_L 0x208DC7EC 0x00000063
+_C0 Infinite Stamina
+_L 0x208DC71C 0x43960000
+_S ULES-00452
+_G 50 Cent: Bulletproof G Unit Edition [EU]
+_C0 Infinite Body Armor
+_L 0x208DC644 0x48E541A4
+_C0 Infinite Cash
+_L 0x208DC6D8 0x3B9AC9FF
+_C0 Infinite Health
+_L 0x008DC756 0x000000C8
+_C0 Infinite Painkillers
+_L 0x008DC7EC 0x00000063
+_C0 Infinite Stamina
+_L 0x008DC71E 0x000000C8
+_S ULUS-10128
+_G 50 Cent: Bulletproof G Unit Edition [US]
+_C0 Infinite Ammo Pistol
+_L 0x008E0038 0x00000063
+_C0 Infinite Body Armor
+_L 0x208DC624 0x48E541A4
+_C0 Infinite Health
+_L 0x008DC736 0x000000C8
+_C0 Infinite Money
+_L 0x208DC6B8 0x3B9AC9FF
+_C0 Infinite Painkillers
+_L 0x008DC7CC 0x00000063
+_C0 Infinite Pills
+_L 0x008DC7XX 0x00000063
+_C0 ↑[#แก้ค่าก่อนถึงจะใช้ได้]
+_C0 Infinite Stamina
+_L 0x008DC6FE 0x000000C8
