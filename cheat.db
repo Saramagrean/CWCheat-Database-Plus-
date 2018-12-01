@@ -1973,3 +1973,17 @@ _C0 Zelkova Max Exp.
 _L 0x10689838 0x000003E8
 _C0 Zelkova Max Job Rank
 _L 0x00689826 0x00000004
+_S ULJM-05129
+_G 007: Russia Yori Ai o Komete [JP]
+_C0 Inf. Armor
+_L 0x2014DAB4 0x00000000
+_C0 Inf. Armor [Off]
+_L 0x2014DAB4 0xE6400070
+_C0 Inf. Life
+_L 0x2006FEB4 0x00000000
+_C0 Inf. Life [Off]
+_L 0x2006FEB4 0xE48C0028
+_C0 Infinite Bullet
+_L 0x201D7C00 0x00000000
+_C0 Infinite Bullet [Off]
+_L 0x201D7C00 0xAE020010
