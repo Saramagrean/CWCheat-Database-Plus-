@@ -5931,3 +5931,48 @@ _C0 Inf. Money
 _L 0x2133A3B8 0x000F423F
 _C0 Inf. Technique Gauge
 _L 0x004DE3D0 0x00000064
+_S NPUZ-00182
+_G Aquattack (Mini) [US]
+_C0 Timer
+_L 0x20015C68 0xE60C073C
+_L 0x2001A848 0xE60D0738
+_C0 Timer [Disable]
+_L 0x20015C68 0x00000000
+_L 0x2001A848 0x00000000
+_S NPUZ-00116
+_G Arcade Essentials (Mini) [US]
+_C0 Infinite Lives (Terra Conqueror)
+_L 0x20053F2C 0x00000000
+_C0 Infinite Lives (Troops Attack)
+_L 0x2006A864 0x00000000
+_C0 Instant Clear Level
+_L 0x20054D40 0x24030064
+_C0 One Hit Kill Boss
+_L 0x20067194 0x2402FFFF
+_C0 Timer
+_L 0x2004F7AC 0x0E230D6B
+_C0 Timer [Disable]
+_L 0x2004F7AC 0x00000000
+_S NPUZ-00258
+_G Arcade Essentials Evolution (Mini) [US]
+_C0 Disable Timer
+_L 0x200FF1F4 0x00000000
+_C0 Infinite Fuel
+_L 0x200FA88C 0x00000000
+_C0 Infinite Lives (Lunar Parking)
+_L 0x200F5934 0x24020005
+_L 0x200F5938 0xAE420054
+_C0 Infinite Lives (Scolopendra)
+_L 0x200DE380 0x24050005
+_L 0x200DE384 0xAE250054
+_C0 Infinite Lives (Smashout)
+_L 0x200E9EAC 0x24080005
+_L 0x200E9EDC 0xAE680050
+_C0 Infinite Lives (Toadder)
+_L 0x200FF1E0 0x24020005
+_L 0x200FF1E4 0xAE220058
+_C0 Infinite Lives (Vulcanoids)
+_L 0x200D2AF0 0x24020005
+_L 0x200D2AF4 0xAE22005C
+_C0 Infinite Shield
+_L 0x20068A14 0x1000000F
