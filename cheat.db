@@ -4303,3 +4303,62 @@ _C0 10000 Points
 _L 0x2032D63C 0x00002710
 _C0 Freeze Timer To 100 (EX Missions)
 _L 0x1032B478 0x00000190
+_S ULUS-10186
+_G Activision Hits Remixed [US]
+_C0 Beamrider: Infinite Bombs
+_L 0x007828EF 0x00000003
+_C0 Beamrider: Infinite Lives
+_L 0x007828A1 0x00000003
+_C0 Moonjump (Hold L While Jumping)
+_L 0x99FF3A34 0x00004400
+_L 0x28F82903 0x00000006
+_L 0xD0000000 0x00000000
+_C0 Moonjump (Hold L While Jumping) V.2
+_L 0x217F3A34 0x00004400
+_L 0x207828FA 0x00000006
+_L 0xD0000000 0x00000000
+_C0 Pitfall: Infinite Lives 
+_L 0x2078289C 0x000000A0
+_C0 Pitfall: Infinite Time
+_L 0x207828F4 0x00005919
+_C0 Pitfall: Max Score
+_L 0x207828F1 0x00000011
+_L 0x207828F2 0x00000040
+_L 0x207828F3 0x00000000
+_C0 Pitfall: Moon Jump (Hold L While Jumping)
+_L 0xD0000002 0x10004400
+_L 0x00782903 0x00000006
+_C0 Pitfall 2: Max Score
+_L 0x007828E3 0x00000019
+_L 0x007828E4 0x00000090
+_L 0x007828E5 0x00000000
+_C0 Pitfall 2: Moon Jump (Hold L While Jumping)
+_L 0xD0000002 0x10004400
+_L 0x007828FA 0x00000006
+_S ULES-00640
+_G Activision Hits Remixed [EU]
+_C0 ____________[>>>สูตรแก้ไขปัญหา<<<]____________
+_C0 Graphic Workaround
+_L 0xE001FFFF 0x00010334
+_L 0x20010334 0x0000C821
+_C0 ↑[#แก้ไขปัญหากราฟิก  ปรับใช้คู่กับ "Disable Slow Effects"]
+_C0 ↑↑[#Requires Restart]
+_C0 Freeze Workaround
+_L 0xE0060001 0x0000F9EC
+_L 0x2000F9EC 0x00005821
+_L 0x2000FC5C 0x00002821
+_L 0x2000F968 0x00000000
+_L 0x2000FBB4 0x00000000
+_L 0x2000FAE4 0x00000000
+_L 0x2000FAC8 0x00000000
+_C0 ↑[#แก้เกมค้าง  You Can Use "Multithreading" instead]
+_C0 ________________[>>>สูตรทั่วไป<<<]________________
+_C0 Pitfall - Infinite Lives
+_L 0x00782a5c 0xffffffff
+_C0 Pitfall - Infinite Points
+_L 0x00782ab1 0x00000099
+_L 0x00782ab2 0x00000099
+_L 0x00782ab3 0x00000099
+_C0 Pitfall - Infinite Time
+_L 0x00782ab4 0x00000099
+_L 0x00782ab5 0x00000099
