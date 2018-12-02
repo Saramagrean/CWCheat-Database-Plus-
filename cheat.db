@@ -4836,3 +4836,384 @@ _C0 Meisei 999
 _L 0x20441C64 0x000003E7
 _C0 Money 9999999
 _L 0x20441C6C 0x0098967F
+_S ULJS-00412
+_G AKB1/48: Idol To Guam De Koishitara... (First Print Limited Edition) [JP]
+_C0 Steel Lead Stock Konfu
+_L 0x201D6AE8 0x08800000
+_L 0x201D6AE8 0x00000000
+_L 0xC0000000 0x0000002F
+_L 0x00001150 0xFFFFFFFF
+_L 0x00001154 0xFFFFFFFF
+_L 0x00001158 0xFFFFFFFF
+_L 0x0000115C 0xFFFFFFFF
+_L 0x00001160 0xFFFFFFFF
+_L 0x00001164 0xFFFFFFFF
+_L 0x00001168 0xFFFFFFFF
+_L 0xDC000000 0x00000090
+_L 0xD2000000 0x00000000
+_S ULJS-00413
+_G AKB1/48: Idol To Guam De Koishitara... (Oukusho Ni wa Shutsusa na Ide Kudasai! Box) [JP]
+_C0 Steel Lead Stock Konfu
+_L 0x201D6AE8 0x08800000
+_L 0x201D6AE8 0x00000000
+_L 0xC0000000 0x0000002F
+_L 0x00001150 0xFFFFFFFF
+_L 0x00001154 0xFFFFFFFF
+_L 0x00001158 0xFFFFFFFF
+_L 0x0000115C 0xFFFFFFFF
+_L 0x00001160 0xFFFFFFFF
+_L 0x00001164 0xFFFFFFFF
+_L 0x00001168 0xFFFFFFFF
+_L 0xDC000000 0x00000090
+_L 0xD2000000 0x00000000
+_S NPJH-50472
+_G AKB1/48: Idol To Guam De Koishitara... (PlayStation Store) [JP]
+_C0 Costume All
+_L 0x601D6B18 0xFFFFFFFF
+_L 0x00020002 0x00003FC0
+_L 0x90000001 0x00000000
+_L 0x601D6B18 0xFFFFFFFF
+_L 0x00020090 0x00003FE0
+_L 0x9000000C 0x00000000
+_L 0x601D6B18 0xFFFFFFFF
+_L 0x00020090 0x00003FE4
+_L 0x9000000C 0x00000000
+_L 0x601D6B18 0xFFFFFFFF
+_L 0x00020090 0x00003FE8
+_L 0x9000000C 0x00000000
+_L 0x601D6B18 0xFFFFFFFF
+_L 0x00020090 0x00003FEC
+_L 0x9000000C 0x00000000
+_L 0x601D6B18 0xFFFFFFFF
+_L 0x00020090 0x00003FF0
+_L 0x9000000C 0x00000000
+_S ULJS-00414
+_G AKB1/48: Idol To Guam De Koishitara... [JP]
+_C0 Steel Lead Stock Konfu
+_L 0x201D6AE8 0x08800000
+_L 0x201D6AE8 0x00000000
+_L 0xC0000000 0x0000002F
+_L 0x00001150 0xFFFFFFFF
+_L 0x00001154 0xFFFFFFFF
+_L 0x00001158 0xFFFFFFFF
+_L 0x0000115C 0xFFFFFFFF
+_L 0x00001160 0xFFFFFFFF
+_L 0x00001164 0xFFFFFFFF
+_L 0x00001168 0xFFFFFFFF
+_L 0xDC000000 0x00000090
+_L 0xD2000000 0x00000000
+_S ULJS-00448
+_G AKB1/48: Idol To Koishitara... (First Print Limited Edition) [JP]
+_C0 Call List 1 Iwasa Misaki
+_L 0x00A42480 0x00000000
+_C0 Call List 10 Takahasi Minami
+_L 0x00A42480 0x00000009
+_C0 Call List 11 Nakagawa Haruka
+_L 0x00A42480 0x0000000A
+_C0 Call List 12 Nakata Chisato
+_L 0x00A42480 0x0000000B
+_C0 Call List 13 Nakaya Sayaka
+_L 0x00A42480 0x0000000C
+_C0 Call List 14 Maeda Atsuko
+_L 0x00A42480 0x0000000D
+_C0 Call List 15 Maeda Ami
+_L 0x00A42480 0x0000000E
+_C0 Call List 16 Matubara Natsumi
+_L 0x00A42480 0x0000000F
+_C0 Call List 17 Akimoto Sayaka
+_L 0x00A42480 0x00000010
+_C0 Call List 18 Itano Tomomi
+_L 0x00A42480 0x00000011
+_C0 Call List 19 Uchida Mayumi
+_L 0x00A42480 0x00000012
+_C0 Call List 2 Tada Aaika
+_L 0x00A42480 0x00000001
+_C0 Call List 20 Umeda Ayaka
+_L 0x00A42480 0x00000013
+_C0 Call List 21 Oshima Yuko
+_L 0x00A42480 0x00000014
+_C0 Call List 22 Ono Erena
+_L 0x00A42480 0x00000015
+_C0 Call List 23 Kikuchi Ayaka
+_L 0x00A42480 0x00000016
+_C0 Call List 24 Tanabe Miku
+_L 0x00A42480 0x00000017
+_C0 Call List 25 Nakatsuka Tomomi
+_L 0x00A42480 0x00000018
+_C0 Call List 26 Nito Moeno
+_L 0x00A42480 0x00000019
+_C0 Call List 27 Nonaka Misato
+_L 0x00A42480 0x0000001A
+_C0 Call List 28 Fujie Reina
+_L 0x00A42480 0x0000001B
+_C0 Call List 29 Matsui Sakiko
+_L 0x00A42480 0x0000001C
+_C0 Call List 3 Oya Shiduka
+_L 0x00A42480 0x00000002
+_C0 Call List 30 Minegishi Minami
+_L 0x00A42480 0x0000001D
+_C0 Call List 31 Miyazawa Sae
+_L 0x00A42480 0x0000001E
+_C0 Call List 32 Yonezawa Rumi
+_L 0x00A42480 0x0000001F
+_C0 Call List 33 Ishida Haruka
+_L 0x00A42480 0x00000020
+_C0 Call List 34 Oku Manami
+_L 0x00A42480 0x00000021
+_C0 Call List 35 Kawanishi Tomomi
+_L 0x00A42480 0x00000022
+_C0 Call List 36 Kashiwagi Yuki
+_L 0x00A42480 0x00000023
+_C0 Call List 37 Kitahara Rie
+_L 0x00A42480 0x00000024
+_C0 Call List 38 Kobayashi Kana
+_L 0x00A42480 0x00000025
+_C0 Call List 39 Komori Mika
+_L 0x00A42480 0x00000026
+_C0 Call List 4 Katayama Haruka
+_L 0x00A42480 0x00000003
+_C0 Call List 40 Sato Amina
+_L 0x00A42480 0x00000027
+_C0 Call List 41 Sato Sumire
+_L 0x00A42480 0x00000028
+_C0 Call List 42 Sato Natuki
+_L 0x00A42480 0x00000029
+_C0 Call List 43 Suzuki Mariya
+_L 0x00A42480 0x0000002A
+_C0 Call List 44 Tikano Rina
+_L 0x00A42480 0x0000002B
+_C0 Call List 45 Hirajima Natumi
+_L 0x00A42480 0x0000002C
+_C0 Call List 46 Masuda Yuka
+_L 0x00A42480 0x0000002D
+_C0 Call List 47 Miyazaki Miho
+_L 0x00A42480 0x0000002E
+_C0 Call List 48 Watanabe Mayu
+_L 0x00A42480 0x0000002F
+_C0 Call List 5 Kuramochi Asuka
+_L 0x00A42480 0x00000004
+_C0 Call List 6 Kojima Haruna
+_L 0x00A42480 0x00000005
+_C0 Call List 7 Sashihara Rino
+_L 0x00A42480 0x00000006
+_C0 Call List 8 Sinoda Mariko
+_L 0x00A42480 0x00000007
+_C0 Call List 9 Takashiro Aki
+_L 0x00A42480 0x00000008
+_C0 Costume All
+_L 0x40A3FE00 0x04800001
+_L 0xFFFFFFFF 0x00000000
+_C0 Gallary All
+_L 0x60176118 0xFFFFFFFF
+_L 0x0002000C 0x00000EC0
+_L 0x90000001 0x00000000
+_S ULJS-00348
+_G AKB1/48: Idol To Koishitara... (Premier Special Pack) [JP]
+_C0 Call List 1 Iwasa Misaki
+_L 0x00A42480 0x00000000
+_C0 Call List 10 Takahasi Minami
+_L 0x00A42480 0x00000009
+_C0 Call List 11 Nakagawa Haruka
+_L 0x00A42480 0x0000000A
+_C0 Call List 12 Nakata Chisato
+_L 0x00A42480 0x0000000B
+_C0 Call List 13 Nakaya Sayaka
+_L 0x00A42480 0x0000000C
+_C0 Call List 14 Maeda Atsuko
+_L 0x00A42480 0x0000000D
+_C0 Call List 15 Maeda Ami
+_L 0x00A42480 0x0000000E
+_C0 Call List 16 Matubara Natsumi
+_L 0x00A42480 0x0000000F
+_C0 Call List 17 Akimoto Sayaka
+_L 0x00A42480 0x00000010
+_C0 Call List 18 Itano Tomomi
+_L 0x00A42480 0x00000011
+_C0 Call List 19 Uchida Mayumi
+_L 0x00A42480 0x00000012
+_C0 Call List 2 Tada Aaika
+_L 0x00A42480 0x00000001
+_C0 Call List 20 Umeda Ayaka
+_L 0x00A42480 0x00000013
+_C0 Call List 21 Oshima Yuko
+_L 0x00A42480 0x00000014
+_C0 Call List 22 Ono Erena
+_L 0x00A42480 0x00000015
+_C0 Call List 23 Kikuchi Ayaka
+_L 0x00A42480 0x00000016
+_C0 Call List 24 Tanabe Miku
+_L 0x00A42480 0x00000017
+_C0 Call List 25 Nakatsuka Tomomi
+_L 0x00A42480 0x00000018
+_C0 Call List 26 Nito Moeno
+_L 0x00A42480 0x00000019
+_C0 Call List 27 Nonaka Misato
+_L 0x00A42480 0x0000001A
+_C0 Call List 28 Fujie Reina
+_L 0x00A42480 0x0000001B
+_C0 Call List 29 Matsui Sakiko
+_L 0x00A42480 0x0000001C
+_C0 Call List 3 Oya Shiduka
+_L 0x00A42480 0x00000002
+_C0 Call List 30 Minegishi Minami
+_L 0x00A42480 0x0000001D
+_C0 Call List 31 Miyazawa Sae
+_L 0x00A42480 0x0000001E
+_C0 Call List 32 Yonezawa Rumi
+_L 0x00A42480 0x0000001F
+_C0 Call List 33 Ishida Haruka
+_L 0x00A42480 0x00000020
+_C0 Call List 34 Oku Manami
+_L 0x00A42480 0x00000021
+_C0 Call List 35 Kawanishi Tomomi
+_L 0x00A42480 0x00000022
+_C0 Call List 36 Kashiwagi Yuki
+_L 0x00A42480 0x00000023
+_C0 Call List 37 Kitahara Rie
+_L 0x00A42480 0x00000024
+_C0 Call List 38 Kobayashi Kana
+_L 0x00A42480 0x00000025
+_C0 Call List 39 Komori Mika
+_L 0x00A42480 0x00000026
+_C0 Call List 4 Katayama Haruka
+_L 0x00A42480 0x00000003
+_C0 Call List 40 Sato Amina
+_L 0x00A42480 0x00000027
+_C0 Call List 41 Sato Sumire
+_L 0x00A42480 0x00000028
+_C0 Call List 42 Sato Natuki
+_L 0x00A42480 0x00000029
+_C0 Call List 43 Suzuki Mariya
+_L 0x00A42480 0x0000002A
+_C0 Call List 44 Tikano Rina
+_L 0x00A42480 0x0000002B
+_C0 Call List 45 Hirajima Natumi
+_L 0x00A42480 0x0000002C
+_C0 Call List 46 Masuda Yuka
+_L 0x00A42480 0x0000002D
+_C0 Call List 47 Miyazaki Miho
+_L 0x00A42480 0x0000002E
+_C0 Call List 48 Watanabe Mayu
+_L 0x00A42480 0x0000002F
+_C0 Call List 5 Kuramochi Asuka
+_L 0x00A42480 0x00000004
+_C0 Call List 6 Kojima Haruna
+_L 0x00A42480 0x00000005
+_C0 Call List 7 Sashihara Rino
+_L 0x00A42480 0x00000006
+_C0 Call List 8 Sinoda Mariko
+_L 0x00A42480 0x00000007
+_C0 Call List 9 Takashiro Aki
+_L 0x00A42480 0x00000008
+_C0 Costume All
+_L 0x40A3FE00 0x04800001
+_L 0xFFFFFFFF 0x00000000
+_C0 Gallary All
+_L 0x60176118 0xFFFFFFFF
+_L 0x0002000C 0x00000EC0
+_L 0x90000001 0x00000000
+_S ULJS-00480
+_G AKB1/48: Idol To Koishitara... [JP]
+_C0 Call List 1 Iwasa Misaki
+_L 0x00A42480 0x00000000
+_C0 Call List 10 Takahasi Minami
+_L 0x00A42480 0x00000009
+_C0 Call List 11 Nakagawa Haruka
+_L 0x00A42480 0x0000000A
+_C0 Call List 12 Nakata Chisato
+_L 0x00A42480 0x0000000B
+_C0 Call List 13 Nakaya Sayaka
+_L 0x00A42480 0x0000000C
+_C0 Call List 14 Maeda Atsuko
+_L 0x00A42480 0x0000000D
+_C0 Call List 15 Maeda Ami
+_L 0x00A42480 0x0000000E
+_C0 Call List 16 Matubara Natsumi
+_L 0x00A42480 0x0000000F
+_C0 Call List 17 Akimoto Sayaka
+_L 0x00A42480 0x00000010
+_C0 Call List 18 Itano Tomomi
+_L 0x00A42480 0x00000011
+_C0 Call List 19 Uchida Mayumi
+_L 0x00A42480 0x00000012
+_C0 Call List 2 Tada Aaika
+_L 0x00A42480 0x00000001
+_C0 Call List 20 Umeda Ayaka
+_L 0x00A42480 0x00000013
+_C0 Call List 21 Oshima Yuko
+_L 0x00A42480 0x00000014
+_C0 Call List 22 Ono Erena
+_L 0x00A42480 0x00000015
+_C0 Call List 23 Kikuchi Ayaka
+_L 0x00A42480 0x00000016
+_C0 Call List 24 Tanabe Miku
+_L 0x00A42480 0x00000017
+_C0 Call List 25 Nakatsuka Tomomi
+_L 0x00A42480 0x00000018
+_C0 Call List 26 Nito Moeno
+_L 0x00A42480 0x00000019
+_C0 Call List 27 Nonaka Misato
+_L 0x00A42480 0x0000001A
+_C0 Call List 28 Fujie Reina
+_L 0x00A42480 0x0000001B
+_C0 Call List 29 Matsui Sakiko
+_L 0x00A42480 0x0000001C
+_C0 Call List 3 Oya Shiduka
+_L 0x00A42480 0x00000002
+_C0 Call List 30 Minegishi Minami
+_L 0x00A42480 0x0000001D
+_C0 Call List 31 Miyazawa Sae
+_L 0x00A42480 0x0000001E
+_C0 Call List 32 Yonezawa Rumi
+_L 0x00A42480 0x0000001F
+_C0 Call List 33 Ishida Haruka
+_L 0x00A42480 0x00000020
+_C0 Call List 34 Oku Manami
+_L 0x00A42480 0x00000021
+_C0 Call List 35 Kawanishi Tomomi
+_L 0x00A42480 0x00000022
+_C0 Call List 36 Kashiwagi Yuki
+_L 0x00A42480 0x00000023
+_C0 Call List 37 Kitahara Rie
+_L 0x00A42480 0x00000024
+_C0 Call List 38 Kobayashi Kana
+_L 0x00A42480 0x00000025
+_C0 Call List 39 Komori Mika
+_L 0x00A42480 0x00000026
+_C0 Call List 4 Katayama Haruka
+_L 0x00A42480 0x00000003
+_C0 Call List 40 Sato Amina
+_L 0x00A42480 0x00000027
+_C0 Call List 41 Sato Sumire
+_L 0x00A42480 0x00000028
+_C0 Call List 42 Sato Natuki
+_L 0x00A42480 0x00000029
+_C0 Call List 43 Suzuki Mariya
+_L 0x00A42480 0x0000002A
+_C0 Call List 44 Tikano Rina
+_L 0x00A42480 0x0000002B
+_C0 Call List 45 Hirajima Natumi
+_L 0x00A42480 0x0000002C
+_C0 Call List 46 Masuda Yuka
+_L 0x00A42480 0x0000002D
+_C0 Call List 47 Miyazaki Miho
+_L 0x00A42480 0x0000002E
+_C0 Call List 48 Watanabe Mayu
+_L 0x00A42480 0x0000002F
+_C0 Call List 5 Kuramochi Asuka
+_L 0x00A42480 0x00000004
+_C0 Call List 6 Kojima Haruna
+_L 0x00A42480 0x00000005
+_C0 Call List 7 Sashihara Rino
+_L 0x00A42480 0x00000006
+_C0 Call List 8 Sinoda Mariko
+_L 0x00A42480 0x00000007
+_C0 Call List 9 Takashiro Aki
+_L 0x00A42480 0x00000008
+_C0 Costume All
+_L 0x40A3FE00 0x04800001
+_L 0xFFFFFFFF 0x00000000
+_C0 Gallary All
+_L 0x60176118 0xFFFFFFFF
+_L 0x0002000C 0x00000EC0
+_L 0x90000001 0x00000000
