@@ -6066,3 +6066,81 @@ _L 0x214B001C 0xFFFFFFFF
 _C0 Watch
 _L 0x200B4D60 0x24020001
 _L 0x20144EF4 0x0E22D333
+_S ULES-00011
+_G Archer Maclean's Mercury [EU]
+_C0 ___________[>>>สูตรบังคับเฟรมเรท<<<]___________
+_C0 30 FPS [Default]
+_L 0x20058CCC 0x1640000A
+_C0 ↑[#บังคับเฟรมเรทให้วิ่งอยู่ที่ 20 FPS -ขั้นทดสอบ-]
+_C0 60 FPS
+_L 0x20058CCC 0x00000000
+_C0 ↑[#บังคับเฟรมเรทให้วิ่งอยู่ที่ 60 FPS -ขั้นทดสอบ-]
+_C0 ________________[>>>สูตรทั่วไป<<<]________________
+_C0 Inf. Percentage
+_L 0x0010765C 0x00000064
+_C0 Inf. Percentage Points
+_L 0x101074A0 0x0000270F
+_C0 Inf. Points Against The Clock
+_L 0x201074A4 0x000F423F
+_C0 Inf. Points Of Light
+_L 0x1010749C 0x0000270F
+_C0 Max Score
+_L 0x20107498 0x000F423F
+_C0 Timer
+_L 0x20086164 0x46146301
+_C0 Timer [Disable]
+_L 0x20086164 0x00000000
+_S ULUS-10017
+_G Archer Maclean's Mercury [US]
+_C0 Infinite Time
+_L 0x0014EC3E 0x00000014
+_C0 Infinite Time V.2
+_L 0x2014EC3C 0x42C60000
+_C0 Infinite Time V.3
+_L 0x2014EC3C 0x42C70000
+_L 0x2014EC40 0x42C70000
+_S NPEZ-00203
+_G Archibald's Adventures (Mini) [EU]
+_C0 Invincible
+_L 0x2005D49C 0x03E00008
+_S NPUZ-00115
+_G Archibald's Adventures (Mini) [US]
+_C0 Invincible
+_L 0x2005D49C 0x03E00008
+_S NPEZ-00219
+_G Arctic Adventures: Polar's Puzzles (Mini) [EU]
+_C0 All Levels Solved/Unlocked on Win Challenge
+_L 0x20068E30 0x24020000
+_L 0x20068E48 0xAC820000
+_C0 Moves Counter
+_L 0x2002F774 0xAC850000
+_C0 Moves Counter [Disable]
+_L 0x2002F774 0x00000000
+_C0 Timer
+_L 0x20051750 0xE60D0008
+_C0 Timer [Disable]
+_L 0x20051750 0x00000000
+_S NPUZ-00114
+_G Arctic Adventures: Polar's Puzzles (Mini) [US]
+_C0 All Levels Solved/Unlocked on Win Challenge
+_L 0x20068E30 0x24020000
+_L 0x20068E48 0xAC820000
+_C0 Moves Counter
+_L 0x2002F774 0xAC850000
+_C0 Moves Counter [Disable]
+_L 0x2002F774 0x00000000
+_C0 Timer
+_L 0x20051750 0xE60D0008
+_C0 Timer [Disable]
+_L 0x20051750 0x00000000
+_S ULJM-05848
+_G Are You Alice? [JP]
+_C0 Book Open
+_L 0x81586ECC 0x00180002
+_L 0x00000001 0x00000000
+_C0 Extra Open
+_L 0x81586B88 0x008D0001
+_L 0x00000001 0x00000000
+_L 0x81586C8B 0x001F0001
+_L 0x00000001 0x00000000
+_L 0x01586C88 0x00000001
