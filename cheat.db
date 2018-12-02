@@ -4587,3 +4587,59 @@ _L 0x2000200C 0x2407FFFF
 _L 0x20002010 0x0A21B4D7
 _L 0x20002014 0xAE870340
 _L 0x2006D354 0x0A200800
+_S ULES-00753
+_G After Burner: Black Falcon [EU]
+_C0 Infinite Afterburner
+_L 0x20DC4780 0x40000000
+_C0 Infinite Cannon Rounds
+_L 0x20DC4890 0x3F800000
+_C0 Infinite Lives
+_L 0x00DC4990 0x00000009
+_C0 Infinite Missiles
+_L 0x00DC4A90 0x00000063
+_C0 Infinite Money
+_L 0x20DB2AD0 0x0098967F
+_C0 Infinite Primary Missiles
+_L 0x20DC4A90 0x00000063
+_C0 Infinite Secondary Missiles
+_L 0x20DC4B00 0x00000063
+_C0 Infinite Rockets
+_L 0x00DC4B00 0x00000063
+_C0 Unlock 4-Star Planes Weapons
+_L 0x20DB2A60 0x000493E0
+_S ULES-00785
+_G After Burner: Black Falcon [EU]
+_C0 Invinite Afterburner
+_L 0x20DC4780 0x3F800000
+_C0 Infinite Cannon Rounds
+_L 0x20DC4890 0x3F800000
+_C0 Infinite Lives
+_L 0x20DC4990 0x00000009
+_C0 Infinite Missiles
+_L 0x00DC4A90 0x00000015
+_C0 Infinite Money
+_L 0x20DB2AD0 0x0098967F
+_C0 Infinite Primary Missiles
+_L 0x20DC4A90 0x00000063
+_C0 Infinite Secondary Missiles
+_L 0x20DC4B00 0x00000063
+_C0 Infinite Rockets
+_L 0x00DC4B00 0x00000014
+_C0 Max Cash
+_L 0x20DC4650 0x3B9AC9FF
+_C0 Unlock 4-Star Planes Weapons
+_L 0x20DB2A60 0x000493E0
+_S ULUS-10244
+_G After Burner: Black Falcon [US]
+_C0 Invinite Afterburner
+_L 0x20DC4100 0x3F800000
+_C0 Infinite Cannon Rounds
+_L 0x20DC4210 0x3F800000
+_C0 Infinite Lives
+_L 0x20DC4310 0x00000009
+_C0 Infinite Primary Missiles
+_L 0x20DC4410 0x00000063
+_C0 Infinite Secondary Missiles
+_L 0x20DC4480 0x00000063
+_C0 Max Cash
+_L 0x20DC3FD0 0x3B9AC9FF
