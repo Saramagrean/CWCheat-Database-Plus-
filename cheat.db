@@ -5423,3 +5423,23 @@ _C0 Rondo - Money +999900
 _L 0x104B0520 0x00009999
 _C0 Rondo - Rest Max
 _L 0x004AC88D 0x00000099
+_S NPEZ-00025
+_G Alien Havoc (PlayStation Store) [EU]
+_C0 Infinite Lives
+_L 0x00352028 0x00000009
+_C0 Infinite Lives V.2
+_L 0x20352028 0x00000009
+_C0 Max Score
+_L 0x20352024 0x0098967F
+_S NPUZ-00008
+_G Alien Havoc (PlayStation Store) [US]
+_C0 99 Score
+_L 0x20741020 0x00970FDF
+_C0 Infinite Lives
+_L 0x00741028 0x00000009
+_C0 Infinite Lives V.2
+_L 0x20741028 0x00000009
+_C0 Max Score
+_L 0x20741024 0x0098967F
+_C0 Score = 99
+_L 0x20741020 0x00970FDF
