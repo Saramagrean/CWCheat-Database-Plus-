@@ -11,18 +11,23 @@ https://forums.ppsspp.org/showthread.php?tid=11961
 # Special Thanks. (ขอบคุณเป็นพิเศษ)
 
 LunaMoo (รวมสูตรแก้ไขปัญหา/เพิ่มประสิทธิภาพ/ช่วยควบคุม) :
+
 https://github.com/LunaMoo/PPSSPP_workarounds
 
 TAbdiukov (รวมสูตรเพิ่มประสิทธิภาพ/ช่วยควบคุม) :
+
 https://github.com/TAbdiukov/PPSSPP-patches
 
-Kabuto_Kun (รวมสูตรแก้ไขปัญหา/เพิ่มประสิทธิภาพ/ช่วยควบคุม)
+Kabuto_Kun (รวมสูตรแก้ไขปัญหา/เพิ่มประสิทธิภาพ/ช่วยควบคุม) :
+
 http://forums.ppsspp.org/showthread.php?tid=22787
 
 60 FPS Patch. (รวมสูตร 60 FPS) :
+
 http://forums.ppsspp.org/showthread.php?tid=22800
 
 Raing3 Code Archive (โค้ดต้นฉบับจากที่นี่ใช้ไม่ได้ ต้องแปลงกลับมาเป็น CWcheat อีกที) :
+
 https://raing3.gshi.org/psp-utilities/#!/code-archive/
 
 ...และตามรวมโค้ดเว็บสูตรอื่นๆ ที่ไม่ได้กล่าวถึง
