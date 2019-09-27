@@ -2,18 +2,20 @@
 Cheat Database for PPSSPP/PSP
 ฐานข้อมูลสูตร สำหรับอีมูเลเตอร์ PPSSPP และเครื่อง PSP
 
-Download. (เวอร์ชั่นล่าสุดอยู่เสมอ)
+# Download. (เวอร์ชั่นล่าสุดอยู่เสมอ)
 https://github.com/Saramagrean/CWCheat-Database-Plus-/archive/master.zip
 
-Orignal Thread. (เว็บฐานข้อมูลสูตรต้นฉบับ)
+# Orignal Thread. (เว็บฐานข้อมูลสูตรต้นฉบับ)
 https://forums.ppsspp.org/showthread.php?tid=11961
 
-Special Thanks: (ขอบคุณเป็นพิเศษ)
+# Special Thanks: (ขอบคุณเป็นพิเศษ)
 
 LunaMoo (รวมสูตรแก้ไขปัญหา/เพิ่มประสิทธิภาพ/ช่วยควบคุม)
 https://github.com/LunaMoo/PPSSPP_workarounds
+
 TAbdiukov (รวมสูตรเพิ่มประสิทธิภาพ/ช่วยควบคุม)
 https://github.com/TAbdiukov/PPSSPP-patches
+
 Kabuto_Kun (รวมสูตรแก้ไขปัญหา/เพิ่มประสิทธิภาพ/ช่วยควบคุม)
 http://forums.ppsspp.org/showthread.php?tid=22787
 
