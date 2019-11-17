@@ -5,7 +5,7 @@ Cheat Database for PPSSPP/PSP
 # Download. (เวอร์ชั่นล่าสุดอยู่เสมอ)
 https://github.com/Saramagrean/CWCheat-Database-Plus-/archive/master.zip
 
-# Orignal Thread. (เว็บฐานข้อมูลสูตรต้นฉบับ)
+# Original Thread. (เว็บฐานข้อมูลสูตรต้นฉบับ)
 https://forums.ppsspp.org/showthread.php?tid=11961
 
 # Special Thanks. (ขอบคุณเป็นพิเศษ)
