@@ -2,17 +2,17 @@
 
 ** CWcheat Database อัพเดท!! **
 
-ประจำวันที่ 16/09/2019
+ประจำวันที่ 29/11/2021
 
-เวอร์ชั่น: 0.01-0.98
+เวอร์ชั่น: 0.99
 
 ฐานข้อมูลสูตรทั้งหมด :
-- 2,519 เกม
-- 72,946 โค้ดรายชื่อ
-- 213,296 โค้ดสูตร
+- 2,601 เกม
+- 80,147 โค้ดรายชื่อ
+- 246,033 โค้ดสูตร
 
 • มีอะไรเพิ่มเข้ามาใหม่บ้าง:
-- ลบสูตรที่ซ้ำกันออกตั้งแต่ v.Original (คลีนไปได้ราวๆ 90%)
+- ลบสูตรที่ซ้ำกันออกตั้งแต่เวอร์ชั่น Original (คลีนไปได้ราวๆ 99%)
 - แก้ไขในบางเกมที่กดนำเข้าไฟล์สูตรแล้วแอพค้าง  และปิดการทำงานของสูตรที่ถูกเปิดใช้งานอยู่จากในฐานข้อมูลสูตรเวอร์ชั่นก่อนๆ ทั้งหมด
 - แก้ไขโค้ดสูตรในหลายๆ เกมที่ใช้งานไม่ได้ เนื่องจากโค้ดเกิน หรือตกหล่นใส่ไม่ครบแถว/บรรทัด
 - จัดเรียงหมวดหมู่ของสูตรแบ่งออกเป็น 5 หมวด ได้แก่ สูตรแก้ไขปัญหา, สูตรควบคุมเฟรมเรท, สูตรเพิ่มประสิทธิภาพ, สูตรช่วยในการควบคุม, สูตรทั่วไป เพื่อความสะดวกในการติ๊กใช้งาน
@@ -128,11 +128,12 @@
 - Assassin's Creed: Bloodlines (โซน EUR/USA)
 - Avatar - The Last Airbender (โซน USA)
 - Black Rock Shooter (โซน USA) [สูตรขั้น Beta]
+- Bleach: Soul Carnival 2 (โซน JPN) [ขั้น Alpha]
 - Burnout Dominator (โซน EUR/USA) [สูตรขั้น Beta]
 - Burnout Legend (โซน USA) [สูตรขั้น Beta]
 - Castlevania: The Dracula X Chronicles (โซน EUR)
 - Chili Con Carnage (โซน EUR/USA)
-- CODED ARMS (โซน EUR/USA)
+- Coded Arms (โซน EUR/USA)
 - Crazy Taxi: Double Punch (โซน JPN)
 - Crazy Taxi: Fare Wars (โซน EUR/USA)
 - Crisis Core: Final Fantasy VII (โซน USA)
@@ -143,10 +144,13 @@
 - Death Jr. II: Root of Evil (โซน EUR/USA)
 - Digimon Adventures (โซน JPN)
 - Digimon World ReDigitize (โซน JPN)
+- Dissidia: Final Fantasy (โซน USA/EUR-Multi5/USA-Demo/JPN)
 - Dissidia 012 Final Fantasy (โซน EUR/USA/AS) [สูตรขั้น Beta]
 - Dissidia 012 Prologus: Duodecim Final Fantasy DEMO (โซน USA) [สูตรขั้น Beta]
+- Driver 76 (โซน USA/EUR)
 - DTM Race Driver 2 (โซน EUR)
 - DTM Race Driver 3 Challenge (โซน EUR)
+- Dungeon Siege: Throne Of Agony (โซน EUR)
 - Eiyuu Densetsu: Ao no Kiseki (โซน JPN) [สูตรขั้น Beta]
 - Eiyuu Densetsu: Zero no Kiseki (โซน JPN) [สูตรขั้น Beta]
 - Fate Extra: CCC (โซน JPN) [สูตรขั้น Alpha]
@@ -167,6 +171,7 @@
 - God Eater 2 (โซน JPN)
 - Gods Eater Burst (โซน USA)
 - Gran Turismo (โซน USA)
+- - Grand Theft Auto: Chinatown Wars (โซน USA)
 - Grand Theft Auto: Liberty City Stories (โซน EUR/USA/USAv1)
 - Grand Theft Auto: Vice City Stories (โซน EUR) [สูตรขั้น Beta]
 - Gravity Crash Portable (โซน USA)
@@ -174,6 +179,7 @@
 - GTI Club Supermini Festa! (โซน USA)
 - GUN Showdown (โซน EUR + USA)
 - Gurumin: A Monstrous Adventure (โซน USA)
+- Harvest Moon: Boy & Girl (โซน USA) [ขั้น Alpha]
 - Hatsune Miku: Project Diva (โซน JPN)
 - Hatsune Miku: Project Diva 2nd (โซน JPN)
 - Hatsune Miku: Project Diva 2nd# (โซน JPN)
@@ -181,10 +187,13 @@
 - Hunter x Hunter Wonder Adventures (โซน JPN) [สูตรขั้น Beta]
 - Initial D: Street Stage (โซน JPN)
 - Jeanne d'Arc (โซน USA)
+- K-On! Houkago Live!! HD Ver. (โซน JPN) [ขั้น Alpha]
 - Kao Challengers (โซน EUR/USA)
+- Kidou Senshi Gundam AGE: Cosmic Drive (โซน JPN) [ขั้น Beta]
 - Kidou Senshi Gundam AGE: Universe Accel (โซน JPN) [สูตรขั้น Beta]
 - Kingdom Hearts: Birth By Sleep (โซน EUR/USA/JPN)
 - Kingdom Hearts: Birth By Sleep Final Mix (โซน JPN)
+- Last Ranker (โซน JPN) [ขั้น ALPHA]
 - LittleBigPlanet (โซน EUR แต่โซน USA เฉพาะตัวเกม DEMO)
 - Lord of Apocalypse (โซน JPN)
 - Lord of Arcana (โซน EUR/USA)
@@ -206,7 +215,7 @@
 - Monster Hunter Freedom Unite (โซน USA สูตรขั้น Alpha) (โซน EUR สูตรขั้น Beta)
 - Motorstorm: Arctic Edge (โซน EUR/USA/JAP)
 - N.O.V.A. (โซน EUR/USA)
-- Naruto Shippuden: Ultimate Ninja Impact (โซน EUR) [สูตรขั้น Alpha]
+- Naruto Shippuden: Ultimate Ninja Impact (โซน USA สูตรขั้น Beta) (โซน EUR สูตรขั้น Alpha)
 - Nayuta no Kiseki (โซน JPN)
 - NBA Street Showdown (โซน USA)
 - Need For Speed: Carbon Own the City (โซน EUR)
@@ -223,6 +232,7 @@
 - Phantasy Star Portable 2 (โซน USA)
 - Phantasy Star Portable 2: Infinity (โซน JPN)
 - PhotoKano (โซน JPN สูตรขั้น beta)
+- Pro Evolution Soccer 2014 (โซน USA/EUR) [ขั้น Alpha]
 - Pursuit Force (โซน EUR/USA)
 - Pursuit Force Daitsuiseki (โซน JPN)
 - Pursuit Force: Extreme Justice (โซน EUR/USA)
@@ -230,6 +240,7 @@
 - Rengoku (โซน USA)
 - Rengoku 2 (โซน USA)
 - Resistance: Retribution (โซน USA)
+- Saint Seiya Omega Ultimate Cosmo (โซน JPN) [ขั้น Alpha]
 - Saru Get You: Piposaru Racer (โซน JPN)
 - Sega Rally (โซน EUR/JPN)
 - Sega Rally Revo (โซน USA)
@@ -239,10 +250,12 @@
 - Sonic Rivals (โซน EUR/USA)
 - Sonic Rivals 2 (โซน EUR)
 - Spider-Man 2 (โซน EUR/USA/JPN)
+- SpinOut (โซน EUR)
 - Split/Second (โซน USA)
 - Split/Second: Velocity (โซน EUR)
 - Splinter Cell Essentials (โซน EUR/USA)
 - Star Wars: Battlefront - Elite Squadron (โซน EUR/USA)
+- Star Wars: Battlefront - Renegade Squadron (โซน USA)
 - Star Wars: Battlefront II (โซน EUR)
 - Star Wars: The Force Unleashed (โซน EUR/USA)
 - Super Dangan Ronpa 2 (โซน JPN)
@@ -267,11 +280,14 @@
 - Time Travelers (โซน JPN)
 - ToCA/DTM Race Driver 2 / V8 Supercars Australia 2 (โซน USA/EUR)
 - ToCA/DTM Race Driver 3 Challenge (โซน EUR/Demo)
+- Tom Clancy's Splinter Cell Essentials (โซน USA/EUR)
 - Tony Hawk's Project 8 (โซน EUR/USA)
 - Tony Hawk's Underground 2: Remix (โซน EUR/USA)
 - Toukiden Kiwami (โซน JPN) [เฉพาะตัวเกมเวอร์ชั่น 1.05 ขึ้นไป]
 - Toy Story 3 (โซน EUR/USA) [สูตรขั้น Beta]
-- Ultimate Ghosts 'n Goblins (โซน EUR/USA)
+- Twisted Metal: Head-On (โซน USA)
+- Ultimate Ghosts 'n Goblins (โซน EUR/USA/JPN)
+- Valhalla Knights 2: Battle Stance (โซน USA)
 - Valkyria Chronicles II (โซน USA)
 - Valkyria Chronicles 3: Extra Edition (โซน JPN)
 - Warriors Orochi (โซน EUR/USA)
