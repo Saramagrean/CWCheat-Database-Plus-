@@ -26,7 +26,10 @@ http://forums.ppsspp.org/showthread.php?tid=22787
 
 http://forums.ppsspp.org/showthread.php?tid=22800
 
-Raing3 Code Archive (โค้ดต้นฉบับจากที่นี่ใช้ไม่ได้ ต้องแปลงกลับมาเป็น CWcheat อีกที) :
+Widescreen Patches (รวมสูตรปรับภาพเต็มจอสำหรับหน้าจอกว้าง) :
+https://forums.ppsspp.org/showthread.php?tid=26189
+
+Raing3 Code Archive (โค้ดต้นฉบับจากที่นี่ใช้ไม่ได้ ต้องแปลงกลับมาเป็น CWCheat อีกที) :
 
 https://raing3.gshi.org/psp-utilities/#!/code-archive/
 
