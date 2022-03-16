@@ -30,6 +30,10 @@ Widescreen Patches (รวมสูตรปรับภาพเต็มจอ
 
 https://forums.ppsspp.org/showthread.php?tid=26189
 
+GameHacking (รวมสูตรเกม PSP)
+
+https://gamehacking.org/system/psp/all
+
 Raing3 Code Archive (โค้ดต้นฉบับจากที่นี่ใช้ไม่ได้ ต้องแปลงกลับมาเป็น CWCheat อีกที) :
 
 https://raing3.gshi.org/psp-utilities/#!/code-archive/
