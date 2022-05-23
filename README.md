@@ -3,7 +3,15 @@ Cheat Database for PPSSPP/PSP
 ฐานข้อมูลสูตร สำหรับอีมูเลเตอร์ PPSSPP และเครื่อง PSP
 
 # Download. (เวอร์ชั่นล่าสุดอยู่เสมอ)
+
+For PPSSPP Official.
 https://github.com/Saramagrean/CWCheat-Database-Plus-/archive/master.zip
+
+For PPSSPP Mod (New Cheat Interface).
+https://github.com/Saramagrean/CWCheat-Database-Plus-/archive/header.zip
+
+PPSSPP Mod.
+(Uploading...)
 
 # Original Thread. (เว็บฐานข้อมูลสูตรต้นฉบับ)
 https://forums.ppsspp.org/showthread.php?tid=11961
