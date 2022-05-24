@@ -7,11 +7,11 @@ Cheat Database for PPSSPP/PSP
 For PPSSPP Official.
 https://github.com/Saramagrean/CWCheat-Database-Plus-/archive/master.zip
 
-For PPSSPP Mod (New Cheat Interface).
+For PPSSPP Mod (Include New Cheat List).
 https://github.com/Saramagrean/CWCheat-Database-Plus-/archive/header.zip
 
-PPSSPP Mod.
-(Uploading...)
+PPSSPP Mod. (Source from iota97)
+https://www.facebook.com/PPSSPPManiac/posts/811314306015370
 
 # Original Thread. (เว็บฐานข้อมูลสูตรต้นฉบับ)
 https://forums.ppsspp.org/showthread.php?tid=11961
