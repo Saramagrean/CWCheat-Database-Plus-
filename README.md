@@ -1,8 +1,5 @@
 # CWCheat-Database-Plus-
 
-**[UPDATES TO THE ORIGINAL]**
-  - More Cheats for *Need For Speed™ Own The City*
-
 Cheat Database for PPSSPP/PSP
 ฐานข้อมูลสูตร สำหรับอีมูเลเตอร์ PPSSPP และเครื่อง PSP
 
