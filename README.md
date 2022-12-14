@@ -4,19 +4,19 @@ Cheat Database for PPSSPP/PSP
 
 # Download. (เวอร์ชั่นล่าสุดอยู่เสมอ)
 
-Simple Look (for PSP/PPSSPP)
+- Simple Look (for PSP/PPSSPP)
 
-<a href="https://ibb.co/F5XBf5K"><img src="https://i.ibb.co/1rM9prL/CWC-ND1.png" alt="CWC-ND1" border="0"></a>
+<a href="https://ibb.co/2ZzpVMn"><img src="https://i.ibb.co/mNnPZyD/CWCheat-0.jpg" alt="CWCheat-0" border="0"></a>
 
-<a href="https://github.com/Saramagrean/CWCheat-Database-Plus-/archive/master.zip"> here... </a>
+<a href="https://github.com/Saramagrean/CWCheat-Database-Plus-/archive/master.zip"> Download here... </a>
 
 ========================================================================
 
 - New Look (for PPSSPP Mod only)
 
-<a href="https://ibb.co/N9JB2gg"><img src="https://i.ibb.co/WkMJvNN/CWC-ND.png" alt="CWC-ND" border="0"></a>
+<a href="https://ibb.co/9Z5XjvR"><img src="https://i.ibb.co/rdrPJtn/CWCheat-1.jpg" alt="CWCheat-1" border="0"></a>
 
-<a href="https://github.com/Saramagrean/CWCheat-Database-Plus-/archive/header.zip"> here... </a> and get PPSSPP Mod from <a href="https://www.facebook.com/PPSSPPManiac/posts/811314306015370"> here... </a> (Source from <a href="https://github.com/iota97/ppssppiota97"> iota97 </a> ) 
+<a href="https://github.com/Saramagrean/CWCheat-Database-Plus-/archive/header.zip"> Download here... </a> and grab PPSSPP Mod (based-on v1.13.2-2494) from <a href="https://drive.google.com/drive/folders/1oXBcE2srT1gEqpOXm7XpumZFnZrxgJX_?usp=sharing"> here... </a> (Source from <a href="https://github.com/iota97/ppssppiota97"> iota97 </a> ) 
 
 # Original Thread. (เว็บฐานข้อมูลสูตรต้นฉบับ)
 https://forums.ppsspp.org/showthread.php?tid=11961
