@@ -4,7 +4,7 @@ Cheat Database for PPSSPP/PSP
 
 # Download. (เวอร์ชั่นล่าสุดอยู่เสมอ)
 
-- Simple Look (for PSP/PPSSPP) <a href="https://github.com/Saramagrean/CWCheat-Database-Plus-/archive/master.zip">Here... </a>
+<a href="https://github.com/Saramagrean/CWCheat-Database-Plus-/archive/master.zip">Click Here... </a>
 
 <a href="https://ibb.co/2ZzpVMn"><img src="https://i.ibb.co/mNnPZyD/CWCheat-0.jpg" alt="CWCheat-0" border="0"></a>
 
