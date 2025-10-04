@@ -23,7 +23,7 @@ https://forums.ppsspp.org/showthread.php?tid=11961
 
 <a href="http://forums.ppsspp.org/showthread.php?tid=22787"> Kabuto_Kun </a> (รวมสูตรแก้ไขปัญหา/เพิ่มประสิทธิภาพ/ช่วยควบคุม)
 
-<a href="https://github.com/TAbdiukov/PPSSPP-patches"> TAbdiukov </a> (รวมสูตรเพิ่มประสิทธิภาพ/ช่วยควบคุม)
+<a href="https://github.com/TAbdiukov/PPSSPP-patches"> Tim Abdiukov (TAbdiukov) </a> (รวมสูตรเพิ่มประสิทธิภาพ/ช่วยควบคุม)
 
 <a href="http://forums.ppsspp.org/showthread.php?tid=22800"> 60 FPS Patch </a> (รวมสูตร 60 FPS)
 
