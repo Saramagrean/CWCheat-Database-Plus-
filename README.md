@@ -30,6 +30,9 @@ https://forums.ppsspp.org/showthread.php?tid=11961
 
 <a href="https://forums.ppsspp.org/showthread.php?tid=26189"> Widescreen Patches </a> (รวมสูตรปรับภาพเต็มจอสำหรับหน้าจอกว้าง)
 
-<a href="[https://forums.ppsspp.org/forumdisplay.php?fid=31](https://raing3.gshi.org/psp-utilities/#!/code-archive/)"> Raing3 Code Archive </a> (โค้ดต้นฉบับจากที่นี่ใช้ไม่ได้ ต้องแปลงกลับมาเป็น CWCheat อีกที) :
+<a href="https://forum.gamehacking.org/forum/video-game-hacking-and-development/recent-generation-hacking/5951-raing3-s-psp-cheat-making-tools-stuff"> Raing3 Code Archive </a> (โค้ดต้นฉบับจากที่นี่ใช้ไม่ได้ ต้องแปลงกลับมาเป็น CWCheat อีกที)
+
+<a href="https://wikiwiki.jp/cwcheat/"> CWCheat Code まとめ Wiki </a>
+
 
 ...และตามเว็บรวมโค้ดสูตรเกม PSP อื่นๆ ที่ไม่ได้กล่าวถึง :)
