@@ -8,7 +8,7 @@ Cheat Database for PPSSPP/PSP
 เวอร์ชั่นล่าสุดอยู่เสมอ
 <a href="https://github.com/Saramagrean/CWCheat-Database-Plus-/archive/master.zip">>>> Click Here <<< </a>
 
-<a href="https://ibb.co/d4K3Ytw9"><img src="https://i.ibb.co/N2YkBrdh/CWC.png" alt="CWC" border="0"></a>
+<a href="https://ibb.co/wrRbF0fM"><img src="https://i.ibb.co/Qjfq3b4r/cwc-new.png" alt="cwc-new" border="0"></a>
 
 # Original Thread.
 เว็บฐานข้อมูลสูตรต้นฉบับ
