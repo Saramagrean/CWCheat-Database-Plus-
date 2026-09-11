@@ -261,7 +261,7 @@ _C0 Defeat At Blow Enemy
 _L 0x20126B34 0xAE6000A8
 _C0 E Virus Core Total
 _L 0x10689CB2 0x00000032
-_C0 Easy Lvl Up (1 Kill For 1 Lvl Up)
+_C0 Easy Lvl. Up (1 Kill For 1 Lvl. Up)
 _L 0x200AA328 0x240503E8
 _C0 Easy Union Combo: Excellent
 _L 0x201BE650 0x3C030001
@@ -6042,7 +6042,7 @@ _L 0x00001168 0xFFFFFFFF
 _L 0xDC000000 0x00000090
 _L 0xD2000000 0x00000000
 _S ULJS-00413
-_G AKB1/48: Idol To Guam De Koishitara... (Oukusho Ni wa Shutsusa na Ide Kudasai! Box) [JP]
+_G AKB1/48: Idol To Guam De Koishitara... (Oukusho Ni Wa Shutsusa Na Ide Kudasai! Box) [JP]
 _C0 Steel Lead Stock Konfu
 _L 0x201D6AE8 0x08800000
 _L 0x201D6AE8 0x00000000
@@ -9414,7 +9414,7 @@ _C0 Zoom Mod: Zoom Out
 _L 0x20327A50 0x3F000000
 _L 0x20327A54 0x3F000000
 _S ULES-00669
-_G Arthur and the Invisibles (EU)
+_G Arthur And The Invisibles (EU)
 _C0 Camera Always Follow Player When Jump
 _L 0x200A58A0 0x10000018
 _C0 Jump In Midair [Press R]
@@ -9538,7 +9538,7 @@ _L 0x200A7B5C 0x14850006
 _L 0x200A7B70 0x10850003
 _C0 _________[>>>FPS Cheats<<<]_________
 _L 0x00000000 0x00000000
-_C0 30 FPS v.2 [Default]
+_C0 30 FPS v2 [Default]
 _L 0xE00C0000 0x000D89D0
 _L 0x200D89D0 0x0090202A
 _L 0x202A313C 0x3D088889
@@ -9554,7 +9554,7 @@ _L 0x200BEAA0 0x3C0541F0
 _L 0x200D8A94 0x3C0441F0
 _C0 ↑[#Force FPS To Run At 30 FPS -Version 2-]
 _L 0x00000000 0x00000000
-_C0 60 FPS v.2
+_C0 60 FPS v2
 _L 0xE00C202A 0x000D89D0
 _L 0x200D89D0 0x34040000
 _L 0x202A313C 0x3C888889
@@ -10621,7 +10621,7 @@ _C0 Lighting Reversal
 _L 0x20263364 0x3C05BF80
 _C0 ↑[#Enable At Animus Menu & Hit Continue Session]
 _L 0x00000000 0x00000000
-_C0 Mark & Recall (Press D-pad: Up/Down)
+_C0 Mark & Recall (Press D-Pad: Up/Down)
 _L 0x20104538 0x0A200200
 _L 0x20000800 0x3C0808AB
 _L 0x20000804 0x8D089BFC
@@ -11018,7 +11018,7 @@ _C0 Bracelet Of Luck 1.5x Exp.
 _L 0x0042F868 0x00000063
 _C0 Bracer Of Peace Imu To Insanity
 _L 0x0042F8E4 0x00000063
-_C0 Dalphyn Shoes: Incr Spd w/In Field
+_C0 Dalphyn Shoes: Incr Spd W/In Field
 _L 0x0042F844 0x00000063
 _C0 Devil Claw Gain 1/2 HP From Attack
 _L 0x0042F8E8 0x00000063
@@ -11052,11 +11052,11 @@ _C0 Lloyd: 9999 Max MP
 _L 0x1042FC34 0x0000270F
 _C0 Max Gelder
 _L 0x1042FC00 0x0001869F
-_C0 Max Lvl./Exp. Lloyd
+_C0 Max Lvl../Exp. Lloyd
 _L 0x104302AC 0x00005000
-_C0 Max Lvl./Exp. Rendalf
+_C0 Max Lvl../Exp. Rendalf
 _L 0x1043171C 0x00005000
-_C0 Max Lvl./Exp. Ylenne
+_C0 Max Lvl../Exp. Ylenne
 _L 0x1043097C 0x00005000
 _C0 Protect Amulet 20 Def.
 _L 0x0042F840 0x00000063
@@ -11114,7 +11114,7 @@ _L 0x20345F88 0x0000000B
 _C0 Score Increase
 _L 0x002C8140 0x0098967F
 _S UCJM-06045
-_G Atelier Of El Krone ~Dear for Otomate~ [JP]
+_G Atelier Of El Krone ~Dear For Otomate~ [JP]
 _C0 Popularity Max
 _L 0x012A6AD2 0x0000000D
 _S ULJS-00234
@@ -12339,7 +12339,7 @@ _L 0x00000032 0x00000000
 _C0 Item Make
 _L 0x8162764D 0x00150001
 _L 0x00000063 0x00000000
-_C0 Max Exp. [Lvl 50]
+_C0 Max Exp. [Lvl. 50]
 _L 0x215F07A4 0x000F423F
 _C0 Max HP [While Engaged]
 _L 0x10CAF31C 0x0000270F
@@ -14148,7 +14148,7 @@ _C0 Max Money
 _L 0xC0060EF4 0x00000000
 _C0 Max Slashes
 _L 0x2004B9C0 0x240403E7
-_C0 Quick Lvl-100 (Ichigo)
+_C0 Quick Lvl.-100 (Ichigo)
 _L 0x206A8870 0x000F4240
 _C0 Quick Weapon Level Gain
 _L 0x20065AFC 0x24F10010
@@ -14984,7 +14984,7 @@ _L 0x114BF04C 0x0000FF00
 _C0 Time Max
 _L 0x114BF04C 0x00000000
 _S ULJM-05769
-_G Boku wa Koukuu Kanseikan: Airport Hero Haneda [JP]
+_G Boku Wa Koukuu Kanseikan: Airport Hero Haneda [JP]
 _C0 Autoclear Score Max
 _L 0x20034280 0xAC8000A8
 _C0 Operation All Stage HI Score
@@ -15001,7 +15001,7 @@ _L 0x2003427C 0x24020001
 _C0 Stress Not Increase
 _L 0x200342A0 0x24030000
 _S ULJM-05454
-_G Boku wa Koukuu Kanseikan: Airport Hero Naha (EA Best Hits) [JP]
+_G Boku Wa Koukuu Kanseikan: Airport Hero Naha (EA Best Hits) [JP]
 _C0 Unlock All Challenge Mode Stages
 _L 0x20170E38 0x00000006
 _L 0xC0000000 0x00000005
@@ -15026,7 +15026,7 @@ _L 0xD2000000 0x00000000
 _C0 Unlock All Operation Mode Stages
 _L 0x20170E00 0x00000006
 _S ULJM-05452
-_G Boku wa Koukuu Kanseikan: Airport Hero Narita (EA Best Hits) [JP]
+_G Boku Wa Koukuu Kanseikan: Airport Hero Narita (EA Best Hits) [JP]
 _C0 Unlock All Challenge Mode Stages
 _L 0x20166BD8 0x00000006
 _L 0xC0000000 0x00000005
@@ -15036,7 +15036,7 @@ _L 0xD2000000 0x00000000
 _C0 Unlock All Operation Mode Stages
 _L 0x20166BA0 0x00000006
 _S ULJM-05453
-_G Boku wa Koukuu Kanseikan: Airport Hero New Chitose (EA Best Hits) [JP]
+_G Boku Wa Koukuu Kanseikan: Airport Hero New Chitose (EA Best Hits) [JP]
 _C0 Unlock All Challenge Mode Stages
 _L 0x2018239C 0x00000006
 _L 0xC0000000 0x00000005
@@ -15204,7 +15204,7 @@ _L 0x00001010 0x00000000
 _L 0xD0000001 0x10004040
 _L 0x50001010 0x0000000C
 _L 0x004F1B40 0x00000000
-_C0 ↑[#Press x+↑=Position/x+↓=Take Location]
+_C0 ↑[#Press X+↑=Position/X+↓=Take Location]
 _L 0x00000000 0x00000000
 _C0 Props Items 96 (1st)
 _L 0x404D1EEC 0x003C0001
@@ -19006,7 +19006,7 @@ _L 0x20768218 0x00000000
 _C0 Timer [Disable]
 _L 0x20768218 0x00000001
 _S UCES-01217
-_G Buzz! De Slimste van Nederland [NL]
+_G Buzz! De Slimste Van Nederland [NL]
 _C0 Multi: Options 1, 2, 3, 4 Correct
 _L 0x203CD5D0 0x3F800000
 _L 0x203CD5D8 0x40000000
@@ -19356,7 +19356,7 @@ _L 0x20777C98 0x00000000
 _C0 Timer [Disable]
 _L 0x20777C98 0x00000001
 _S UCES-01207
-_G Buzz! Quem e o Genio Portugues [EU]
+_G Buzz!: Quem É o Génio Português? [EU]
 _C0 Option 1 Always Correct
 _L 0x203B3CD4 0x3F800000
 _C0 Option 2 Always Correct
@@ -19579,15 +19579,15 @@ _C0 Walk Through Walls [Disable]
 _L 0x20200E6C 0x3C033F80
 _S ULUS-10385
 _G Cabela's Legendary Adventures [US]
-_C0 All This included In This Pack
+_C0 All This Included In This Pack
 _L 0x205E10C4 0x3B9AC9FF
 _C0 Full Screen Scope
 _L 0x204026E8 0x3F000000
 _C0 Inf. Balls
 _L 0x005A7418 0x00000063
-_C0 Inf. objective
+_C0 Inf. Objective
 _L 0x205E10DC 0x3B9AC9FF
-_C0 Inf. Shots fiRed & Fire Accuracy
+_C0 Inf. Shots Fired & Fire Accuracy
 _L 0x2089194C 0x3B9AC9FF
 _C0 Infinite Ammo/No Reload
 _L 0x20001000 0x3C0808DA
@@ -19939,10 +19939,10 @@ _L 0x00020001 0x0000020C
 _C0 Infinite [Grenades] v2
 _L 0xFFFFFFFF 0x003223F4
 _L 0x0000020C 0x00000004
-_C0 Infinite [Kar98-k]
+_C0 Infinite [Kar98-K]
 _L 0x603223F4 0x00000005
 _L 0x00020001 0x00000140
-_C0 Infinite [Kar98-k] v2
+_C0 Infinite [Kar98-K] v2
 _L 0xFFFFFFFF 0x003223F4
 _L 0x00000140 0x00000005
 _C0 Infinite [Kar98-K (Scoped)]
@@ -20072,7 +20072,7 @@ _C0 Inf. Lives (Eco Fighters)
 _L 0x012B9DE8 0x00000002
 _C0 Inf. Lives (Exed Exes)
 _L 0x00581E87 0x00000004
-_C0 Inf. Lives (Ghost n Goblins)
+_C0 Inf. Lives (Ghost'n Goblins)
 _L 0x00910A00 0x00000009
 _C0 Inf. Lives (Gunsmoke)
 _L 0x0056D858 0x00000004
@@ -20082,7 +20082,7 @@ _C0 Inf. Lives (King Of Dragons)
 _L 0x00DF94A0 0x00000032
 _C0 Inf. Lives (SonSon)
 _L 0x00611E44 0x00000003
-_C0 Inf. Lives (Super Ghost N Goblins)
+_C0 Inf. Lives (Super Ghost'n Goblins)
 _L 0x009B02A4 0x00000009
 _C0 Inf. Lives (Vulgus)
 _L 0x00158598 0x00000004
@@ -20176,13 +20176,13 @@ _L 0x00020000 0x00900090
 _C0 Nearly Unstoppable 3 v2
 _L 0x209F1AC8 0x00010001
 _L 0x00020001 0x00900090
-_C0 Shot Lvl 1 (Exed Exes)
+_C0 Shot Lvl. 1 (Exed Exes)
 _L 0x00581E95 0x00000006
-_C0 Shot Lvl 2 (Exed Exes)
+_C0 Shot Lvl. 2 (Exed Exes)
 _L 0x00581E95 0x00000007
-_C0 Shot Lvl 3 (Exed Exes)
+_C0 Shot Lvl. 3 (Exed Exes)
 _L 0x00581E95 0x00000008
-_C0 Shot Lvl 4 (Exed Exes)
+_C0 Shot Lvl. 4 (Exed Exes)
 _L 0x00581E95 0x0000000F
 _C0 Street Fighter II Champion Edition: Nearly Unstoppable
 _L 0x209E8D08 0x00010001
@@ -20926,7 +20926,7 @@ _L 0x20001008 0x57600001
 _L 0x2000100C 0x00008021
 _L 0x20001010 0x03E00008
 _L 0x20001014 0xA4800086
-_C0 SotN Richter Brandish whip Fix [Disable]
+_C0 SotN Richter Brandish Whip Fix [Disable]
 _L 0xE0040001 0x0010000C
 _L 0xE0030406 0x00ACC878
 _L 0x20ACC878 0x8C637D70
@@ -22457,23 +22457,23 @@ _S NPUH-10114
 _G Cladun x2 (PlayStation Store) [US]
 _C0 1000 Fame
 _L 0x111F24A6 0x000003E8
-_C0 1st Bottom Sub Quick Lvl Up
+_C0 1st Bottom Sub Quick Lvl. Up
 _L 0x111CB6F6 0x00004BE0
-_C0 1st Left Sub Quick Lvl Up
+_C0 1st Left Sub Quick Lvl. Up
 _L 0x111CB6FA 0x00004BE0
-_C0 1st Right Sub Quick Lvl Up
+_C0 1st Right Sub Quick Lvl. Up
 _L 0x111CB6FE 0x00004BE0
-_C0 1st Top Sub Quick Lvl Up
+_C0 1st Top Sub Quick Lvl. Up
 _L 0x111CB702 0x00004BE0
 _C0 24000 Gold
 _L 0x111F24E4 0x00005DC0
-_C0 2nd Bottom Sub Quick Lvl Up
+_C0 2nd Bottom Sub Quick Lvl. Up
 _L 0x111CB706 0x00004BE0
-_C0 2nd Left Sub Quick Lvl Up
+_C0 2nd Left Sub Quick Lvl. Up
 _L 0x111CB70A 0x00004BE0
-_C0 2nd Right Sub Quick Lvl Up
+_C0 2nd Right Sub Quick Lvl. Up
 _L 0x111CB70E 0x00004BE0
-_C0 2nd Top Sub Quick Lvl Up
+_C0 2nd Top Sub Quick Lvl. Up
 _L 0x111CB712 0x00004BE0
 _C0 300 Fame
 _L 0x111F24A6 0x0000012C
@@ -22638,7 +22638,7 @@ _L 0x21203060 0x0001869F
 _L 0x21203068 0x0001869F
 _C0 Item Drop Rate
 _L 0x111CB680 0x000003E7
-_C0 Main Char. Quick Lvl Up
+_C0 Main Char. Quick Lvl. Up
 _L 0x111CB716 0x00004BE0
 _C0 Mana
 _L 0x812016CC 0x00140694
@@ -23601,9 +23601,9 @@ _L 0x20001F70 0x341100FA
 _L 0x20001F74 0xAC511978
 _L 0x20001F78 0x03E00008
 _L 0x20001F7C 0x8FBF000C
-_C0 ↑[#Activate In Terminal Menu & Enter Database Once Then Leave & Enter Start Battle Menu, You Can Then Leave, Deactivate The Cheat & Save Your Game In A Different Slot To Be Safe, That Might Be important As I'm Not Sure If It Breaks Anything, I Had Most Stuff Already When I Started Making It]
+_C0 ↑[#Activate In Terminal Menu & Enter Database Once Then Leave & Enter Start Battle Menu, You Can Then Leave, Deactivate The Cheat & Save Your Game In A Different Slot To Be Safe, That Might Be Important As I'm Not Sure If It Breaks Anything, I Had Most Stuff Already When I Started Making It]
 _L 0x00000000 0x00000000
-_C0 ↑↑[#Note: Weapons Are Added Without Ammo, Just Use Infinite Ammo Cheat & Toggle Between Them In-Game To Get Some Free Ammo Or Find It While Playing;p]
+_C0 ↑↑[#Note: Weapons Are Added Without Ammo, Just Use Infinite Ammo Cheat & Toggle Between Them In-Game To Get Some Free Ammo Or Find It While Playing ;p]
 _L 0x00000000 0x00000000
 _C0 Unlock All Items [Disable]
 _L 0x2015AEF4 0x82020000
@@ -24261,7 +24261,7 @@ _L 0x21253C50 0x00000063
 _C0 Shutten Para Max
 _L 0x21253C5C 0x00000063
 _S NPJH-50583
-_G Conception: Ore No Kodomo o Unde Kure!! (PlayStation Store) [JP]
+_G Conception: Ore No Kodomo Wo Unde Kure!! (PlayStation Store) [JP]
 _C0 1st Twin - 000 Boy
 _L 0x60491AB8 0x00000000
 _L 0x00000001 0x0000006A
@@ -25247,9 +25247,9 @@ _C0 Inf. Summons
 _L 0x007285C8 0x000000FF
 _C0 Inf. Summons v2
 _L 0x207285C8 0x000000FF
-_C0 Inf. Summons Lvl 1 Stage 1
+_C0 Inf. Summons Lvl. 1 Stage 1
 _L 0x00724308 0x000000C8
-_C0 Inf. Summons Lvl 1 Stage 1 v2
+_C0 Inf. Summons Lvl. 1 Stage 1 v2
 _L 0x20724308 0x000000C8
 _C0 Infinite Base Resistance
 _L 0x2003D098 0xAD095A44
@@ -25336,7 +25336,7 @@ _L 0xD0000000 0x10000100
 _L 0x200A4898 0x00000000
 _C0 In Fight Infinite Use Stage Prop.
 _L 0xC00B3B9C 0x00000000
-_C0 Infinite escapes From 2ch
+_C0 Infinite Escapes From 2ch
 _L 0xC009FAB0 0x00000000
 _C0 Item All
 _L 0x21683908 0x00000026
@@ -25578,7 +25578,7 @@ _L 0x11686B03 0xA6F18484
 _L 0xED3635F4 0x4DE65270
 _L 0xAF947E95 0xBB05E480
 _L 0x0A3E084B 0x09E80000
-_C0 Full Wide ring
+_C0 Full Wide Ring
 _L 0xF0390C07 0x68CE0A02
 _L 0xD7CA3454 0x49FADC90
 _L 0x0D4DCCFA 0x2EC73C08
@@ -25587,7 +25587,7 @@ _L 0x11983B03 0xA6F18484
 _L 0xED3635F4 0x4DE65270
 _L 0xAF947E95 0xBB05E480
 _L 0x0A3E084B 0x09E80000
-_C0 Full Wide shoes
+_C0 Full Wide Shoes
 _L 0xF002F507 0x380D6E02
 _L 0xD6CA3055 0x48FAD891
 _L 0x0D4DCCFA 0x2EC73C08
@@ -26550,7 +26550,7 @@ _L 0x2024267C 0x00000063
 _L 0x00020001 0x00000000
 _S ULES-01045
 _G Crisis Core: Final Fantasy VII [EU]
-_C0 6 Emplacements pour Matiria Dispo.
+_C0 6 Emplacements Pour Matiria Dispo.
 _L 0x20224455 0x00000006
 _C0 6 Materia Slots
 _L 0x20224455 0x00000006
@@ -26638,7 +26638,7 @@ _L 0x20001018 0x3C014000
 _L 0x2000101C 0xAE01044C
 _L 0x2000102C 0x0A25A4F6
 _L 0x2015D168 0x0E200400
-_C0 Battle Motion Speed Mod: Zack est Plus Rapide
+_C0 Battle Motion Speed Mod: Zack Est Plus Rapide
 _L 0x20001000 0x14110004
 _L 0x20001004 0x3C013FC0
 _L 0x20001008 0xAE01044C
@@ -26646,7 +26646,7 @@ _L 0x2000100C 0x3C013F40
 _L 0x20001010 0xAE010064
 _L 0x2000102C 0x0A25A4F6
 _L 0x2015D168 0x0E200400
-_C0 Battle Motion Speed Mod: Zack est Vraiment Plus Rapide
+_C0 Battle Motion Speed Mod: Zack Est Vraiment Plus Rapide
 _L 0x20001000 0x14110004
 _L 0x20001004 0x3C013FC0
 _L 0x20001008 0xAE01044C
@@ -27510,7 +27510,7 @@ _C0 Double Magic
 _L 0x702451DE 0x00000040
 _C0 Equip 6 Materias
 _L 0x00223AD5 0x00000006
-_C0 Have Lvl 99
+_C0 Have Lvl. 99
 _L 0x00244E6E 0x00000063
 _C0 Infinite Life
 _L 0x20244E48 0x0001869F
@@ -27577,13 +27577,13 @@ _L 0x2009E1F8 0x3C053F00
 _L 0x201036E0 0x3C043F00
 _C0 ↑[#Force FPS To Run At 60 FPS]
 _L 0x00000000 0x00000000
-_C0 60 FPS v.2
+_C0 60 FPS v2
 _L 0x200065A0 0x00000000
 _L 0x20006644 0x00000000
 _L 0x201036E0 0x3C043F00
 _C0 ↑[#Force FPS To Run At 60 FPS -Version 2-]
 _L 0x00000000 0x00000000
-_C0 60 FPS v.2 [Off]
+_C0 60 FPS v2 [Off]
 _L 0x200065A0 0x10800015
 _L 0x20006644 0x1480FFFB
 _L 0x201036E0 0x3C043F80
@@ -30994,7 +30994,7 @@ _C0 Screen (32:9) SuperWide
 _L 0x2081E6A8 0x3F99999A
 _C0 _________[>>>General Cheats<<<]_________
 _L 0x00000000 0x00000000
-_C0 @ Must be On!!!
+_C0 @ Must Be On!!!
 _L 0x1020BF88 0x00003F80
 _L 0x10166570 0x00003F80
 _L 0x10101850 0x00003F80
@@ -31195,7 +31195,7 @@ _C0 Infinite Insecticide: Vehicle
 _L 0x20198AF4 0x00000000
 _C0 Infinite Time To Fly With Hover Spray
 _L 0x200B0A74 0x00000000
-_C0 Jump In mid-air
+_C0 Jump In Mid-Air
 _L 0x200D69FC 0x10000009
 _C0 ↑[#To Levitate With The Hover Spray Activate The "Infinite Insecticide: Spray Gun" Code And "Infinite Time To Fly With Hover Spray"]
 _L 0x00000000 0x00000000
@@ -31440,7 +31440,7 @@ _L 0xD0000002 0x10000080
 _L 0x20343730 0x00000000
 _L 0x200AF888 0x10A00010
 _L 0x200C5134 0x00000000
-_C0 ↑[#Move With The Left Analog Stick, Go Up With Triangle And Down With x]
+_C0 ↑[#Move With The Left Analog Stick, Go Up With Triangle And Down With X]
 _L 0x00000000 0x00000000
 _C0 Game Speed Mod: Normal
 _L 0x203458D0 0x000003E8
@@ -32860,7 +32860,7 @@ _L 0xDC000000 0x00000004
 _L 0xD0000000 0x00000000
 _L 0xDC000000 0x00000010
 _L 0xD2000000 0x00000000
-_C0 Chuk-A-luck
+_C0 Chuk-A-Luck
 _L 0x20167104 0x03E00008
 _L 0x217FF5D4 0x00000001
 _L 0x20167104 0x0A200400
@@ -37703,7 +37703,7 @@ _C0 Cockatrice
 _L 0x20139F44 0x240508A2
 _C0 Col Prinny
 _L 0x20139F44 0x24050818
-_C0 Copy robot
+_C0 Copy Robot
 _L 0x20139F44 0x240508C0
 _C0 Corpse
 _L 0x20139F44 0x240507F0
@@ -38142,13 +38142,13 @@ _C0 Wight
 _L 0x20139F44 0x240507F2
 _C0 Wood Giant
 _L 0x20139F44 0x24050884
-_C0 Wpn Mastery: Max Lvl After Hit (Player Turn)
+_C0 Wpn Mastery: Max Lvl. After Hit (Player Turn)
 _L 0x2009E658 0x54200009
 _L 0x2009E664 0x54200005
 _L 0xD0000001 0x0FFFFFFF
 _L 0x2009E658 0x00000000
 _L 0x2009E664 0x00000000
-_C0 Wpn Skills: Max Lvl After Turn (Player Turn)
+_C0 Wpn Skills: Max Lvl. After Turn (Player Turn)
 _L 0x2006B570 0x54400008
 _L 0xD0000000 0x0FFFFFFF
 _L 0x2006B570 0x00000000
@@ -38888,9 +38888,9 @@ _L 0x0054762A 0x00000063
 _L 0x0054762B 0x00000063
 _L 0x00547628 0x00000063
 _L 0x00547629 0x00000063
-_C0 Char. Slot 1 Lvl Mod
+_C0 Char. Slot 1 Lvl. Mod
 _L 0x10541610 0x0000270F
-_C0 Char. Slot 2 Lvl Mod
+_C0 Char. Slot 2 Lvl. Mod
 _L 0x10542210 0x0000270F
 _C0 Character 1: Counter
 _L 0x2054162D 0x00000009
@@ -40632,7 +40632,7 @@ _C0 Clr New Char. Bonus Stat Points (Needed To Exit Bonus Screen)
 _L 0x101DD68C 0x00000000
 _C0 Create A Character Bonus 200
 _L 0x101DD68C 0x000000C8
-_C0 Dark Assembly Always pass
+_C0 Dark Assembly Always Pass
 _L 0x201DEEB0 0x0FFFFFFF
 _C0 Deprive Resistance Modifier - Slot 1
 _L 0x00180DAC 0x00000063
@@ -43509,7 +43509,7 @@ _L 0x80422C38 0x00900008
 _L 0x00000002 0x00000000
 _L 0x804230B8 0x00060008
 _L 0x00000001 0x00000000
-_C0 Lvl 100 After 1 Battle
+_C0 Lvl. 100 After 1 Battle
 _L 0x603FB1A4 0x00000064
 _L 0x00020002 0x00000000
 _L 0x2000051C 0x00000000
@@ -43667,7 +43667,7 @@ _L 0xE0010000 0x101BA094
 _L 0x201BA094 0x3405FFFF
 _C0 Modify DP Per. Change [Disable]
 _L 0x201BA094 0x00052C03
-_C0 Never loose Items
+_C0 Never Loose Items
 _L 0xE00A0003 0x001F35D0
 _L 0x201F35D0 0x2A1B000A
 _L 0x201F35D4 0x13600002
@@ -43679,7 +43679,7 @@ _L 0x201F3694 0x34050063
 _L 0x201F3698 0x3410000A
 _L 0x202792F8 0x34040000
 _L 0x202792FC 0x10000008
-_C0 Never loose Items [Disable]
+_C0 Never Loose Items [Disable]
 _L 0x201F35D0 0x06010003
 _L 0x201F35D4 0x34050063
 _L 0x201F35D8 0x10000006
@@ -45910,14 +45910,12 @@ _C0 PP [0-3B9AC9FF]
 _L 0x20446240 0x05F5E0FF
 _C0 PP Not Dec.
 _L 0xC0299E68 0x00000000
-_C0 PP kakutoku Max
+_C0 PP Kakutoku Max
 _L 0xC01131BC 0x00000000
 _C0 PP Max
 _L 0x20446240 0x05F5E0FF
 _C0 PP Never Decrease
 _L 0xC0299E68 0x00000000
-_C0 PPMax
-_L 0x20446240 0x05F5E0FF
 _C0 Quick Level Up
 _L 0xC00B5E84 0x00000000
 _C0 Shokan Inf.
@@ -46535,7 +46533,7 @@ _L 0x1042B85C 0x0000270F
 _C0 Scores
 _L 0x20429DD0 0x0098967F
 _L 0x2042B820 0x0098967F
-_C0 Special All Open Code - Clubs, Pictures, Ost., Movies, etc.
+_C0 Special All Open Code (Clubs, Pictures, Ost., Movies, etc.)
 _L 0x801A360C 0x00FC0008
 _L 0x00000000 0x00000000
 _L 0x801A360D 0x00FC0008
@@ -46929,7 +46927,7 @@ _L 0x00000000 0x00000000
 _C0 Whole Repertoire (Incl. Free, 2B - 4BFX)
 _L 0x801A10A1 0x0384000A
 _L 0x00000000 0x00000000
-_C0 Whole Repertoire (With The word New)
+_C0 Whole Repertoire (With The Word New)
 _L 0x801A10A1 0x0384000A
 _L 0x00000066 0x00000000
 _S UCJS-10012
@@ -47068,36 +47066,36 @@ _L 0x00000001 0x00000078
 _C0 9 Plants
 _L 0x600DE01C 0x00000009
 _L 0x00000001 0x00000064
-_C0 Bomb Tool Lvl 1
+_C0 Bomb Tool Lvl. 1
 _L 0x00D8C720 0x00000539
-_C0 Bomb Tool Lvl 4
+_C0 Bomb Tool Lvl. 4
 _L 0x00C661F0 0x00000539
-_C0 Bomb Tool Lvl 6
+_C0 Bomb Tool Lvl. 6
 _L 0x00CA1EE0 0x00000539
-_C0 Bomb Tool Lvl 9 +10
+_C0 Bomb Tool Lvl. 9 +10
 _L 0x00C15800 0x00000539
-_C0 Bomb Tool Lvl 11
+_C0 Bomb Tool Lvl. 11
 _L 0x00C15710 0x00000539
-_C0 Harpoon Tool Lvl 6
+_C0 Harpoon Tool Lvl. 6
 _L 0x00CA1EF0 0x00000539
-_C0 Harpoon Tool Lvl 7
+_C0 Harpoon Tool Lvl. 7
 _L 0x00C51340 0x00000539
 _C0 Instant Win Level
 _L 0x600DE040 0x00000064
 _L 0x00000001 0x00000018
-_C0 Plant Tool Lvl 2
+_C0 Plant Tool Lvl. 2
 _L 0x00CEE434 0x00000539
-_C0 Plant Tool Lvl 3
+_C0 Plant Tool Lvl. 3
 _L 0x00C8DC14 0x00000539
-_C0 Plant Tool Lvl 4
+_C0 Plant Tool Lvl. 4
 _L 0x00C661F4 0x00000539
-_C0 Plant Tool Lvl 5
+_C0 Plant Tool Lvl. 5
 _L 0x00C81924 0x00000539
-_C0 Plant Tool Lvl 7
+_C0 Plant Tool Lvl. 7
 _L 0x00C51334 0x00000539
-_C0 Plant Tool Lvl 10
+_C0 Plant Tool Lvl. 10
 _L 0x00C15804 0x00000539
-_C0 Plant Tool Lvl 11
+_C0 Plant Tool Lvl. 11
 _L 0x00C15714 0x00000539
 _S HBE69B1CF5
 _G Doukutsu Monogatari [JP]
@@ -47218,9 +47216,9 @@ _C0 Max Perk
 _L 0x2029D1D8 0x00000063
 _C0 Max Score
 _L 0x2029D11C 0x000F423F
-_C0 Player is Invisible
+_C0 Player Is Invisible
 _L 0x202A17E8 0x00000000
-_C0 Player is Visible
+_C0 Player Is Visible
 _L 0x202A17E8 0x3F800001
 _C0 Player Speed: Bit Quicker
 _L 0x20009A48 0x00000000
@@ -47302,7 +47300,7 @@ _L 0x6027A748 0x0007A120
 _L 0x00020005 0x000002D8
 _L 0x20000014 0x20000074
 _L 0x2000006C 0x200009D0
-_C0 1P 2P Full = 04 Life seeds
+_C0 1P 2P Full = 04 Life Seeds
 _L 0x6027A748 0x00000004
 _L 0x00000005 0x000002D4
 _L 0x20000014 0x20000074
@@ -48640,7 +48638,7 @@ _L 0x104F47DE 0x00006363
 _L 0x104F47E0 0x00006363
 _L 0x104F47E2 0x00006363
 _L 0x104F47E4 0x00006363
-_C0 Yu-fe Exp. 499
+_C0 Yu-Fe Exp. 499
 _L 0x104F47BC 0x000001F3
 _S ULJS-00333
 _G Dream C Club Portable [JP]
@@ -49831,7 +49829,7 @@ _C0 Inactive Root 2 Pwr Lvl.
 _L 0x00459179 0x00000005
 _C0 Inactive Root 3 Pwr Lvl.
 _L 0x00459182 0x00000004
-_C0 Inactive Root 6 Pwr Lvl
+_C0 Inactive Root 6 Pwr Lvl.
 _L 0x0045919D 0x00000002
 _C0 Inf. Corridor
 _L 0x10459332 0x0000020B
@@ -50191,13 +50189,13 @@ _L 0x208F71D4 0x05F5E0FF
 _C0 Unlimited Feat Points In Char. Creation
 _L 0x00A36C88 0x00000001
 _S ULJS-00318
-_G Durarara!! 3-way StandOff [JP]
+_G Durarara!! 3-Way StandOff [JP]
 _C0 Bonus All
 _L 0x203E4D14 0xFFFFFFFF
 _L 0x203E4D18 0xFFFFFFFF
 _L 0x203E4D1C 0xFFFFFFFF
 _S NPJH-50484
-_G Durarara!! 3way StandOff: Alley (PlayStation Store) [JP]
+_G Durarara!! 3-Way StandOff: Alley (PlayStation Store) [JP]
 _C0 CG Open
 _L 0x805B6858 0x00090001
 _L 0x000000FF 0x00000000
@@ -50878,7 +50876,7 @@ _L 0x005176D8 0x24000000
 _C0 Essential
 _L 0x102D6F16 0x0000270F
 _L 0x102D6F18 0x0000270F
-_C0 Free Officer selection
+_C0 Free Officer Selection
 _L 0x105B3300 0x00000002
 _C0 Inf. Health
 _L 0x002AFFC3 0x00000063
@@ -51643,7 +51641,7 @@ _C0 Gent Max
 _L 0x20330E34 0x000F423F
 _C0 Hit Enemy To Fully Fill Power
 _L 0x20016D50 0x00000000
-_C0 HP Always full
+_C0 HP Always Full
 _L 0x2002318C 0xA6090872
 _C0 Item All A
 _L 0x40805670 0x00070001
@@ -51708,7 +51706,7 @@ _L 0x20001004 0x0A221F76
 _L 0x20001008 0x00000000
 _L 0xD030BE5D 0x20000020
 _L 0x20001008 0x00129042
-_C0 MP Always full
+_C0 MP Always Full
 _L 0x200231C4 0x96020870
 _L 0x200231CC 0xA6020874
 _C0 MP No Use
@@ -51882,7 +51880,7 @@ _L 0x00337E08 0x00000000
 _L 0x00337E09 0x00000001
 _L 0x00337E0A 0x00000002
 _L 0x00337E0B 0x00000003
-_C0 ↑[#Edit More: 00=Giulio,01=Chris,02=Alf,03=Lodi,04=Lure,05=Morrison,06=Goose,07=Charla,08=Phillie,09=VadAt,0A=stella,0B=Joanna,0C=Dulzel,0D=Alfred,80=None]
+_C0 ↑[#Edit More: 00=Giulio,01=Chris,02=Alf,03=Lodi,04=Lure,05=Morrison,06=Goose,07=Charla,08=Phillie,09=Vadat,0A=Stella,0B=Joanna,0C=Dulzel,0D=Alfred,80=None]
 _L 0x00000000 0x00000000
 _C0 Phili Magic
 _L 0x20338000 0x0001FFFE
@@ -52645,7 +52643,7 @@ _C0 Pomtto Player Chara. (Campanella)
 _L 0x20193FA0 0x24180009
 _C0 Pomtto Player Chara. (Campanella: Silhouette)
 _L 0x20193FA0 0x24180008
-_C0 Pomtto Player Chara. (For debugging)
+_C0 Pomtto Player Chara. (For Debugging)
 _L 0x20193FA0 0x2418000A
 _C0 Pomtto Player Chara. (Franc)
 _L 0x20193FA0 0x24180002
@@ -54086,7 +54084,7 @@ _L 0x10457E5C 0x000000yy
 _L 0x10457E5E 0x000000yy
 _L 0x10457E60 0x000000yy
 _L 0x10457E62 0x000000yy
-_C0 ↑[#Edit First - YY, Note: http://www.geocities.jp/writzkzo/cwcpsp/edak.txt ฮะ]
+_C0 ↑[#Edit First - YY, Note: http://www.geocities.jp/writzkzo/cwcpsp/edak.txt]
 _L 0x00000000 0x00000000
 _C0 Preemptive Strike: First Strike
 _L 0x20060380 0x24090002
@@ -54362,7 +54360,7 @@ _L 0x2008B8D4 0xA4445496
 _L 0x2008B8F4 0x24020001
 _C0 Enemy No Attack
 _L 0x200A7714 0x00000000
-_C0 Enemy No sudden Attack
+_C0 Enemy No Sudden Attack
 _L 0x200A24F0 0x24030000
 _L 0x200A2530 0x24030000
 _C0 Exp. x2
@@ -54402,7 +54400,7 @@ _L 0x200E58E8 0x00000000
 _L 0x200E58F8 0x50000003
 _C0 Stock Infinity
 _L 0x20053318 0x240400FF
-_C0 Sugoroku dice 1
+_C0 Sugoroku Dice 1
 _L 0x0039E478 0x00000001
 _C0 Sudden Attack
 _L 0x200A24D4 0x10000010
@@ -55146,7 +55144,7 @@ _S ULUS-10147
 _G Every Extend Extra [US]
 _C0 200 Max Chain
 _L 0x012E7980 0x000000C8
-_C0 99 stock
+_C0 99 Stock
 _L 0x012E7960 0x00000063
 _C0 Freeze Time
 _L 0x012E794E 0x11940000
@@ -55242,7 +55240,7 @@ _C0 ROUND 3 HOLE In 1
 _L 0x0049D6E4 0x00000000
 _C0 Round 4 Hole In 1
 _L 0x0049D734 0x00000000
-_C0 Round 5 hole In 1
+_C0 Round 5 Hole In 1
 _L 0x0049D784 0x00000000
 _C0 Round 6 Hole In 1
 _L 0x0049D7D4 0x00000000
@@ -56289,10 +56287,10 @@ _L 0x00000001 0x00000000
 _C0 Only Vegan
 _L 0x80507701 0x01060001
 _L 0x00000063 0x00000000
-_C0 Use Item & Material All x 85 - Box's Item
+_C0 Use Item & Material All x85 (Box's Item)
 _L 0x805076E8 0x011F0010
 _L 0x00000055 0x00000000
-_C0 Use Item x 1 - Hand's Item
+_C0 Use Item x1 (Hand's Item)
 _L 0x805076AC 0x00180010
 _L 0x00000001 0x00000000
 _C0 All Cloths Top Lv. 5
@@ -56809,7 +56807,7 @@ _L 0x01010101 0x00000000
 _C0 BlueMoon License All Clear
 _L 0x40CA63DC 0x00060001
 _L 0x01010101 0x00000000
-_C0 DeepInferno license All Clear
+_C0 DeepInferno License All Clear
 _L 0x40CA6454 0x00060001
 _L 0x01010101 0x00000000
 _C0 PinkWind License All Clear
@@ -57046,7 +57044,7 @@ _L 0x01010101 0x00000000
 _C0 BlueMoon License All Clear
 _L 0x40CA63DC 0x00060001
 _L 0x01010101 0x00000000
-_C0 DeepInferno license All Clear
+_C0 DeepInferno License All Clear
 _L 0x40CA6454 0x00060001
 _L 0x01010101 0x00000000
 _C0 PinkWind License All Clear
@@ -57445,7 +57443,7 @@ _L 0x01010101 0x00000000
 _C0 BlueMoon License All Clear
 _L 0x40CA63DC 0x00060001
 _L 0x01010101 0x00000000
-_C0 DeepInferno license All Clear
+_C0 DeepInferno License All Clear
 _L 0x40CA6454 0x00060001
 _L 0x01010101 0x00000000
 _C0 PinkWind License All Clear
@@ -58012,7 +58010,7 @@ _C0 ↑[#Change For Amount Of Players, Restart Or Make New Game To Take Effect, 
 _L 0x00000000 0x00000000
 _C0 Red Team Win
 _L 0x0063FBF0 0x00000000
-_C0 Stun n Get Stunned (Atk. Alway Stun)
+_C0 Stun'n Get Stunned (Atk. Alway Stun)
 _L 0x00807F90 0x16400061
 _C0 Waffle Says: No Violence - Jal Nop
 _L 0x00065F8C 0x00000000
@@ -66008,7 +66006,7 @@ _L 0x201F9330 0x00600583
 _L 0x201F9334 0x00600585
 _L 0x201F9338 0x00600587
 _L 0x201F933C 0x00600589
-_C0 All Char. Job Lvl 99/No Trans Period
+_C0 All Char. Job Lvl. 99/No Trans Period
 _L 0x200A4218 0x0E200408
 _L 0x200A421C 0x00000000
 _L 0x20101434 0x0E200418
@@ -66750,7 +66748,7 @@ _L 0x20001048 0x30220400
 _L 0x2000104C 0x54400001
 _L 0x20001050 0x24021000
 _L 0x20001054 0x03E00008
-_C0 No Job Transition period
+_C0 No Job Transition Period
 _L 0x2006A794 0x24020000
 _C0 No MP OK
 _L 0x2006C900 0x24050063
@@ -66765,7 +66763,7 @@ _L 0x201FAD04 0x006007DB
 _L 0x201FAD08 0x006007DD
 _L 0x201FAD0C 0x006007DF
 _L 0x201FAD10 0x006007E1
-_C0 Quick Job Lvl Gain [Slot 1-4]
+_C0 Quick Job Lvl. Gain [Slot 1-4]
 _L 0x801F9EFA 0x00170014
 _L 0x00000068 0x00000000
 _L 0x801FA1F2 0x00170014
@@ -67041,7 +67039,7 @@ _L 0x201F9330 0x00600583
 _L 0x201F9334 0x00600585
 _L 0x201F9338 0x00600587
 _L 0x201F933C 0x00600589
-_C0 All Char. Job Lvl 99/No Trans Period
+_C0 All Char. Job Lvl. 99/No Trans Period
 _L 0x200A4218 0x0E200408
 _L 0x200A421C 0x00000000
 _L 0x20101434 0x0E200418
@@ -71230,10 +71228,10 @@ _C0 Mission: Defeat Enemy 9999
 _L 0x2014B154 0x34040001
 _C0 Mission: Defeat Enemy 9999 [Off]
 _L 0x2014B154 0x00A6202A
-_C0 Mission: Head-Count Match for A Thousand
+_C0 Mission: Head-Count Match For A Thousand
 _L 0x2029ED20 0x13E00007
 _L 0x2029ED30 0x34040003
-_C0 Mission: Head-Count Match for A Thousand [Off]
+_C0 Mission: Head-Count Match For A Thousand [Off]
 _L 0x2029ED20 0x45000007
 _L 0x2029ED30 0x34040003
 _C0 Mission: Marks Rank S
@@ -73025,10 +73023,10 @@ _C0 Mission: Defeat Enemy 9999
 _L 0x2014B154 0x34040001
 _C0 Mission: Defeat Enemy 9999 [Off]
 _L 0x2014B154 0x00A6202A
-_C0 Mission: Head-Count Match for A Thousand
+_C0 Mission: Head-Count Match For A Thousand
 _L 0x2029ED20 0x13E00007
 _L 0x2029ED30 0x34040003
-_C0 Mission: Head-Count Match for A Thousand [Off]
+_C0 Mission: Head-Count Match For A Thousand [Off]
 _L 0x2029ED20 0x45000007
 _L 0x2029ED30 0x34040003
 _C0 Mission: Marks Rank S
@@ -73176,7 +73174,7 @@ _L 0x00274988 0x00000038
 _L 0x0027498C 0x00000000
 _C0 Brave
 _L 0x00ABC053 0x00000000
-_C0 Equip Anything On any Job
+_C0 Equip Anything On Any Job
 _L 0x200C41C8 0x240300FF
 _L 0x200C41D0 0xA0830052
 _L 0x200C41D4 0xA0830053
@@ -78436,7 +78434,7 @@ _L 0x00001042 0x00000060
 _L 0x00001043 0x000000AF
 _L 0x00001044 0x000000B0
 _L 0x00001045 0x00000000
-_C0 Equipment recipe Full Throttle (1.01)
+_C0 Equipment Recipe Full Throttle (1.01)
 _L 0x408D086C 0x00240001
 _L 0xFFFFFFFF 0x00000000
 _C0 Esoteric Book Full Throttle (1.01)
@@ -78531,9 +78529,9 @@ _C0 Alphonse 999 FP
 _L 0x2017487C 0x000003E7
 _C0 Edward 999 FP
 _L 0x201747EC 0x000003E7
-_C0 Instant Lvl 100 [Alphonse]
+_C0 Instant Lvl. 100 [Alphonse]
 _L 0x20170264 0x0098967F
-_C0 Instant Lvl 100 [Edward]
+_C0 Instant Lvl. 100 [Edward]
 _L 0x201701D4 0x0098967F
 _C0 Partnership Max
 _L 0x201701F4 0x00000064
@@ -78978,7 +78976,7 @@ _L 0x202DDFAC 0x00000001
 _L 0x202DDFC0 0x00000001
 _S NPJH-50409
 _G Gachitora! Abarenbou Kyoushi In High School (PlayStation Store) [JP]
-_C0 Body, Heart, Fast-growing technology
+_C0 Body, Heart, Fast-Growing Technology
 _L 0x208B544C 0x000220F5
 _L 0x208B5450 0x0003B3CD
 _L 0x208B5454 0x000220F5
@@ -81511,7 +81509,7 @@ _C0 Start Timer
 _L 0x2008D670 0xE64C07B0
 _C0 Stop Timer
 _L 0x2008D670 0x00000000
-_C0 Time Of Purchase, The Largest Gold holdings
+_C0 Time Of Purchase, The Largest Gold Holdings
 _L 0xC0140540 0xAC860000
 _C0 Time To Stop
 _L 0xC008D670 0x00000000
@@ -81876,7 +81874,7 @@ _C0 Praying Time 1
 _L 0x207AA8F8 0x00000001
 _C0 Praying Time 99
 _L 0x207AA8F8 0x00000063
-_C0 Pure Shield & Condition Dress [1/3]
+_C0 Pure Shield & Condition Dress [(1/3)]
 _L 0x111683D8 0x000001A1
 _L 0x111683E4 0x000001A9
 _L 0x111683F0 0x000007CA
@@ -81907,7 +81905,7 @@ _L 0x11168504 0x000003B9
 _L 0x11168510 0x000003BA
 _L 0x1116851C 0x000003BB
 _L 0x11168528 0x000003BC
-_C0 Pure Shield & Condition Dress [2/3]
+_C0 Pure Shield & Condition Dress [(2/3)]
 _L 0x11168534 0x000007DD
 _L 0x11168540 0x000007DE
 _L 0x1116854C 0x000007DF
@@ -81938,14 +81936,14 @@ _L 0x1116866C 0x000007E0
 _L 0x11168678 0x000007E2
 _L 0x11168684 0x000007E4
 _L 0x11168690 0x00000893
-_C0 Pure Shield & Condition Dress [3/3]
+_C0 Pure Shield & Condition Dress [(3/3)]
 _L 0x1116869C 0x00000894
 _L 0x111686A8 0x00000895
 _L 0x111686B4 0x00000896
 _L 0x111686C0 0x00000897
 _L 0x111686CC 0x00000898
 _L 0x111686D8 0x00000899
-_C0 Pure Weapon [1/3]
+_C0 Pure Weapon [(1/3)]
 _L 0x111683D8 0x00000108
 _L 0x111683E4 0x0000010C
 _L 0x111683F0 0x0000010E
@@ -81976,7 +81974,7 @@ _L 0x11168504 0x0000014D
 _L 0x11168510 0x0000014F
 _L 0x1116851C 0x00000157
 _L 0x11168528 0x000000CE
-_C0 Pure Weapon [2/3]
+_C0 Pure Weapon [(2/3)]
 _L 0x11168534 0x000000D0
 _L 0x11168540 0x000000D5
 _L 0x1116854C 0x000000D8
@@ -82007,7 +82005,7 @@ _L 0x1116866C 0x00000071
 _L 0x11168678 0x00000075
 _L 0x11168684 0x00000078
 _L 0x11168690 0x00000080
-_C0 Pure Weapon [3/3]
+_C0 Pure Weapon [(3/3)]
 _L 0x1116869C 0x00000082
 _L 0x111686A8 0x0000008A
 _L 0x111686B4 0x0000008B
@@ -85289,7 +85287,7 @@ _C0 Storage Item Mod Slot 1 (795-7C9) (1.2.2)
 _L 0x203026C0 0x00080XXX
 _C0 ↑[#Edit First - More Info: http://forums.PPSSPP.org/showthread.php?tid=5167&Page=8]
 _L 0x00000000 0x00000000
-_C0 _________[>>>For PPSSPP v.1.3<<<]_________
+_C0 _________[>>>For PPSSPP v1.3<<<]_________
 _L 0x00000000 0x00000000
 _C0 Inf. & Max HP/OP/SP (1.3)
 _L 0x202F56BC 0x4859E100
@@ -85655,7 +85653,7 @@ _L 0x00000C41 0x00000001
 _C0 Shop Equipment Products Change (Burst)14 (???)
 _L 0x412D74E4 0x00400001
 _L 0x00000C81 0x00000001
-_C0 Shop Equipment Products Change 1/3 (???)
+_C0 Shop Equipment Products Change (1/3) (???)
 _L 0x112D74E4 0x00000108
 _L 0x112D74E8 0x0000010C
 _L 0x112D74EC 0x0000010E
@@ -85719,7 +85717,7 @@ _L 0x112D75D0 0x00000080
 _L 0x112D75D4 0x00000082
 _L 0x112D75D8 0x0000008A
 _L 0x112D75DC 0x0000008B
-_C0 Shop Equipment Products Change 2/3 (???)
+_C0 Shop Equipment Products Change (2/3) (???)
 _L 0x112D74E4 0x000001A1
 _L 0x112D74E8 0x000001A9
 _L 0x112D74EC 0x000007CA
@@ -85783,7 +85781,7 @@ _L 0x112D75D0 0x00000893
 _L 0x112D75D4 0x00000894
 _L 0x112D75D8 0x00000895
 _L 0x112D75DC 0x00000896
-_C0 Shop Equipment Products Change 3/3 (???)
+_C0 Shop Equipment Products Change (3/3) (???)
 _L 0x112D74E4 0x00000897
 _L 0x112D74E8 0x00000898
 _L 0x112D74EC 0x00000899
@@ -86386,7 +86384,7 @@ _L 0x10316174 0x000003E7
 _L 0x10316176 0x000003E7
 _L 0x10316178 0x000003E7
 _L 0x1031617A 0x000003E7
-_C0 __________[>>>For PPSSPP v.1.2.2<<<]__________
+_C0 __________[>>>For PPSSPP v1.2.2<<<]__________
 _L 0x00000000 0x00000000
 _C0 Inf. & Max HP/OP/SP (1.2.2)
 _L 0x202F56BC 0x4859E100
@@ -86401,7 +86399,7 @@ _C0 Storage Item Mod Slot 1 (795-7C9) (1.2.2)
 _L 0x203026C0 0x00080XXX
 _C0 ↑[#Edit First - More Info: http://forums.PPSSPP.org/showthread.php?tid=5167&Page=8]
 _L 0x00000000 0x00000000
-_C0 _________[>>>For PPSSPP v.1.3<<<]_________
+_C0 _________[>>>For PPSSPP v1.3<<<]_________
 _L 0x00000000 0x00000000
 _C0 Inf. & Max HP/OP/SP (1.3)
 _L 0x202F56BC 0x4859E100
@@ -86419,7 +86417,7 @@ _C0 Storage Item Mod Slot 1 (795-7C9) (1.3)
 _L 0x203026C0 0x00080XXX
 _C0 ↑[#Edit First - More Info: http://forums.ppsspp.org/attachment.php?aid=15671]
 _L 0x00000000 0x00000000
-_C0 __________[>>>For PPSSPP v.1.4.2<<<]__________
+_C0 __________[>>>For PPSSPP v1.4.2<<<]__________
 _L 0x00000000 0x00000000
 _C0 Inf. & Max HP/OP/SP (1.4.2)
 _L 0x202F56BC 0x4859E100
@@ -86437,7 +86435,7 @@ _C0 Storage Item Mod Slot 1 (795-7C9) (1.4.2)
 _L 0x203026C0 0x00080XXX
 _C0 ↑[#Edit First - More Info: http://forums.PPSSPP.org/showthread.php?tid=5167&Page=8]
 _L 0x00000000 0x00000000
-_C0 __________[>>>For PPSSPP v.1.5.4+<<<]__________
+_C0 __________[>>>For PPSSPP v1.5.4+<<<]__________
 _L 0x00000000 0x00000000
 _C0 Aragami Bullets (1.5.4+)
 _L 0xE0011023 0x000A5FD0
@@ -87567,7 +87565,7 @@ _L 0x42F60AF8 0x00380001
 _L 0x00000000 0x00000000
 _C0 ↑[#Note: This One Should Be Only Activated Once For A Second, Then Deactivated - Between 1st & 2nd Stage Of Last Story Mission, Work For PPSSPP v1.1.1]
 _L 0x00000000 0x00000000
-_C0 Set DLC Chars To 6lvl [v1.40]
+_C0 Set DLC Chars To 6Lvl. [v1.40]
 _L 0x82FFCD62 0x00060004
 _L 0x00000006 0x00000000
 _C0 ↑[#Requirement For Few Missions, Just Activate In The Lobby, Then Deactivate, Work For PPSSPP v1.1.1]
@@ -87601,7 +87599,7 @@ _L 0x40F593D0 0x00380001
 _L 0x00000000 0x00000000
 _L 0x40F60AF8 0x00380001
 _L 0x00000000 0x00000000
-_C0 Set DLC Chars To 6lvl (PSP-1000)
+_C0 Set DLC Chars To 6Lvl. (PSP-1000)
 _L 0x80FFCD62 0x00060004
 _L 0x00000006 0x00000000
 _C0 ↑[#Requirement For Few Missions, Just Activate In The Lobby, Then Deactivate, Work For PPSSPP v1.1.1]
@@ -88590,7 +88588,7 @@ _L 0x20725994 0x24020058
 _L 0x20725A5C 0x53E00057
 _C0 Combat Time Lock At 38 Minutes [v1.00]
 _L 0x10FD0110 0x000008E9
-_C0 Damage Checker 1/3 [v1.40]
+_C0 Damage Checker (1/3) [v1.40]
 _L 0xE0039583 0x006DBCD4
 _L 0x20629E18 0x0E2004D2
 _L 0x2065C5C0 0x0E200488
@@ -88617,7 +88615,7 @@ _L 0x20001350 0x54600001
 _L 0x20001354 0xC44C0FF0
 _L 0x20001358 0x0A3B6EC7
 _L 0x2000135C 0x00000000
-_C0 Damage Checker 2/3 [v1.40]
+_C0 Damage Checker (2/3) [v1.40]
 _L 0x20001238 0xC61900CC
 _L 0x2000123C 0x4495D000
 _L 0x20001240 0x4680CE60
@@ -88648,7 +88646,7 @@ _L 0x200012A0 0x00001812
 _L 0x200012A4 0x1C20FFF9
 _L 0x200012A8 0x2421FFFF
 _L 0x200012AC 0xACC70FF4
-_C0 Damage Checker 3/3 [v1.40]
+_C0 Damage Checker (3/3) [v1.40]
 _L 0x200012CC 0x34080030
 _L 0x200012D0 0x1D000004
 _L 0x200012D4 0x8C620FF4
@@ -89225,7 +89223,7 @@ _C0 Eye Color [Lindow (Gauntlet Mutant)]
 _L 0x00F4A624 0x00000030
 _C0 Eye Color [Romeo]
 _L 0x00F4A624 0x00000026
-_C0 Eye Color [Romeo v.2]
+_C0 Eye Color [Romeo v2]
 _L 0x00F4A624 0x00000027
 _C0 Eye Color [Shun]
 _L 0x00F4A624 0x00000042
@@ -89729,7 +89727,7 @@ _L 0x200011A0 0x53C00001
 _L 0x200011A8 0x03E00008
 _L 0x200011AC 0xAFA30028
 _L 0x200011A4 0x3402002B
-_C0 Change faces (Restore)
+_C0 Change Faces (Restore)
 _L 0x200A4F30 0xAFA30028
 _C0 _________[>>>God Equipment [v1.00-1.40]<<<]_________
 _L 0x00000000 0x00000000
@@ -92639,7 +92637,7 @@ _C0 Honda Civic 1500 3door CX '79
 _L 0x20002014 0x34210AEB
 _C0 Honda Civic Sir-II '93
 _L 0x20002014 0x342102DA
-_C0 Honda CR-X del Sol Sir '92
+_C0 Honda CR-X Del Sol Sir '92
 _L 0x20002014 0x34210AF8
 _C0 Honda Dualnote Concept '01
 _L 0x20002014 0x34210BBC
@@ -92859,7 +92857,7 @@ _C0 Mazda RX-8 Concept LM Race Car
 _L 0x20002014 0x342103E0
 _C0 Mazda RX-8 Type S '03
 _L 0x20002014 0x3421064F
-_C0 Mazda Savanna RX-7 infini III '90
+_C0 Mazda Savanna RX-7 Infini III '90
 _L 0x20002014 0x342106E2
 _C0 Mercedes-Benz CLK Touring Car '00
 _L 0x20002014 0x34210768
@@ -93794,7 +93792,7 @@ _C0 Honda Civic 1500 3door CX '79
 _L 0x20002014 0x34210AEB
 _C0 Honda Civic Sir-II '93
 _L 0x20002014 0x342102DA
-_C0 Honda CR-X del Sol Sir '92
+_C0 Honda CR-X Del Sol Sir '92
 _L 0x20002014 0x34210AF8
 _C0 Honda Dualnote Concept '01
 _L 0x20002014 0x34210BBC
@@ -94014,7 +94012,7 @@ _C0 Mazda RX-8 Concept LM Race Car
 _L 0x20002014 0x342103E0
 _C0 Mazda RX-8 Type S '03
 _L 0x20002014 0x3421064F
-_C0 Mazda Savanna RX-7 infini III '90
+_C0 Mazda Savanna RX-7 Infini III '90
 _L 0x20002014 0x342106E2
 _C0 Mercedes-Benz CLK Touring Car '00
 _L 0x20002014 0x34210768
@@ -95501,7 +95499,7 @@ _C0 Honda Civic 1500 3door CX '79
 _L 0x20002014 0x34210AEB
 _C0 Honda Civic Sir-II '93
 _L 0x20002014 0x342102DA
-_C0 Honda CR-X del Sol Sir '92
+_C0 Honda CR-X Del Sol Sir '92
 _L 0x20002014 0x34210AF8
 _C0 Honda Dualnote Concept '01
 _L 0x20002014 0x34210BBC
@@ -95721,7 +95719,7 @@ _C0 Mazda RX-8 Concept LM Race Car
 _L 0x20002014 0x342103E0
 _C0 Mazda RX-8 Type S '03
 _L 0x20002014 0x3421064F
-_C0 Mazda Savanna RX-7 infini III '90
+_C0 Mazda Savanna RX-7 Infini III '90
 _L 0x20002014 0x342106E2
 _C0 Mercedes-Benz CLK Touring Car '00
 _L 0x20002014 0x34210768
@@ -104942,15 +104940,15 @@ _L 0x20389AD0 0x5F5C0000
 _C0 Tons Of Money [v3.00]
 _L 0x203DE5CC 0x5F5C0000
 _L 0x20389BD0 0x5F5C0000
-_C0 Tyre size 50% [v1.00]
+_C0 Tyre Size 50% [v1.00]
 _L 0x203562E0 0x3F000000
 _C0 Tyre Size 50% [v3.00]
 _L 0x20356420 0x3F000000
-_C0 Tyre size 100% [v1.00]
+_C0 Tyre Size 100% [v1.00]
 _L 0x203562E0 0x3F800000
 _C0 Tyre Size 100% [v3.00]
 _L 0x20356420 0x3F800000
-_C0 Tyre size 200% [v1.00]
+_C0 Tyre Size 200% [v1.00]
 _L 0x203562E0 0x40000000
 _C0 Tyre Size 200% [v3.00]
 _L 0x20356420 0x40000000
@@ -112479,7 +112477,7 @@ _L 0x0046BC04 0x00000005
 _L 0x0046BC08 0x00000004
 _C0 Testament/EX Crow Patterns
 _L 0x00466BD8 0x00000004
-_C0 Time [Hold L+SEL - d-pad]
+_C0 Time [Hold L+SEL - D-Pad]
 _L 0xD0000000 0x10000111
 _L 0x2046CC14 0x0000FFFF
 _L 0xD0000000 0x10000121
@@ -112552,17 +112550,17 @@ _C0 ↑[#Force FPS To Run At 60 FPS]
 _L 0x00000000 0x00000000
 _C0 _________[>>>Optimization Cheats<<<]_________
 _L 0x00000000 0x00000000
-_C0 PSP FOV (3:2 value)
+_C0 PSP FOV (3:2 Value)
 _L 0x003045A0 0x3FC00000
-_C0 PSP FOV (4:3 value)
+_C0 PSP FOV (4:3 Value)
 _L 0x003045A0 0x3F4CCCCD
-_C0 PSP FOV (16:9 value)
+_C0 PSP FOV (16:9 Value)
 _L 0x003045A0 0x3FE1E1E2
-_C0 PSP FOV (18:9 value)
+_C0 PSP FOV (18:9 Value)
 _L 0x003045A0 0x40000000
-_C0 PSP FOV (21:9 value)
+_C0 PSP FOV (21:9 Value)
 _L 0x003045A0 0x4017B426
-_C0 PSP FOV (32:9 value)
+_C0 PSP FOV (32:9 Value)
 _L 0x003045A0 0x40638E39
 _C0 _________[>>>Widescreen Hack Cheats<<<]_________
 _L 0x00000000 0x00000000
@@ -113360,7 +113358,7 @@ _C0 ↑[#Edit First]
 _L 0x00000000 0x00000000
 _S ULJS-00145
 _G Gundam Battle Universe [JP]
-_C0 All MS Fulltune 1/3
+_C0 All MS Fulltune (1/3)
 _L 0x8158C125 0x00E30038
 _L 0x000000FF 0x00000000
 _L 0x8158C126 0x00E30038
@@ -113389,7 +113387,7 @@ _L 0x8158C131 0x00E30038
 _L 0x000000FF 0x00000000
 _L 0x8158C132 0x00E30038
 _L 0x000000FF 0x00000000
-_C0 All MS Fulltune 2/3
+_C0 All MS Fulltune (2/3)
 _L 0x8158C133 0x00E30038
 _L 0x000000FF 0x00000000
 _L 0x8158C134 0x00E30038
@@ -113418,7 +113416,7 @@ _L 0x8158C13F 0x00E30038
 _L 0x000000FF 0x00000000
 _L 0x8158C140 0x00E30038
 _L 0x000000FF 0x00000000
-_C0 All MS Fulltune 3/3
+_C0 All MS Fulltune (3/3)
 _L 0x8158C141 0x00E30038
 _L 0x000000FF 0x00000000
 _L 0x8158C142 0x00E30038
@@ -114841,7 +114839,7 @@ _C0 Fancybox Slot 2 Infinite
 _L 0x001B50AC 0x00000063
 _C0 Farm 100% Boy
 _L 0x10184B2C 0x00000064
-_C0 Feed Placed In Each coop
+_C0 Feed Placed In Each Coop
 _L 0x001B27BE 0x00000001
 _L 0x001B27BF 0x00000001
 _L 0x001B27C0 0x00000001
@@ -115452,7 +115450,7 @@ _C0 Farm 100% [Boy]
 _L 0x10184B2C 0x00000064
 _C0 Fatigue 0
 _L 0x104F1BD6 0x00000000
-_C0 Feed Placed In Each coop
+_C0 Feed Placed In Each Coop
 _L 0x001B27BE 0x00000001
 _L 0x001B27BF 0x00000001
 _L 0x001B27C0 0x00000001
@@ -115463,7 +115461,7 @@ _L 0x001B27C4 0x00000001
 _L 0x001B27C5 0x00000001
 _L 0x001B27C6 0x00000001
 _L 0x001B27C7 0x00000001
-_C0 Feed Placed In Each coop
+_C0 Feed Placed In Each Coop
 _L 0x001B27BE 0x00000001
 _L 0x001B27BF 0x00000001
 _L 0x001B27C0 0x00000001
@@ -118763,7 +118761,7 @@ _C0 2P Tension Gauge Max
 _L 0x6024C508 0x00000002
 _L 0x00000002 0x00000376
 _L 0x10000374 0x00000000
-_C0 Flying In The Air (Jump (x) & Hold L)
+_C0 Flying In The Air (Jump (X) & Hold L)
 _L 0xC0069120 0x10A0000C
 _L 0x20069174 0x460F9300
 _L 0xD0000000 0x10000100
@@ -119119,7 +119117,7 @@ _L 0x80387E7C 0x00030002
 _L 0x10000303 0x00000000
 _L 0x80387E88 0x00020002
 _L 0x10000304 0x00000000
-_C0 Four Dark passenger
+_C0 Four Dark Passenger
 _L 0x80387E58 0x00030002
 _L 0x10000000 0x00000000
 _L 0x80387E64 0x00030002
@@ -119578,7 +119576,7 @@ _L 0x2000103C 0x8C457E64
 _L 0x2010A77C 0x3C030880
 _L 0x2010A780 0x90700FFF
 _L 0x2010A78C 0x90720FFE
-_C0 ↑[#This Was Mostly A Proof Of Concept,To Show Another Possibility, Forgot That Steering wasn't Analog Either, Despite Being Mapped To It, Pit's On My Todo, But Distant Future:C]
+_C0 ↑[#This Was Mostly A Proof Of Concept,To Show Another Possibility, Forgot That Steering Wasn't Analog Either, Despite Being Mapped To It, Pit's On My Todo, But Distant Future:C]
 _L 0x00000000 0x00000000
 _C0 Analog Acceleration/Break [Disable]
 _L 0xE0040400 0x00022AFC
@@ -120243,7 +120241,7 @@ _L 0x20234FA8 0x3B9AC9FF
 _C0 No Rain Effects
 _L 0x0009B0DC 0xFFFFFFFF
 _L 0x0009B0F4 0xFFFFFFFF
-_C0 Quantity In Hand (Good For strange Moss & Earth)
+_C0 Quantity In Hand (Good For Strange Moss & Earth)
 _L 0x00235B4C 0x000000FF
 _C0 Quick Tool Level Up
 _L 0x002353AC 0x000000FF
@@ -122765,9 +122763,9 @@ _L 0x204A7638 0x05F5E0FF
 _L 0x205A0550 0x05F5E0FF
 _S NPJH-50464
 _G J-League Pro Soccer Club o Tsukurou! 7 Euro Plus (PlayStation Store) [JP]
-_C0 Awake practice 1 Turn
+_C0 Awake Practice 1 Turn
 _L 0x0052C968 0x00000001
-_C0 ChUseido
+_C0 Chuseido
 _L 0x80527D8C 0x00170160
 _L 0x00000063 0x00000000
 _C0 Coach
@@ -122818,7 +122816,7 @@ _L 0x00000010 0x00000000
 _C0 Can Reserch All
 _L 0x013A0001 0x805D8580
 _L 0x00000000 0x000000FF
-_C0 ChUseido
+_C0 Chuseido
 _L 0x80527D8C 0x00170160
 _L 0x00000063 0x00000000
 _C0 Club Building
@@ -125004,7 +125002,7 @@ _C0 Whole Career Options
 _L 0x8021277A 0x002E0001
 _L 0x00000001 0x00000000
 _S ULJM-05965
-_G Ken To Mahou To Gakuen Mono Final: Shinnyusei wa Ohimesama [JP]
+_G Ken To Mahou To Gakuen Mono Final: Shinnyusei Wa Ohimesama [JP]
 _C0 1st Character Exp. Max
 _L 0x401E9218 0x00270001
 _L 0x05F5E0FF 0x00000000
@@ -125529,7 +125527,7 @@ _C0 Inf. At Points [Can Be Changed]
 _L 0x1029C03C 0x000003E7
 _C0 Inf. Money
 _L 0x202AC1CC 0x000F4240
-_C0 LiberAted After 1 Day ends
+_C0 Liberated After 1 Day Ends
 _L 0x2029C880 0x00000001
 _C0 Money 9999999
 _L 0x2029ED8C 0x0098967F
@@ -125553,82 +125551,82 @@ _C0 Inf. (90K) Mony Outside
 _L 0x207C3620 0x00015F90
 _C0 Infinite Money
 _L 0x207C3B20 0x00015F90
-_C0 Talking To Sui Lin In Eastern Seiryu-Chikuan Village Increments Selected Item [Enable]
+_C0 Talking To Sui Lin In Eastern Seiryu-Chikuan Village Increments Selected Item
 _L 0x20075304 0x0A200000
 _L 0x20000000 0x00711821
 _L 0x20000004 0x00000000
 _L 0x20000008 0x23BDFFF4
-_L 0x2000000c 0xAFA80000
+_L 0x2000000C 0xAFA80000
 _L 0x20000010 0xAFA90004
 _L 0x20000014 0xAFAA0008
 _L 0x20000018 0x00000000
-_L 0x2000001c 0x3408018F
+_L 0x2000001C 0x3408018F
 _L 0x20000020 0x00C84026
 _L 0x20000024 0x2D080001
 _L 0x20000028 0x11000013
-_L 0x2000002c 0x00000000
+_L 0x2000002C 0x00000000
 _L 0x20000030 0x3C0808FC
 _L 0x20000034 0x25083BAA
 _L 0x20000038 0x81090000
-_L 0x2000003c 0x3C0808FC
+_L 0x2000003C 0x3C0808FC
 _L 0x20000040 0x25083BAB
 _L 0x20000044 0x01094021
 _L 0x20000048 0x81090000
-_L 0x2000004c 0x2529FFFF
+_L 0x2000004C 0x2529FFFF
 _L 0x20000050 0x3C0A08FC
 _L 0x20000054 0x254A36D6
 _L 0x20000058 0x34080004
-_L 0x2000005c 0x01280018
+_L 0x2000005C 0x01280018
 _L 0x20000060 0x00004012
 _L 0x20000064 0x01485021
 _L 0x20000068 0x81480002
-_L 0x2000006c 0x25080001
+_L 0x2000006C 0x25080001
 _L 0x20000070 0xA1480002
 _L 0x20000074 0x00000000
 _L 0x20000078 0x8FA80000
-_L 0x2000007c 0x8FA90004
+_L 0x2000007C 0x8FA90004
 _L 0x20000080 0x8FAA0008
 _L 0x20000084 0x23BD000C
 _L 0x20000088 0x00000000
-_L 0x2000008c 0x0A21D4C2
+_L 0x2000008C 0x0A21D4C2
 _C0 Talking To Sui Lin In Eastern Seiryu-Chikuan Village Increments Selected Item [Disable]
 _L 0x20075304 0x00711821
-_C0 Shinbu Invincible [Enable]
+_C0 Shinbu Invincible
 _L 0x200E6F84 0x0A200080
 _L 0x20000200 0x23BDFFFC
 _L 0x20000204 0xAFA80000
 _L 0x20000208 0x00000000
-_L 0x2000020c 0x3C080914
+_L 0x2000020C 0x3C080914
 _L 0x20000210 0x25080380
 _L 0x20000214 0x02084026
 _L 0x20000218 0x11000003
-_L 0x2000021c 0x00000000
+_L 0x2000021C 0x00000000
 _L 0x20000220 0xE600000C
 _L 0x20000224 0x00000000
 _L 0x20000228 0x8FA80000
-_L 0x2000022c 0x23BD0004
+_L 0x2000022C 0x23BD0004
 _L 0x20000230 0x00000000
 _L 0x20000234 0x0A239BE2
 _C0 Shinbu Invincible [Disable]
 _L 0x200E6F84 0xE600000C
-_C0 Knockout Enemies [Enable]
+_C0 Knockout Enemies
 _L 0x200E6F88 0x0A2000C0
 _L 0x20000300 0x8E020004
 _L 0x20000304 0x00000000
 _L 0x20000308 0x23BDFFFC
-_L 0x2000030c 0xAFA80000
+_L 0x2000030C 0xAFA80000
 _L 0x20000310 0x00000000
 _L 0x20000314 0x3C080914
 _L 0x20000318 0x25080380
-_L 0x2000031c 0x02084026
+_L 0x2000031C 0x02084026
 _L 0x20000320 0x0008402B
 _L 0x20000324 0x11000003
 _L 0x20000328 0x00000000
-_L 0x2000032c 0xAE00000C
+_L 0x2000032C 0xAE00000C
 _L 0x20000330 0x00000000
 _L 0x20000334 0x8FA80000
 _L 0x20000338 0x23BD0004
-_L 0x2000033c 0x00000000
+_L 0x2000033C 0x00000000
 _L 0x20000340 0x0A239BE3
 _C0 Knockout Enemies [Disable]
 _L 0x200E6F88 0x8E020004
@@ -125657,7 +125655,7 @@ _L 0x00354195 0x0000007F
 _L 0x00B03991 0x0000007F
 _L 0x00B040A9 0x0000007F
 _L 0x00B1353D 0x0000007F
-_C0 Destroy All Enemies (Bosses included) [L+Down]
+_C0 Destroy All Enemies (Bosses Included) [L+Down]
 _L 0xD0000002 0x10000140
 _L 0x603E8458 0x00000001
 _L 0x00010005 0x0000037C
@@ -125723,7 +125721,7 @@ _L 0x603E8458 0x0000012C
 _L 0x00010001 0x000000AE
 _C0 __________[>>>Shop Item Modifier<<<]__________
 _L 0x00000000 0x00000000
-_C0 ↑[#Use One Code At A Time, Deactivate Codes When leaving The Shop]
+_C0 ↑[#Use One Code At A Time, Deactivate Codes When Leaving The Shop]
 _L 0x00000000 0x00000000
 _C0 Materials
 _L 0x206CDC7C 0x00980C53
@@ -127192,7 +127190,7 @@ _L 0x209BD500 0x06F7FF8F
 _L 0x209B63F8 0xFFFFFF00
 _L 0x209B667C 0x00000000
 _L 0x209B6670 0x00000000
-_C0 Chance Guard 1/3
+_C0 Chance Guard (1/3)
 _L 0xE0032B2B 0x009B68FC
 _L 0xE0022929 0x009B6900
 _L 0xE0010000 0x009B6AA0
@@ -127224,7 +127222,7 @@ _L 0x509B6A8C 0x00000002
 _L 0x009B6A8E 0x00000000
 _C0 ↑[#Time Reduction With R During Effect Time Stop + Own MS Also Slows Down, Release Guard With X While Guarding (Later Free Fall)]
 _L 0x00000000 0x00000000
-_C0 Chance Guard 2/3
+_C0 Chance Guard (2/3)
 _L 0xE0000000 0x00000000
 _L 0x217E014C 0x3DD00000
 _L 0xE11000FF 0x217E0148
@@ -127253,7 +127251,7 @@ _L 0x209CCDF4 0x3F800000
 _L 0x209D2DB8 0x3F800000
 _C0 ↑[#Time Reduction With R During Effect Time Stop + Own MS Also Slows Down, Release Guard With X While Guarding (Later Free Fall)]
 _L 0x00000000 0x00000000
-_C0 Chance Guard 3/3
+_C0 Chance Guard (3/3)
 _L 0xE0000000 0x00000000
 _L 0xE0042B2B 0x009B68FC
 _L 0xE0032929 0x009B6900
@@ -127625,7 +127623,7 @@ _L 0x209B60B0 0x3F000000
 _L 0x209B60B4 0x3F000000
 _L 0x209B60B8 0x3F000000
 _L 0x206A5794 0x0000003B
-_C0 Scene Cut 1/3
+_C0 Scene Cut (1/3)
 _L 0xE01A0205 0x002FEB80
 _L 0xE10C0000 0x017E0144
 _L 0x509BC414 0x00000004
@@ -127658,7 +127656,7 @@ _L 0x417E0120 0x00090001
 _L 0x00000000 0x00000000
 _C0 ↑[#After Settlement, Operation MS Stops At □, Only For 2P, Height Is Fixed Same As Your MS With X (Cannot Be Released), Move Same Coordinates As Your MS With △]
 _L 0x00000000 0x00000000
-_C0 Scene Cut 2/3
+_C0 Scene Cut (2/3)
 _L 0xE1020005 0x002FEB82
 _L 0xE1010002 0x002FEB81
 _L 0x30100001 0x017E0145
@@ -127683,7 +127681,7 @@ _L 0xE1010002 0x102FEB81
 _L 0x117E0144 0x00000000
 _C0 ↑[#After Settlement, Operation MS Stops At □, Only For 2P, Height Is Fixed Same As Your MS With X (Cannot Be Released), Move Same Coordinates As Your MS With △]
 _L 0x00000000 0x00000000
-_C0 Scene Cut 3/3
+_C0 Scene Cut (3/3)
 _L 0xE10B0002 0x002FEB81
 _L 0xE10A0003 0x302FEB82
 _L 0xD0000000 0x10000010
@@ -132010,7 +132008,7 @@ _L 0x213D4B34 0x44200000
 _L 0x213D4B38 0x44340000
 _C0 _________[>>>Freedom (Renza FG)<<<]_________
 _L 0x00000000 0x00000000
-_C0 Renza FG 1/3
+_C0 Renza FG (1/3)
 _L 0xE11E001B 0x009B6020
 _L 0x20B87850 0x40500000
 _L 0x20B87820 0x40500000
@@ -132040,7 +132038,7 @@ _L 0x213D4874 0x00500064
 _L 0x213D48A4 0x00500064
 _L 0x213D48D4 0x00500064
 _L 0x213D4904 0x00320064
-_C0 Renza FG 2/3
+_C0 Renza FG (2/3)
 _L 0xE11E001B 0x009B6020
 _L 0x213D43E4 0x00010107
 _L 0x213D43EC 0x00020107
@@ -132065,7 +132063,7 @@ _L 0xE0015C29 0x009B6808
 _L 0x109B6A28 0x000001D1
 _L 0xE0017AE1 0x008B680C
 _L 0x109B6A28 0x000001D1
-_C0 Renza FG 3/3
+_C0 Renza FG (3/3)
 _L 0xE11E001B 0x009B6020
 _L 0xD0000003 0x10008000
 _L 0xE00147AE 0x009B680C
@@ -132267,7 +132265,7 @@ _L 0x213E03D4 0x42000000
 _L 0x213E03D8 0x42000000
 _C0 _________[>>>GP02 (BKSM)<<<]_________
 _L 0x00000000 0x00000000
-_C0 GP02 (BKSM) 1/3
+_C0 GP02 (BKSM) (1/3)
 _L 0xE11E001F 0x009B6020
 _L 0x013D4B02 0x00000004
 _L 0x013D4B4B 0x0000000B
@@ -132298,7 +132296,7 @@ _L 0x213D6610 0x461C4000
 _L 0x013D662C 0x0000001D
 _L 0x213D6630 0x088C40D0
 _L 0x213D6C64 0x00290000
-_C0 GP02 (BKSM) 2/3
+_C0 GP02 (BKSM) (2/3)
 _L 0xE11E001F 0x009B6020
 _L 0x813D5AB9 0x00030030
 _L 0x0000000F 0x00000000
@@ -132329,7 +132327,7 @@ _L 0x813D6488 0x00030018
 _L 0x1000E800 0x00000000
 _L 0x213D5900 0x00190008
 _L 0x213D60C8 0x02000000
-_C0 GP02 (BKSM) 3/3
+_C0 GP02 (BKSM) (3/3)
 _L 0xE11E001F 0x009B6020
 _L 0x813D5A20 0x00030030
 _L 0x00000032 0x00000000
@@ -132580,7 +132578,7 @@ _L 0x113D65C8 0x00000F0F
 _L 0x013D65DF 0x00000020
 _C0 __________[>>>Gundam Virsago (BKSM)<<<]__________
 _L 0x00000000 0x00000000
-_C0 Gundam Virsago v2.1 (BKSM) 1/3
+_C0 Gundam Virsago v2.1 (BKSM) (1/3)
 _L 0xE11E0015 0x009B6020
 _L 0x213D6304 0x3F500000
 _L 0x213D6BD0 0x42200000
@@ -132611,7 +132609,7 @@ _L 0x209B69A8 0x4AB40000
 _L 0x213D5DA4 0x00885000
 _L 0x213D5DA8 0x02020001
 _L 0x213D5DAC 0xFFFF0300
-_C0 Gundam Virsago v2.1 (BKSM) 2/3
+_C0 Gundam Virsago v2.1 (BKSM) (2/3)
 _L 0xE11E0015 0x009B6020
 _L 0x113D5E50 0x00000050
 _L 0x113D5E64 0x00000009
@@ -132642,7 +132640,7 @@ _L 0x113D6180 0x00000032
 _L 0x013D619F 0x00000020
 _L 0xE101000E 0x009BC788
 _L 0x009B68D4 0x00000000
-_C0 Gundam Virsago v2.1 (BKSM) 3/3
+_C0 Gundam Virsago v2.1 (BKSM) (3/3)
 _L 0xE11E0015 0x009B6020
 _L 0x009B63FC 0x00000000
 _L 0x413D5C7C 0x00070002
@@ -135539,7 +135537,7 @@ _L 0x209D3C04 0x40400000
 _L 0xE11E0001 0x01705001
 _C0 _________[>>>Strike (Mod)<<<]_________
 _L 0x00000000 0x00000000
-_C0 Strike 1/3
+_C0 Strike (1/3)
 _L 0xE11E0018 0x006A5794
 _L 0x209BD500 0xFFFFFFFF
 _L 0x209BD504 0x313FCFF7
@@ -135560,7 +135558,7 @@ _L 0xE0014334 0x009B6842
 _L 0x009B6443 0x00000002
 _L 0x013D92B8 0x0000000C
 _L 0x213D92E8 0x01010006
-_C0 Strike 2/3
+_C0 Strike (2/3)
 _L 0xE11E0018 0x006A5794
 _L 0x413D96BC 0x00080002
 _L 0x00080007 0x00000000
@@ -135591,7 +135589,7 @@ _L 0x413D958C 0x00080002
 _L 0x00010001 0x00000000
 _L 0x413D9774 0x00080002
 _L 0x00040107 0x00000000
-_C0 Strike 3/3
+_C0 Strike (3/3)
 _L 0xE11E0018 0x006A5794
 _L 0x213D96A4 0x00070107
 _L 0x013D9B76 0x00000032
@@ -137236,7 +137234,7 @@ _L 0xE0014710 0x009BC414
 _L 0x303000C8 0x009B6A8E
 _L 0xE0012C2C 0x009B68FC
 _L 0x009B6432 0x00000002
-_C0 Z StanAttack 1/3
+_C0 Z StanAttack (1/3)
 _L 0xE11E0006 0x009B6020
 _L 0xE1040000 0x017E0002
 _L 0xE0030000 0x109BD64E
@@ -137266,7 +137264,7 @@ _L 0x017E0002 0x00000001
 _L 0xE10200C0 0x009B6904
 _L 0xE0012B2B 0x009D43BC
 _L 0x017E0002 0x00000001
-_C0 Z StanAttack 2/3
+_C0 Z StanAttack (2/3)
 _L 0xE11E0006 0x009B6020
 _L 0xE11E0000 0x317E0000
 _L 0xE10B00B0 0x009B6904
@@ -137293,7 +137291,7 @@ _L 0x209CC1A8 0x00000101
 _L 0x209C565C 0x00000909
 _L 0x209CC1AC 0x00000001
 _L 0x117E0000 0x00000000
-_C0 Z StanAttack 3/3
+_C0 Z StanAttack (3/3)
 _L 0xE11E0006 0x009B6020
 _L 0xE11E0000 0x317E0000
 _L 0xE10B0010 0x009B6904
@@ -141499,7 +141497,7 @@ _C0 Room Modifier: Swamp
 _L 0x20355A30 0x00000C07
 _C0 Room Modifier: Village By River
 _L 0x20355A30 0x00000B07
-_C0 Room Modifier: wmEvent
+_C0 Room Modifier: WmEvent
 _L 0x20355A30 0x00003507
 _C0 Speed Up 1.5
 _L 0x60366F50 0x3FC00000
@@ -141543,7 +141541,7 @@ _C0 1 Hit Kill
 _L 0x201EB08C 0x24040000
 _C0 1 Hit Kill [Off]
 _L 0x201EB08C 0x864401C8
-_C0 1 Hit Lvl 99
+_C0 1 Hit Lvl. 99
 _L 0x217287D8 0x00FFFFFF
 _C0 Arena Level 1
 _L 0x017287F4 0x00000001
@@ -142010,7 +142008,7 @@ _L 0x017287DA 0x000000FF
 _C0 Vanitas D-Link (Ventus)
 _L 0xD1717B00 0x00000000
 _L 0x21717B00 0x83000173
-_C0 Ventus 1 Hit Lvl 99
+_C0 Ventus 1 Hit Lvl. 99
 _L 0x217287D8 0x00FFFFFF
 _C0 Ventus Max HP
 _L 0x017287E8 0x0000006E
@@ -142998,7 +142996,7 @@ _L 0x8044CD88 0x000D0002
 _L 0x00000063 0x00000000
 _C0 Last Map
 _L 0x0043D116 0x00000030
-_C0 Law Start (To blue Scene)
+_C0 Law Start (To Blue Scene)
 _L 0x0043D0DB 0x00000001
 _C0 Leveling Map All
 _L 0x0043D0DA 0x00000030
@@ -143866,14 +143864,14 @@ _S ULES-00554
 _G L.A. Rush [EU]
 _C0 Extreme Motor Sound
 _L 0x001E0E84 0x40800000
-_C0 Movie/CinemAtic Camera
+_C0 Movie/Cinematic Camera
 _L 0x001EEBF0 0x40800000
 _S ULUS-10174
 _G L.A. Rush [US]
 _C0 Auto Increase Money
 _L 0x616C68D8 0x0098967F
 _L 0x00020001 0x00001408
-_C0 Image In black
+_C0 Image In Black
 _L 0x61699470 0x3F800000
 _L 0x00020001 0x00001580
 _C0 Inf. Bonus
@@ -143897,7 +143895,7 @@ _C0 Money Cheat
 _L 0x202B4EF8 0x000F423F
 _L 0x2169B644 0x000F423F
 _L 0x2169B658 0x000F423F
-_C0 Never police
+_C0 Never Police
 _L 0x61699F98 0x00000000
 _L 0x00020001 0x000016FC
 _S ULJM-05745
@@ -147013,7 +147011,7 @@ _C0 Quick Score Gain v2
 _L 0x0041C52C 0x000000FF
 _C0 Random Stuff
 _L 0x0040FF54 0x0000FFFF
-_C0 ↑[#Menus Will Some Times Randomly Open If You Press /\ To Talk To A Dude & You Turn This On You Can't Leave The Talk & Other random Stuff Like That]
+_C0 ↑[#Menus Will Some Times Randomly Open If You Press /\ To Talk To A Dude & You Turn This On You Can't Leave The Talk & Other Random Stuff Like That]
 _L 0x00000000 0x00000000
 _C0 Rapid Menu
 _L 0x00413DD0 0x00000000
@@ -148887,7 +148885,7 @@ _C0 Max Item 01 In Bag
 _L 0x10346692 0x00000063
 _C0 Max Item 01 In Storage
 _L 0x1034BCEE 0x00000063
-_C0 Max Items All In-hand
+_C0 Max Items All In-Hand
 _L 0x1034BA82 0x00000063
 _L 0x1034BA86 0x00000063
 _L 0x1034BA8A 0x00000063
@@ -149371,7 +149369,7 @@ _L 0x50346484 0x00000004
 _L 0x00346488 0x00000000
 _C0 Inf. Pulse
 _L 0x2034647C 0x00000000
-_C0 Items All In-hand x3
+_C0 Items All In-Hand x3
 _L 0x1034B902 0x00000003
 _L 0x1034B906 0x00000003
 _L 0x1034B90A 0x00000003
@@ -153692,82 +153690,82 @@ _L 0x1034654E 0x00000063
 _L 0x1034B93E 0x00000063
 _L 0x1034654C 0x00000009
 _L 0x1034B93C 0x00000009
-_C0 Max Amrita Hi-balm (Slot 1-Bag)
+_C0 Max Amrita Hi-Balm (Slot 1-Bag)
 _L 0x10346512 0x00000063
 _L 0x1034B902 0x00000063
 _L 0x10346510 0x0000000A
 _L 0x1034B900 0x0000000A
-_C0 Max Amrita Hi-balm (Slot 2-Bag)
+_C0 Max Amrita Hi-Balm (Slot 2-Bag)
 _L 0x10346516 0x00000063
 _L 0x1034B906 0x00000063
 _L 0x10346514 0x0000000A
 _L 0x1034B904 0x0000000A
-_C0 Max Amrita Hi-balm (Slot 3-Bag)
+_C0 Max Amrita Hi-Balm (Slot 3-Bag)
 _L 0x1034651A 0x00000063
 _L 0x1034B90A 0x00000063
 _L 0x10346518 0x0000000A
 _L 0x1034B908 0x0000000A
-_C0 Max Amrita Hi-balm (Slot 4-Bag)
+_C0 Max Amrita Hi-Balm (Slot 4-Bag)
 _L 0x1034651E 0x00000063
 _L 0x1034B90E 0x00000063
 _L 0x1034651C 0x0000000A
 _L 0x1034B90C 0x0000000A
-_C0 Max Amrita Hi-balm (Slot 5-Bag)
+_C0 Max Amrita Hi-Balm (Slot 5-Bag)
 _L 0x10346522 0x00000063
 _L 0x1034B912 0x00000063
 _L 0x10346520 0x0000000A
 _L 0x1034B910 0x0000000A
-_C0 Max Amrita Hi-balm (Slot 6-Bag)
+_C0 Max Amrita Hi-Balm (Slot 6-Bag)
 _L 0x10346526 0x00000063
 _L 0x1034B916 0x00000063
 _L 0x10346524 0x0000000A
 _L 0x1034B914 0x0000000A
-_C0 Max Amrita Hi-balm (Slot 7-Bag)
+_C0 Max Amrita Hi-Balm (Slot 7-Bag)
 _L 0x1034652A 0x00000063
 _L 0x1034B91A 0x00000063
 _L 0x10346528 0x0000000A
 _L 0x1034B918 0x0000000A
-_C0 Max Amrita Hi-balm (Slot 8-Bag)
+_C0 Max Amrita Hi-Balm (Slot 8-Bag)
 _L 0x1034652E 0x00000063
 _L 0x1034B91E 0x00000063
 _L 0x1034652C 0x0000000A
 _L 0x1034B91C 0x0000000A
-_C0 Max Amrita Hi-balm (Slot 9-Bag)
+_C0 Max Amrita Hi-Balm (Slot 9-Bag)
 _L 0x10346532 0x00000063
 _L 0x1034B922 0x00000063
 _L 0x10346530 0x0000000A
 _L 0x1034B920 0x0000000A
-_C0 Max Amrita Hi-balm (Slot 10-Bag)
+_C0 Max Amrita Hi-Balm (Slot 10-Bag)
 _L 0x10346536 0x00000063
 _L 0x1034B926 0x00000063
 _L 0x10346534 0x0000000A
 _L 0x1034B924 0x0000000A
-_C0 Max Amrita Hi-balm (Slot 11-Bag)
+_C0 Max Amrita Hi-Balm (Slot 11-Bag)
 _L 0x1034653A 0x00000063
 _L 0x1034B92A 0x00000063
 _L 0x10346538 0x0000000A
 _L 0x1034B928 0x0000000A
-_C0 Max Amrita Hi-balm (Slot 12-Bag)
+_C0 Max Amrita Hi-Balm (Slot 12-Bag)
 _L 0x1034653E 0x00000063
 _L 0x1034B92E 0x00000063
 _L 0x1034653C 0x0000000A
 _L 0x1034B92C 0x0000000A
-_C0 Max Amrita Hi-balm (Slot 13-Bag)
+_C0 Max Amrita Hi-Balm (Slot 13-Bag)
 _L 0x10346542 0x00000063
 _L 0x1034B932 0x00000063
 _L 0x10346540 0x0000000A
 _L 0x1034B930 0x0000000A
-_C0 Max Amrita Hi-balm (Slot 14-Bag)
+_C0 Max Amrita Hi-Balm (Slot 14-Bag)
 _L 0x10346546 0x00000063
 _L 0x1034B936 0x00000063
 _L 0x10346544 0x0000000A
 _L 0x1034B934 0x0000000A
-_C0 Max Amrita Hi-balm (Slot 15-Bag)
+_C0 Max Amrita Hi-Balm (Slot 15-Bag)
 _L 0x1034654A 0x00000063
 _L 0x1034B93A 0x00000063
 _L 0x10346548 0x0000000A
 _L 0x1034B938 0x0000000A
-_C0 Max Amrita Hi-balm (Slot 16-Bag)
+_C0 Max Amrita Hi-Balm (Slot 16-Bag)
 _L 0x1034654E 0x00000063
 _L 0x1034B93E 0x00000063
 _L 0x1034654C 0x0000000A
@@ -181802,9 +181800,9 @@ _C0 Blog 255 Win
 _L 0x103200E8 0x000000FF
 _C0 Date 1
 _L 0x10314298 0x00000001
-_C0 Fan 10000 nin
+_C0 Fan 10000 Nin
 _L 0x203142A0 0x00002710
-_C0 Fan 999,999,999,999 nin
+_C0 Fan 999,999,999,999 Nin
 _L 0x203142A0 0xD4A50FFF
 _L 0x203142A4 0x000000E8
 _C0 Jukebox All
@@ -183410,7 +183408,7 @@ _L 0x0028A8B7 0x00000038
 _L 0x0028A8B8 0x00000038
 _L 0x0028A8B9 0x00000080
 _L 0x0028A8BA 0x00000080
-_C0 Cyu-ren Pooton
+_C0 Cyu-Ren Pooton
 _L 0x0028A8BE 0x00000000
 _L 0x0028A8BF 0x00000000
 _L 0x0028A8C0 0x00000000
@@ -183454,7 +183452,7 @@ _L 0x0028A8B9 0x00000084
 _L 0x0028A8BA 0x00000084
 _C0 Fight 9999
 _L 0x1058508A 0x0000270F
-_C0 Fight oubu
+_C0 Fight Oubu
 _L 0x00352334 0xFFFFFFFF
 _C0 Gold 9999
 _L 0x105853AC 0x0000270F
@@ -184299,7 +184297,7 @@ _L 0x20468010 0xFFFFFFFF
 _L 0x20468014 0xFFFFFFFF
 _S ULJS-00062
 _G Mai-Hime Senretsu! Shin Fuuka Gakuen Gekitoushi!! [JP]
-_C0 Start Game for Debug Game Mode Select Menu
+_C0 Start Game For Debug Game Mode Select Menu
 _L 0x204A24B8 0x00000001
 _S ULJS-00088
 _G Makai Senki Disgaea Portable [JP]
@@ -184440,7 +184438,7 @@ _C0 People Make There 100%
 _L 0x001D2060 0x00000064
 _C0 Props To Class World's Largest Number Of
 _L 0x201D205C 0x3B9AC9FF
-_C0 Shop pop Max (Max Lv12)
+_C0 Shop Pop Max (Max Lv12)
 _L 0x001D1A8B 0x0000000C
 _C0 Special Breaks All The Enemy
 _L 0x101D2064 0x00003FFF
@@ -184583,7 +184581,7 @@ _L 0x20439078 0x240203E8
 _C0 UNITE Gauge Infinite
 _L 0x20439BBC 0xAC630014
 _S ULJM-05345
-_G Mana Khemia: Gakuen No Renkinjutsushi-tacHi Portable Plus [JP]
+_G Mana Khemia: Gakuen No Renkinjutsushi-Tachi Portable Plus [JP]
 _C0 65535 Gold
 _L 0x101C6E80 0x0000FFFF
 _L 0x106D13A8 0x0000FFFF
@@ -184824,7 +184822,7 @@ _C0 Monster Bone
 _L 0x006AD31D 0x00000063
 _C0 Nicole Mimi TiThel 65535AP
 _L 0x106D0E90 0x0000FFFF
-_C0 Nikki's friends For summon
+_C0 Nikki's Friends For Summon
 _L 0x006AD46E 0x00000063
 _L 0x006AD46F 0x00000063
 _L 0x006AD470 0x00000063
@@ -188017,7 +188015,7 @@ _L 0x2005D7B0 0x3F04FFFF
 _C0 Slow Gameplay
 _L 0x200398ED 0x000398ED
 _L 0x200398EA 0x000398EA
-_C0 Slow walking
+_C0 Slow Walking
 _L 0x2016ADC0 0x00003EF0
 _C0 Suicide
 _L 0xFFFFFFFF 0x006286DC
@@ -189438,7 +189436,7 @@ _C0 1P Action Gauge Infinity
 _L 0x101C55C0 0x00002EE0
 _C0 1P Finish Gauge Infinity
 _L 0x101C55BC 0x000007530
-_C0 2P Action gauge0
+_C0 2P Action Gauge0
 _L 0x101DE300 0x00000000
 _C0 2P Finish Gauge 0
 _L 0x101DE2FC 0x00000000
@@ -189644,13 +189642,13 @@ _L 0x202E0878 0x0000000F
 _L 0x202E0860 0x40400000
 _C0 ↑[#Force FPS To Run At 20 FPS -Original Value-]
 _L 0x00000000 0x00000000
-_C0 30 FPS v.1
+_C0 30 FPS v1
 _L 0x203270B0 0x00000002
 _L 0x202E0878 0x0000000A
 _L 0x202E0860 0x40000000
 _C0 ↑[#Force FPS To Run At 30 FPS]
 _L 0x00000000 0x00000000
-_C0 60 FPS v.1
+_C0 60 FPS v1
 _L 0x203270B0 0x00000001
 _L 0x202E0878 0x00000005
 _L 0x202E0860 0x3F800000
@@ -190006,7 +190004,7 @@ _L 0x2024EF38 0x1000028A
 _C0 Max Stunrod Gauge
 _L 0x2052E570 0x00002710
 _C0 No Camera Wobble
-_L 0x20147f78 0x00000000
+_L 0x20147F78 0x00000000
 _C0 Perfect Invisible 1/2
 _L 0x814B1540 0x00040004
 _L 0x000000FF 0x00000000
@@ -190786,7 +190784,7 @@ _C0 100% Camouflage Rate v2
 _L 0x2017DF54 0x240203E8
 _C0 100% Camouflage Rate [Disable]
 _L 0x2017DF54 0x2402FC18
-_C0 All Items developed
+_C0 All Items Developed
 _L 0x20049B98 0x00000000
 _L 0x20049B9C 0x24020003
 _L 0x20049BA0 0xAC820004
@@ -191160,13 +191158,13 @@ _L 0x202CDB90 0x0000000F
 _L 0x202CDB78 0x40400000
 _C0 ↑[#Force FPS To Run At 20 FPS -Original Value-]
 _L 0x00000000 0x00000000
-_C0 30 FPS v.1
+_C0 30 FPS v1
 _L 0x20314170 0x00000002
 _L 0x202CDB90 0x0000000A
 _L 0x202CDB78 0x40000000
 _C0 ↑[#Force FPS To Run At 30 FPS]
 _L 0x00000000 0x00000000
-_C0 60 FPS v.1
+_C0 60 FPS v1
 _L 0x20314170 0x00000001
 _L 0x202CDB90 0x00000005
 _L 0x202CDB78 0x3F800000
@@ -191265,7 +191263,7 @@ _L 0x207EF1B8 0x0E40E1A4
 _L 0x207EF238 0x0E40E1A4
 _C0 _________[>>>FPS Cheats<<<]_________
 _L 0x00000000 0x00000000
-_C0 20/30 FPS v.4 [Default]
+_C0 20/30 FPS v4 [Default]
 _L 0xE0130009 0x10071AF0
 _L 0x20071AF0 0x10830009
 _L 0x20071AF8 0x14400017
@@ -191288,7 +191286,7 @@ _L 0x201F2990 0x3421D14E
 _L 0x2020F8A8 0x3C013F80
 _C0 ↑[#Force FPS To Run At 20/30 FPS -Original Value-]
 _L 0x00000000 0x00000000
-_C0 30 FPS v.4
+_C0 30 FPS v4
 _L 0xE009C6C6 0x10071AF0
 _L 0x20071AF0 0x0A21C6C6
 _L 0x20071BA4 0x0A21C6F5
@@ -191306,7 +191304,7 @@ _L 0x20863A8C 0x3C013D13
 _L 0x20863A90 0x3421E93F
 _C0 ↑[#Force FPS To Run At 30 FPS]
 _L 0x00000000 0x00000000
-_C0 60 FPS v.3 [In-Game Only]
+_C0 60 FPS v3 [In-Game Only]
 _L 0xE00F0003 0x0055DE04
 _L 0x2055DE04 0x00000001
 _L 0x203E7540 0x00000005
@@ -191330,7 +191328,7 @@ _L 0x20863A8C 0x3C013C93
 _L 0x20863A90 0x3421E93F
 _C0 ↑[#Force FPS To Run At 60 FPS -Only In-Game-]
 _L 0x00000000 0x00000000
-_C0 60 FPS v.4 [Always]
+_C0 60 FPS v4 [Always]
 _L 0xE0120000 0x10071AF0
 _L 0x20071AF0 0x00000000
 _L 0x20071AF8 0x0A21C6D6
@@ -192035,7 +192033,7 @@ _C0 Weapon Stat Multiplier x16
 _L 0x20053A10 0x00031100
 _C0 Weapon Stat Multiplier x32
 _L 0x20053A10 0x00031140
-_C0 Weapons Exp. Pts. Lvl Increase
+_C0 Weapons Exp. Pts. Lvl. Increase
 _L 0x20053A10 0x00031140
 _S ULJM-05227
 _G Metal Gear Solid: Portable Ops (Premium Pack) [JP]
@@ -192758,7 +192756,7 @@ _C0 EX.Mk22 /Top
 _L 0xE0020000 0x102FA622
 _L 0x602FA620 0x00289903
 _L 0x00020001 0x00000010
-_C0 EX.MOSIn /Right
+_C0 EX.MOSIN /Right
 _L 0xE0020000 0x102FA622
 _L 0x602FA620 0x0009190F
 _L 0x00020001 0x0000003C
@@ -192770,7 +192768,7 @@ _C0 EX.Stelth /Left
 _L 0xE0020000 0x102FA622
 _L 0x602FA620 0x01000014
 _L 0x00020001 0x00000094
-_C0 Get 9999 Of All Weapons, Items & Ammo In Your re
+_C0 Get 9999 Of All Weapons, Items & Ammo In Your Re
 _L 0x1022442E 0x0000270F
 _L 0x10224430 0x0000270F
 _L 0x10224432 0x0000270F
@@ -193868,7 +193866,7 @@ _C0 Grenade Rensha (Sub)
 _L 0x60299DF8 0x00000005
 _L 0x00000002 0x000000EC
 _L 0x200000F8 0x00000000
-_C0 Heisikai 1/3
+_C0 Heisikai (1/3)
 _L 0x20033AD0 0x0A7E8000
 _L 0x20033B2C 0x0A7E8019
 _L 0x20033BCC 0x90C20040
@@ -193899,7 +193897,7 @@ _L 0x217A0048 0x0E20CE57
 _L 0x217A004C 0xAFBF0018
 _L 0x217A0050 0x8FFDFFAC
 _L 0x217A0054 0x8FF0FFA8
-_C0 Heisikai 2/3
+_C0 Heisikai (2/3)
 _L 0x217A0058 0x8FF1FFA4
 _L 0x217A005C 0x0A20CEB5
 _L 0x217A0060 0x8FA40000
@@ -193920,7 +193918,7 @@ _L 0x217A0098 0x24050000
 _L 0x217A009C 0x03E02821
 _L 0x217A00A0 0x03E00008
 _L 0x217A00A4 0x00000000
-_C0 Heisikai 3/3
+_C0 Heisikai (3/3)
 _L 0x217A00A8 0x27E201D0
 _L 0x217A00AC 0x8C430000
 _L 0x217A00B0 0xAE030024
@@ -194346,7 +194344,7 @@ _L 0x20000024 0x20000040
 _L 0x601CA96C 0x00000907
 _L 0x00020003 0x00000068
 _L 0x20000024 0x20000040
-_C0 Stan RPG-7 (ver0.02) 1/3
+_C0 Stan RPG-7 (v0.02) (1/3)
 _L 0x601CA96C 0x00000002
 _L 0x00020003 0x00000000
 _L 0x20000024 0x20000040
@@ -194377,7 +194375,7 @@ _L 0x20000024 0x20000040
 _L 0x601CA96C 0x00000000
 _L 0x00020003 0x00000024
 _L 0x20000024 0x20000040
-_C0 Stan RPG-7 (ver0.02) 2/3
+_C0 Stan RPG-7 (v0.02) (2/3)
 _L 0xD0000021 0x10000100
 _L 0x601CA96C 0x00000002
 _L 0x00020003 0x00000000
@@ -194406,7 +194404,7 @@ _L 0x20000024 0x20000040
 _L 0x601CA96C 0x00000005
 _L 0x00020003 0x00000020
 _L 0x20000024 0x20000040
-_C0 Stan RPG-7 (ver0.02) 3/3
+_C0 Stan RPG-7 (v0.02) (3/3)
 _L 0xD0000021 0x10000200
 _L 0x601CA96C 0x00000002
 _L 0x00020003 0x00000000
@@ -194435,7 +194433,7 @@ _L 0x20000024 0x20000040
 _L 0x601CA96C 0x00000020
 _L 0x00020003 0x00000020
 _L 0x20000024 0x20000040
-_C0 Stan Scorpion 1/3
+_C0 Stan Scorpion (1/3)
 _L 0x601CA96C 0x00000002
 _L 0x00020003 0x00000000
 _L 0x20000024 0x20000040
@@ -194466,7 +194464,7 @@ _L 0x20000024 0x20000040
 _L 0x601CA96C 0x001E0000
 _L 0x00020003 0x00000024
 _L 0x20000024 0x20000040
-_C0 Stan Scorpion 2/3
+_C0 Stan Scorpion (2/3)
 _L 0xD0000021 0x10000200
 _L 0x601CA96C 0x00000002
 _L 0x00020003 0x00000000
@@ -194495,7 +194493,7 @@ _L 0x20000024 0x20000040
 _L 0x601CA96C 0x00000020
 _L 0x00020003 0x00000020
 _L 0x20000024 0x20000040
-_C0 Stan Scorpion 3/3
+_C0 Stan Scorpion (3/3)
 _L 0xD0000021 0x10000100
 _L 0x601CA96C 0x00000002
 _L 0x00020003 0x00000000
@@ -195083,13 +195081,13 @@ _L 0x202E0878 0x0000000F
 _L 0x202E0860 0x40400000
 _C0 ↑[#Force FPS To Run At 20 FPS -Testing Phase-]
 _L 0x00000000 0x00000000
-_C0 30 FPS v.1
+_C0 30 FPS v1
 _L 0x203270B0 0x00000002
 _L 0x202E0878 0x0000000A
 _L 0x202E0860 0x40000000
 _C0 ↑[#Force FPS To Run At 30 FPS -Testing Phase-]
 _L 0x00000000 0x00000000
-_C0 60 FPS v.1
+_C0 60 FPS v1
 _L 0x203270B0 0x00000001
 _L 0x202E0878 0x00000005
 _L 0x202E0860 0x3F800000
@@ -195115,13 +195113,13 @@ _L 0x202E0878 0x0000000F
 _L 0x202E0860 0x40400000
 _C0 ↑[#Force FPS To Run At 20 FPS -Testing Phase-]
 _L 0x00000000 0x00000000
-_C0 30 FPS v.1
+_C0 30 FPS v1
 _L 0x203270B0 0x00000002
 _L 0x202E0878 0x0000000A
 _L 0x202E0860 0x40000000
 _C0 ↑[#Force FPS To Run At 30 FPS -Testing Phase-]
 _L 0x00000000 0x00000000
-_C0 60 FPS v.1
+_C0 60 FPS v1
 _L 0x203270B0 0x00000001
 _L 0x202E0878 0x00000005
 _L 0x202E0860 0x3F800000
@@ -199317,11 +199315,11 @@ _C0 Elf: Infinite Potions v2
 _L 0x20328109 0x00000003
 _C0 Elf: Infinite Potions v3
 _L 0x20B28109 0x00000003
-_C0 Gauntlet: Edit To Select Lvl
+_C0 Gauntlet: Edit To Select Lvl.
 _L 0x00B27825 0x00000019
-_C0 Gauntlet: Edit To Select Lvl v2
+_C0 Gauntlet: Edit To Select Lvl. v2
 _L 0x20327825 0x00000019
-_C0 Gauntlet: Edit To Select Lvl v3
+_C0 Gauntlet: Edit To Select Lvl. v3
 _L 0x20B27825 0x00000019
 _C0 Gauntlet: Inf. Health Warrior
 _L 0x00B280F6 0x00000027
@@ -200709,7 +200707,7 @@ _L 0x00000001 0x00000000
 _C0 All Head Item
 _L 0x8038ACDE 0x00810001
 _L 0x00000005 0x00000000
-_C0 All Hole dasuu 1
+_C0 All Hole Dasuu 1
 _L 0x80362808 0x00120060
 _L 0x00000001 0x00000000
 _C0 Challenge BlackRank
@@ -201141,6 +201139,23 @@ _L 0x2128AE70 0x45010026
 _L 0x2128B5C4 0x46000032
 _L 0x2128B5C8 0x34110000
 _L 0x2128B208 0x34020004
+_C0 Always Win In Season Mode ([Hold Square)
+_L 0x20001040 0x3C08088B
+_L 0x20001044 0x910802F7
+_L 0x20001048 0x1100000A
+_L 0x2000104C 0x8E287478
+_L 0x20001050 0x91080042
+_L 0x20001054 0x340B0032
+_L 0x20001058 0x92090005
+_L 0x2000105C 0x15280002
+_L 0x20001060 0x92090002
+_L 0x20001064 0xA20B0004
+_L 0x20001068 0x15280002
+_L 0x20001070 0xA20B0001
+_L 0x20001074 0x2411FFFF
+_L 0x20001078 0x0A693E66
+_L 0xE001566B 0x0124F988
+_L 0x2124F990 0x0A200410
 _C0 Can't Swing Bat
 _L 0xE0034CC7 0x0132D284
 _L 0x2132D28C 0x341300CC
@@ -201340,6 +201355,23 @@ _L 0x2000101C 0xAE400044
 _L 0x20001020 0x8E450000
 _L 0x20001024 0x0A67318C
 _L 0x211CC628 0x0A200400
+_C0 Always Win In Season Mode (Hold Square)
+_L 0x20001040 0x3C080893
+_L 0x20001044 0x91089357
+_L 0x20001048 0x1100000A
+_L 0x2000104C 0x8E284358
+_L 0x20001050 0x91080042
+_L 0x20001054 0x340B0032
+_L 0x20001058 0x92090005
+_L 0x2000105C 0x15280002
+_L 0x20001060 0x92090002
+_L 0x20001064 0xA20B0004
+_L 0x20001068 0x15280002
+_L 0x20001070 0xA20B0001
+_L 0x20001074 0x2411FFFF
+_L 0x20001078 0x0A6791B9
+_L 0xE0012247 0x011E46CC
+_L 0x211E46DC 0x0A200410
 _C0 Inf.Grenades
 _L 0x010B52FC 0x00000006
 _C0 Various
@@ -201364,6 +201396,23 @@ _L 0x2000101C 0xAE20005C
 _L 0x20001020 0xC7B40158
 _L 0x20001024 0x0A34EB3E
 _L 0x2053ACF0 0x0A200400
+_C0 Always Win In Season Mode (Hold Square)
+_L 0x20001040 0x3C08091B
+_L 0x20001044 0x9108E207
+_L 0x20001048 0x1100000A
+_L 0x2000104C 0x8E281B58
+_L 0x20001050 0x91080043
+_L 0x20001054 0x340B0032
+_L 0x20001058 0x92090005
+_L 0x2000105C 0x15280002
+_L 0x20001060 0x92090002
+_L 0x20001064 0xA20B0004
+_L 0x20001068 0x15280002
+_L 0x20001070 0xA20B0001
+_L 0x20001074 0x2411FFFF
+_L 0x20001078 0x0A353384
+_L 0xE001501A 0x0054CE00
+_L 0x2054CE08 0x0A200410
 _S UCUS-98696
 _G MLB 08: The Show [US]
 _C0 0 Balls
@@ -201410,6 +201459,23 @@ _L 0x20001024 0x0A616BF1
 _L 0x2105AFBC 0x0A200400
 _C0 Always Throw The Ball At 999 Mph.
 _L 0x0135BB94 0x000003E7
+_C0 Always Win In Season Mode (Hold Square)
+_L 0x20001040 0x3C08089F
+_L 0x20001044 0x91085D77
+_L 0x20001048 0x1100000A
+_L 0x2000104C 0x8E280998
+_L 0x20001050 0x91080043
+_L 0x20001054 0x340B0032
+_L 0x20001058 0x92090005
+_L 0x2000105C 0x15280002
+_L 0x20001060 0x92090002
+_L 0x20001064 0xA20B0004
+_L 0x20001068 0x15280002
+_L 0x20001070 0xA20B0001
+_L 0x20001074 0x2411FFFF
+_L 0x20001078 0x0A5C1D12
+_L 0xE0013C72 0x00F07438
+_L 0x20F07440 0x0A200410
 _C0 Balls Go Higher
 _L 0x00AEA1D4 0xFDE0780E
 _L 0x00BE25A0 0xF93FFE93
@@ -201432,7 +201498,7 @@ _L 0x0139D510 0x00000002
 _L 0x015FBF3C 0x00000002
 _L 0x015FBF64 0x00000002
 _L 0x0021D644 0x00000004
-_C0 Throw The Ball At -1 mph
+_C0 Throw The Ball At -1 Mph.
 _L 0x0135BB94 0xFFFFFFFF
 _C0 Your Team Always Has 999 Runs
 _L 0x000F8ED4 0x000003E7
@@ -201464,8 +201530,54 @@ _C0 Away Team Scores 0
 _L 0x2023FE4C 0x00000000
 _C0 Away Team Scores 99
 _L 0x2023FE4C 0x00000063
+_C0 Always Hit Homeruns (Hold D-Pad Up)
+_L 0xE00D7D64 0x00FE7794
+_L 0x210244EC 0xC62F0080
+_L 0x210244F0 0x460C7BC2
+_L 0x210244F8 0xC62F0084
+_L 0x210244FC 0x460C7BC2
+_L 0x21024504 0xC62F0088
+_L 0x21024508 0x460C7B02
+_L 0xD0000006 0x10000010
+_L 0x210244EC 0x3C040000
+_L 0x210244F0 0x44847800
+_L 0x210244F8 0x3C0442B0
+_L 0x210244FC 0x44847800
+_L 0x21024504 0x3C04C320
+_L 0x21024508 0x44846000
+_C0 Always Make Contact (Hold D-Pad Down)
+_L 0xE0077D64 0x00FE7794
+_L 0x21020E1C 0x8E240000
+_L 0x21020E20 0x10800037
+_L 0x21020E50 0x10400029
+_L 0xD0000003 0x10000040
+_L 0x21020E1C 0x34040004
+_L 0x21020E20 0xAE240000
+_L 0x21020E50 0x00000000
 _C0 Always Strike 2
 _L 0x0023FE44 0x00000002
+_C0 Always Win In Season Mode (Hold Square)
+_L 0x20001040 0x3C0808A1
+_L 0x20001044 0x91082097
+_L 0x20001048 0x1100000A
+_L 0x2000104C 0x8E286914
+_L 0x20001050 0x91080044
+_L 0x20001054 0x340B0032
+_L 0x20001058 0x92090005
+_L 0x2000105C 0x15280002
+_L 0x20001060 0x92090002
+_L 0x20001064 0xA20B0004
+_L 0x20001068 0x15280002
+_L 0x20001070 0xA20B0001
+_L 0x20001074 0x2411FFFF
+_L 0x20001078 0x0A5B3D77
+_L 0xE0015CD9 0x00ECF5CC
+_L 0x20ECF5D4 0x0A200410
+_C0 Can't Make Contact (Hold Right When Pitching)
+_L 0xE0037D64 0x00FE7794
+_L 0x21020D7C 0x10800027
+_L 0xD0000001 0x10000020
+_L 0x21020D7C 0x1000001D
 _C0 Disable HUD
 _L 0x211BEF2C 0x3C064000
 _C0 Edit Pitch 1
@@ -201497,10 +201609,46 @@ _C0 No Outs
 _L 0x2023FE3C 0x00000000
 _C0 No Strikes
 _L 0x2023FE44 0x00000000
+_C0 One Ball/Strike Equals 3 Strikes (Hold Left When Pitching)
+_L 0xE0057D64 0x00FE7794
+_L 0x20FE777C 0x92040014
+_L 0x20FDF674 0x8E050024
+_L 0xD0000002 0x10000080
+_L 0x20FE777C 0x34040001
+_L 0x20FDF674 0x34050003
 _C0 Zero Balls Thrown
 _L 0x0023FE40 0x00000000
 _S UCUS-98742
 _G MLB 10: The Show [US]
+_C0 Always Hit Homerun (Hold D-Pad Up)
+_L 0x20001000 0x3C0442DD
+_L 0x20001004 0xAE240084
+_L 0x20001008 0x3C04C310
+_L 0x2000100C 0xAE240088
+_L 0x20001010 0xAE20009C
+_L 0x20001014 0xC62C009C
+_L 0x20001018 0x0A643A3C
+_L 0xE003295D 0x0110E824
+_L 0x2110E8C8 0x460C7B02
+_L 0xD0000001 0x10000010
+_L 0x2110E8C8 0x0A200400
+_C0 Always Win In Season Mode (Hold Square)
+_L 0x20001040 0x3C0808A1
+_L 0x20001044 0x91080327
+_L 0x20001048 0x1100000A
+_L 0x2000104C 0x8E287188
+_L 0x20001050 0x91080045
+_L 0x20001054 0x340B0032
+_L 0x20001058 0x92090005
+_L 0x2000105C 0x15280002
+_L 0x20001060 0x92090002
+_L 0x20001064 0xA20B0004
+_L 0x20001068 0x15280002
+_L 0x20001070 0xA20B0001
+_L 0x20001074 0x2411FFFF
+_L 0x20001078 0x0A5F8C45
+_L 0xE001AB9D 0x00FE3104
+_L 0x20FE310C 0x0A200410
 _C0 ANGELS Money
 _L 0x200F024C 0x4D7C45F0
 _C0 ASTRO'S Money
@@ -201513,7 +201661,7 @@ _C0 Brave'S Money
 _L 0x200F025C 0x4D7C45F0
 _C0 BREWER'S Money
 _L 0x200F027C 0x4D7C45F0
-_C0 CardNIAL'S Money
+_C0 CARDNIAL'S Money
 _L 0x200F0284 0x4D7C45F0
 _C0 CUB'S Money
 _L 0x200F0270 0x4D7C45F0
@@ -201523,11 +201671,11 @@ _C0 DODGER'S Money
 _L 0x200F0290 0x4D7C45F0
 _C0 GIANT'S Money
 _L 0x200F0298 0x4D7C45F0
-_C0 InDIAN'S Money
+_C0 INDIAN'S Money
 _L 0x200F023C 0x4D7C45F0
-_C0 MARILIn'S Money
+_C0 MARILIN'S Money
 _L 0x200F0260 0x4D7C45F0
-_C0 MARInERS' Money
+_C0 MARINERS' Money
 _L 0x200F0254 0x4D7C45F0
 _C0 MET'S Money
 _L 0x200F0268 0x4D7C45F0
@@ -201557,7 +201705,7 @@ _C0 TIGERS Money
 _L 0x200F0240 0x4D7C45F0
 _C0 TIGER'S Money
 _L 0x200F0258 0x4D7C45F0
-_C0 TWInS' Money
+_C0 TWINS' Money
 _L 0x200F0248 0x4D7C45F0
 _C0 White Sox'S Money
 _L 0x200F0238 0x4D7C45F0
@@ -204379,27 +204527,27 @@ _C0 MH-Speedhack
 _L 0x1017A308 0x000005FF
 _C0 ______[>>>Item & Material & Equiment Codes<<<]_______
 _L 0x00000000 0x00000000
-_C0 [b] Bitterbug
+_C0 [B] Bitterbug
 _L 0x210542A8 0x006300C5
-_C0 [b] Bughopper
+_C0 [B] Bughopper
 _L 0x210542A8 0x006300C2
-_C0 [b] Flashbug
+_C0 [B] Flashbug
 _L 0x210542A8 0x006300C6
-_C0 [b] Godbug
+_C0 [B] Godbug
 _L 0x210542A8 0x006300C4
-_C0 [b] Insect Husk
+_C0 [B] Insect Husk
 _L 0x210542A8 0x006300C0
-_C0 [b] Joiner Grasshopper
+_C0 [B] Joiner Grasshopper
 _L 0x210542A8 0x006300C9
-_C0 [b] King Scarab
+_C0 [B] King Scarab
 _L 0x210542A8 0x006300C8
-_C0 [b] Rainbow Insect
+_C0 [B] Rainbow Insect
 _L 0x210542A8 0x006300CA
-_C0 [b] Snakebee Larva
+_C0 [B] Snakebee Larva
 _L 0x210542A8 0x006300C3
-_C0 [b] Thunderbug
+_C0 [B] Thunderbug
 _L 0x210542A8 0x006300C7
-_C0 [b] Yambug
+_C0 [B] Yambug
 _L 0x210542A8 0x006300C1
 _C0 [D] BBQ Ticket
 _L 0x210542A8 0x006301E2
@@ -204425,13 +204573,13 @@ _C0 [D] Hammer Ticket
 _L 0x210542A8 0x006301E6
 _C0 [D] Heaven&EarthCrst
 _L 0x210542A8 0x006301E4
-_C0 [D] Hunter CitAtion
+_C0 [D] Hunter Citation
 _L 0x210542A8 0x006301E3
 _C0 [D] Jewel Ticket
 _L 0x210542A8 0x006301DA
 _C0 [D] Lance Ticket
 _L 0x210542A8 0x006301E7
-_C0 [D] lAtinum Ticket
+_C0 [D] Latinum Ticket
 _L 0x210542A8 0x006301E1
 _C0 [D] Limited Paw Pass
 _L 0x210542A8 0x006301EB
@@ -204729,15 +204877,15 @@ _C0 [E] Kirin Mane
 _L 0x210542A8 0x006301A0
 _C0 [E] Kirin Thndr Tail
 _L 0x210542A8 0x006301A1
-_C0 [E] Kut-ku Carapace
+_C0 [E] Kut-Ku Carapace
 _L 0x210542A8 0x00630102
-_C0 [E] Kut-ku Coin
+_C0 [E] Kut-Ku Coin
 _L 0x210542A8 0x006300FF
-_C0 [E] Kut-ku Ear
+_C0 [E] Kut-Ku Ear
 _L 0x210542A8 0x00630103
-_C0 [E] Kut-ku Scale
+_C0 [E] Kut-Ku Scale
 _L 0x210542A8 0x00630100
-_C0 [E] Kut-ku Shell
+_C0 [E] Kut-Ku Shell
 _L 0x210542A8 0x00630101
 _C0 [E] Kut-Ku Webbing
 _L 0x210542A8 0x00630108
@@ -204747,9 +204895,9 @@ _C0 [E] LaoS Heavy Shell
 _L 0x210542A8 0x006301AF
 _C0 [E] Lao-Shan Scale+
 _L 0x210542A8 0x006301A8
-_C0 [E] LaoShan Thoracic
+_C0 [E] Lao-Shan Thoracic
 _L 0x210542A8 0x006301AE
-_C0 [E] Lao-ShanCarapace
+_C0 [E] Lao-Shan Carapace
 _L 0x210542A8 0x006301AC
 _C0 [E] Lao-Shans Horn
 _L 0x210542A8 0x006301A6
@@ -204769,7 +204917,7 @@ _C0 [E] Loa-Shans Claw
 _L 0x210542A8 0x006301A5
 _C0 [E] Long Garuga Ear
 _L 0x210542A8 0x006301D6
-_C0 [E] Long Kut-ku Ear
+_C0 [E] Long Kut-Ku Ear
 _L 0x210542A8 0x00630104
 _C0 [E] Majestic Horn
 _L 0x210542A8 0x00630178
@@ -204888,7 +205036,7 @@ _L 0x210542A8 0x0063015B
 _C0 [E] Slvr Rthlos Wing
 _L 0x210542A8 0x0063015D
 _L 0x210542A8 0x00630158
-_C0 [E] Sm Lao-shan Claw
+_C0 [E] Sm Lao-Shan Claw
 _L 0x210542A8 0x006301A4
 _C0 [E] Sm Lobstershell
 _L 0x210542A8 0x00630191
@@ -204988,27 +205136,27 @@ _C0 [F] Springnight Carp
 _L 0x210542A8 0x006300BC
 _C0 [F] SusHiFish
 _L 0x210542A8 0x006300B2
-_C0 [i] Coma Sac
+_C0 [I] Coma Sac
 _L 0x210542A8 0x006300D1
-_C0 [i] Electro Sac
+_C0 [I] Electro Sac
 _L 0x210542A8 0x006300D4
-_C0 [i] Flame Sac
+_C0 [I] Flame Sac
 _L 0x210542A8 0x006300D2
-_C0 [i] Inferno Sac
+_C0 [I] Inferno Sac
 _L 0x210542A8 0x006300D3
-_C0 [i] Paralysis Sac
+_C0 [I] Paralysis Sac
 _L 0x210542A8 0x006300CF
-_C0 [i] Poison Sac
+_C0 [I] Poison Sac
 _L 0x210542A8 0x006300CC
-_C0 [i] Screamer
+_C0 [I] Screamer
 _L 0x210542A8 0x006300CB
-_C0 [i] Sleep Sac
+_C0 [I] Sleep Sac
 _L 0x210542A8 0x006300D0
-_C0 [i] Stun Sac
+_C0 [I] Stun Sac
 _L 0x210542A8 0x006300CE
-_C0 [i] Thunder Sac
+_C0 [I] Thunder Sac
 _L 0x210542A8 0x006300D5
-_C0 [i] Toxin Sac
+_C0 [I] Toxin Sac
 _L 0x210542A8 0x006300CD
 _C0 [MB] Bone
 _L 0x210542A8 0x006300E0
@@ -205108,7 +205256,7 @@ _C0 [P] Power Seed
 _L 0x210542A8 0x00630097
 _C0 [P] Red Seed
 _L 0x210542A8 0x0063009D
-_C0 [P] Sap plant
+_C0 [P] Sap Plant
 _L 0x210542A8 0x00630088
 _C0 [P] Sleep Herb
 _L 0x210542A8 0x00630087
@@ -205186,9 +205334,7 @@ _L 0x00779ED2 0x00000064
 _C0 Infinite Mission-Time
 _L 0x21059210 0x00015F8F
 _L 0x210599E0 0x00015F8E
-_C0 Infinite zenny
-_L 0x210548DC 0x05F5E0FF
-_C0 Infinite zenny
+_C0 Infinite Zenny
 _L 0x210548DC 0x05F5E0FF
 _C0 IRON Man!!!
 _L 0x00779E75 0x00000000
@@ -205234,17 +205380,18 @@ _C0 Item9 99
 _L 0x0077A18C 0x00000063
 _C0 No Bomb Limit *smp*
 _L 0x01054766 0x00000000
-_C0 No Reloading For bowGuns
+_C0 No Reloading For BowGuns
 _L 0x0077A1EA 0x00000006
-_C0 Quick drunk
+_C0 Quick Drunk
 _L 0x0077A0F3 0x0000000A
-_C0 Quick Stamina fill
+_C0 Quick Stamina Fill
 _L 0x00779FFC 0x00000064
 _C0 RustStone Type Lance
 _L 0x21055028 0x006301FE
 _C0 Weapon Sharpness
 _L 0x1077ACB4 0x0000015E
-_C0 --- Material & Item & Equipment ---
+_C0 _________[>>>Material & Item & Equipment<<<]_________
+_L 0x00000000 0x00000000
 _C0 [B] Bitterbug
 _L 0x21055028 0x006300C5
 _C0 [B] Bughopper
@@ -205291,13 +205438,13 @@ _C0 [D] Hammer Ticket
 _L 0x21055028 0x006301E6
 _C0 [D] Heaven&EarthCrst
 _L 0x21055028 0x006301E4
-_C0 [D] Hunter CitAtion
+_C0 [D] Hunter Citation
 _L 0x21055028 0x006301E3
 _C0 [D] Jewel Ticket
 _L 0x21055028 0x006301DA
 _C0 [D] Lance Ticket
 _L 0x21055028 0x006301E7
-_C0 [D] lAtinum Ticket
+_C0 [D] Latinum Ticket
 _L 0x21055028 0x006301E1
 _C0 [D] Limited Paw Pass
 _L 0x21055028 0x006301EB
@@ -205597,15 +205744,15 @@ _C0 [E] Kirin Mane
 _L 0x21055028 0x006301A0
 _C0 [E] Kirin Thndr Tail
 _L 0x21055028 0x006301A1
-_C0 [E] Kut-ku Carapace
+_C0 [E] Kut-Ku Carapace
 _L 0x21055028 0x00630102
-_C0 [E] Kut-ku Coin
+_C0 [E] Kut-Ku Coin
 _L 0x21055028 0x006300FF
-_C0 [E] Kut-ku Ear
+_C0 [E] Kut-Ku Ear
 _L 0x21055028 0x00630103
-_C0 [E] Kut-ku Scale
+_C0 [E] Kut-Ku Scale
 _L 0x21055028 0x00630100
-_C0 [E] Kut-ku Shell
+_C0 [E] Kut-Ku Shell
 _L 0x21055028 0x00630101
 _C0 [E] Kut-Ku Webbing
 _L 0x21055028 0x00630108
@@ -205615,7 +205762,7 @@ _C0 [E] LaoS Heavy Shell
 _L 0x21055028 0x006301AF
 _C0 [E] Lao-Shan Scale+
 _L 0x21055028 0x006301A8
-_C0 [E] LaoShan Thoracic
+_C0 [E] Lao-Shan Thoracic
 _L 0x21055028 0x006301AE
 _C0 [E] Lao-ShanCarapace
 _L 0x21055028 0x006301AC
@@ -205637,7 +205784,7 @@ _C0 [E] Loa-Shans Claw
 _L 0x21055028 0x006301A5
 _C0 [E] Long Garuga Ear
 _L 0x21055028 0x006301D6
-_C0 [E] Long Kut-ku Ear
+_C0 [E] Long Kut-Ku Ear
 _L 0x21055028 0x00630104
 _C0 [E] Majestic Horn
 _L 0x21055028 0x00630178
@@ -205757,7 +205904,7 @@ _C0 [E] Slvr Rthlos Wing
 _L 0x21055028 0x0063015D
 _C0 [E] Slvr Rthls Plate
 _L 0x21055028 0x00630158
-_C0 [E] Sm Lao-shan Claw
+_C0 [E] Sm Lao-Shan Claw
 _L 0x21055028 0x006301A4
 _C0 [E] Sm Lobstershell
 _L 0x21055028 0x00630191
@@ -205977,7 +206124,7 @@ _C0 [P] Power Seed
 _L 0x21055028 0x00630097
 _C0 [P] Red Seed
 _L 0x21055028 0x0063009D
-_C0 [P] Sap plant
+_C0 [P] Sap Plant
 _L 0x21055028 0x00630088
 _C0 [P] Sleep Herb
 _L 0x21055028 0x00630087
@@ -206351,7 +206498,7 @@ _C0 Kokoto Farm Points
 _L 0x21057FCC 0x00000063
 _C0 Max Guild Points
 _L 0x21053B58 0x0098967F
-_C0 Moon Jump Off cliffs
+_C0 Moon Jump Off Cliffs
 _L 0xD0000000 0x10000300
 _L 0x107790B6 0x00004200
 _C0 No Reloading
@@ -207630,7 +207777,7 @@ _L 0xD2000000 0x00000000
 _C0 Super Run Speed
 _L 0x107E9E16 0x000041A0
 _L 0x107E9E56 0x000041A0
-_C0 Super Saya-jin!!
+_C0 Super Saya-Jin!!
 _L 0xD07EAD18 0x00001A02
 _L 0x107EAD18 0x00000100
 _L 0xD07EA018 0x00002600
@@ -208144,7 +208291,7 @@ _L 0x207E8E08 0x00000000
 _C0 Super Run Speed
 _L 0x107E8B16 0x000041A0
 _L 0x007E8B56 0x000041A0
-_C0 Super Saya-jin!!
+_C0 Super Saya-Jin!!
 _L 0xD07E8D18 0x00001A02
 _L 0x107E8D18 0x00000100
 _L 0xD07E8D18 0x00002600
@@ -208526,7 +208673,7 @@ _L 0x212C5214 0x0E219592
 _C0 All Awards
 _L 0x81201500 0x00060001
 _L 0x000000FF 0x00000000
-_C0 All Awards In First row
+_C0 All Awards In First Row
 _L 0x01201500 0x000000FF
 _C0 All Items Rare-1 (Unlocks Trading)
 _L 0xE0010103 0x0019D1B2
@@ -211488,7 +211635,7 @@ _L 0x8119A798 0x00200006
 _L 0x10000zzz 0x00000000
 _L 0x8119A79A 0x00200006
 _L 0x10000zzz 0x00000001
-_C0 ↑[#Edit First: #zzz: 001=feet, 101=head, 201=chest, 301=arms, 401=waist, 501=melee, 601=bow, #zzz Is The Item Number Usually Around 0x001 To ~0x200]
+_C0 ↑[#Edit First: #zzz: 001=Feet, 101=Head, 201=Chest, 301=Arms, 401=Waist, 501=Melee, 601=Bow, #zzz Is The Item Number Usually Around 0x001 To ~0x200]
 _L 0x00000000 0x00000000
 _C0 Gathering Node Indicators [1/2]
 _L 0x20045CE4 0x0A248444
@@ -212599,7 +212746,7 @@ _L 0x107F2D42 0x00000001
 _C0 Bowgun Reloadless Magazine
 _L 0x007E86DC 0x00000009
 _L 0x007E86DB 0x00000009
-_C0 Box 1 ot 20
+_C0 Box 1 Ot 20
 _L 0x010C5486 0x00000063
 _L 0x010C548A 0x00000063
 _L 0x010C548E 0x00000063
@@ -212710,7 +212857,7 @@ _C0 Guild Point Max
 _L 0x210C2EBC 0x0098967F
 _C0 Gun Spear Reikyaku
 _L 0x107E86D2 0x00000000
-_C0 Hands 1 ot 20
+_C0 Hands 1 Ot 20
 _L 0x010C6106 0x00000063
 _L 0x010C610A 0x00000063
 _L 0x010C610E 0x00000063
@@ -212795,7 +212942,7 @@ _C0 MaHi Mukouka
 _L 0x007E9134 0x00000000
 _C0 Max HP
 _L 0x210C2EC0 0x0098967F
-_C0 Max Item 3/3
+_C0 Max Item (3/3)
 _L 0x010C6156 0x00000063
 _L 0x010C615A 0x00000063
 _L 0x010C6162 0x00000063
@@ -212843,7 +212990,7 @@ _C0 PP Max
 _L 0x210D6598 0x0098967F
 _C0 Rare Treasure Max
 _L 0x210D60F0 0xFFFFFFFF
-_C0 Renkige-ji
+_C0 Renkige-Ji
 _L 0x107E9138 0x00000065
 _C0 Rensya
 _L 0xE0022200 0x0029B0EC
@@ -212856,7 +213003,7 @@ _L 0x007E868E 0x000000AA
 _C0 Sikyuu Item 99
 _L 0x810C2D4A 0x00200004
 _L 0x00000063 0x00000000
-_C0 Sikyuu nankaimo morau
+_C0 Sikyuu Nankaimo Morau
 _L 0x010C2DC8 0x00000000
 _C0 Simple Monster HP Display
 _L 0xE00DA3F2 0x000434E8
@@ -213852,7 +213999,7 @@ _L 0x217FD5C0 0x50A1FFF3
 _L 0x217FD58C 0x240301B4
 _L 0x217FD5C8 0x24010002
 _L 0x217FD5CC 0x50A1FFF0
-_C0 All Weapon/Armor Shop 1/3
+_C0 All Weapon/Armor Shop (1/3)
 _L 0xE019DA72 0x0129B3E0
 _L 0x2129B3F8 0x0E7FF540
 _L 0x213025E0 0x09FF8000
@@ -213879,7 +214026,7 @@ _L 0x217FD558 0x1423FFF9
 _L 0x217FD560 0x3401FFFF
 _L 0x217FD564 0xAC410000
 _L 0x217FD56C 0x0A6A71E2
-_C0 All Weapon/Armor Shop 2/3
+_C0 All Weapon/Armor Shop (2/3)
 _L 0xE01DDA72 0x0129B3E0
 _L 0x2129B408 0x0E7FF560
 _L 0x213025F8 0x09FF8000
@@ -213910,7 +214057,7 @@ _L 0x217FD5E8 0x24030199
 _L 0x217FD5EC 0x3401FFFF
 _L 0x217FD5F0 0xAC410000
 _L 0x217FD5F4 0x0A6A7206
-_C0 All Weapon/Armor Shop 3/3
+_C0 All Weapon/Armor Shop (3/3)
 _L 0xE001DA72 0x0129B3E0
 _L 0x2129C898 0x00000000
 _C0 All Weapons - 1
@@ -216561,7 +216708,7 @@ _L 0x108B0272 0x000001B5
 _L 0x108AF78C 0x000001B5
 _S NPJH-90146
 _G Monster Hunter Portable 3rd (PlayStation Store) (Demo) [JP]
-_C0 1st 16 Items Max [2 pages]
+_C0 1st 16 Items Max [2 Pages]
 _L 0x113240EC 0x00000063
 _L 0x113240F0 0x00000063
 _L 0x11324100 0x00000063
@@ -216684,7 +216831,7 @@ _C0 Screen (21:9) UltraWide
 _L 0x201652E4 0x4017B426
 _C0 _________[>>>Controller Cheats<<<]_________
 _L 0x00000000 0x00000000
-_C0 Target Camera 1/3
+_C0 Target Camera (1/3)
 _L 0xE0450074 0x10000C04
 _L 0x20000C04 0x8EA20074
 _L 0x20000C08 0x9226008F
@@ -216757,12 +216904,12 @@ _L 0x20000D10 0x03E00008
 _L 0x20000D14 0x29080001
 _L 0x200E5F8C 0x0A200301
 _L 0x200E5F90 0x00000000
-_C0 Target Camera 2/3
+_C0 Target Camera (2/3)
 _L 0xD0000000 0x10000110
 _L 0x00000C00 0x00000001
 _L 0xD0000000 0x10000140
 _L 0x00000C00 0x00000000
-_C0 Target Camera 3/3
+_C0 Target Camera (3/3)
 _L 0xD0000003 0x10000180
 _L 0xE1020000 0x00000C03
 _L 0xE0010000 0x30000C01
@@ -216774,7 +216921,7 @@ _L 0x30300004 0x00000C01
 _L 0x00000C03 0x00000001
 _L 0xD0000001 0x30000120
 _L 0xD0000000 0x30000180
-_L 0x00000c03 0x00000000
+_L 0x00000C03 0x00000000
 _C0 Target Camera UI 1/2
 _L 0xE150FFFC 0x10001600
 _L 0x20001600 0x27BDFFFC
@@ -217381,7 +217528,7 @@ _C0 ↑[#Up+L+R+: HP Display On/L+R+Down: HP Display Off]
 _L 0x00000000 0x00000000
 _C0 ↑↑[#L+R+Left: Detail On/L+R+Right: Detail Off]
 _L 0x00000000 0x00000000
-_C0 ↑↑↑[#Select+Up: White font Color/Select+Down:Red font Color/Select+Left: Yellow Font Color/Select+Right: Blue Font Color/L+On Target: -1 Detail/L+Down: +1 Target Detail]
+_C0 ↑↑↑[#Select+Up: White Font Color/Select+Down:Red Font Color/Select+Left: Yellow Font Color/Select+Right: Blue Font Color/L+On Target: -1 Detail/L+Down: +1 Target Detail]
 _L 0x00000000 0x00000000
 _C0 HP Display 00/10 Simple
 _L 0xD1457C90 0x00005FA0
@@ -217619,7 +217766,7 @@ _L 0xE0035FA0 0x01457C90
 _L 0x2147C1B0 0xA6720002
 _L 0xD0000000 0x10000001
 _L 0x2147C1B0 0xA6600002
-_C0 [Select] Modori dama
+_C0 [Select] Modori Dama
 _L 0xE0026404 0x00D4149C
 _L 0x10D4149C 0x00001300
 _L 0x10D4136C 0x00000000
@@ -218090,7 +218237,7 @@ _C0 Gun Lance Cooling
 _L 0x10D4274C 0x00000000
 _C0 Gun Lance Cooling
 _L 0x10D4274C 0x00000000
-_C0 Gun Lance RYUGEKI gAta 1/2
+_C0 Gun Lance RYUGEKI Gata (1/2)
 _L 0x10D4274C 0x00000000
 _L 0xE0020504 0x00D4149C
 _L 0x10D4149C 0x00001104
@@ -218113,7 +218260,7 @@ _L 0x10D4136C 0x00000300
 _L 0xE0020B04 0x00D4149C
 _L 0x10D4149C 0x00001104
 _L 0x10D4136C 0x00000300
-_C0 Gun Lance RYUGEKI gAta 1/3
+_C0 Gun Lance RYUGEKI Gata (1/3)
 _L 0x10D4274C 0x00000000
 _L 0xE0020504 0x00D4149C
 _L 0x10D4149C 0x00001104
@@ -218125,7 +218272,7 @@ _L 0x10D4136C 0x00000300
 _L 0xE0020704 0x00D4149C
 _L 0x10D4149C 0x00001104
 _L 0x10D4136C 0x00000300
-_C0 Gun Lance RYUGEKI gAta 2/2
+_C0 Gun Lance RYUGEKI Gata (2/2)
 _L 0xE0022004 0x00D4149C
 _L 0x10D4149C 0x00001104
 _L 0x10D4136C 0x00000300
@@ -218144,7 +218291,7 @@ _L 0x10D4136C 0x00000000
 _L 0xE0022704 0x00D4149C
 _L 0x10D4149C 0x00001104
 _L 0x10D4136C 0x00000300
-_C0 Gun Lance RYUGEKI gAta 2/3
+_C0 Gun Lance RYUGEKI Gata (2/3)
 _L 0xE0020804 0x00D4149C
 _L 0x10D4149C 0x00001104
 _L 0x10D4136C 0x00000300
@@ -218159,7 +218306,7 @@ _L 0xE0030B04 0x00D4149C
 _L 0xE0020200 0x00D4136C
 _L 0x10D4149C 0x00001104
 _L 0x10D4136C 0x00000300
-_C0 Gun Lance RYUGEKI gAta 3/3
+_C0 Gun Lance RYUGEKI Gata (3/3)
 _L 0xE0022004 0x00D4149C
 _L 0x10D4149C 0x00001104
 _L 0x10D4136C 0x00000300
@@ -218178,7 +218325,7 @@ _L 0x10D4136C 0x00000000
 _L 0xE0022704 0x00D4149C
 _L 0x10D4149C 0x00001104
 _L 0x10D4136C 0x00000300
-_C0 Gun Lance RYUGEKI gAta Option
+_C0 Gun Lance RYUGEKI Gata Option
 _L 0xE0025FA0 0x01457C90
 _L 0x214E96A4 0x34020001
 _L 0x214E9764 0x24130000
@@ -218419,7 +218566,7 @@ _L 0x00000063 0x00000000
 _C0 Item Rare-1
 _L 0x801CAFA1 0x03D20014
 _L 0x00000000 0x00000000
-_C0 Item Syoji 99 ok
+_C0 Item Syoji 99 Ok
 _L 0x801CAFA2 0x03D20014
 _L 0x00000063 0x00000000
 _C0 Japanese Sword Batto Cancellation
@@ -219655,7 +219802,7 @@ _L 0x201D77F8 0x0A2293FC
 _L 0x201D77FC 0x00000000
 _C0 ↑[#Can Swith Item Without Hold Button, L + ☐ For Left Side Or L + O For Right Side]
 _L 0x00000000 0x00000000
-_C0 Target Camera 1/3
+_C0 Target Camera (1/3)
 _L 0xE0440074 0x12900004
 _L 0x22900004 0x8EA20074
 _L 0x22900008 0x9226008F
@@ -219727,12 +219874,12 @@ _L 0x2290010C 0x03E00008
 _L 0x22900110 0x29080001
 _L 0x200E79EC 0x0AC40001
 _L 0x200E79F0 0x00000000
-_C0 Target Camera 2/3
+_C0 Target Camera (2/3)
 _L 0xD0000000 0x10000110
 _L 0x02900000 0x00000001
 _L 0xD0000000 0x10000140
 _L 0x02900000 0x00000000
-_C0 Target Camera 3/3
+_C0 Target Camera (3/3)
 _L 0xD0000003 0x10000180
 _L 0xE1020000 0x02900003
 _L 0xE0010000 0x32900001
@@ -220596,7 +220743,7 @@ _C0 Felyne 5 Hearts
 _L 0xE0014E1C 0x0185E610
 _L 0x817ACF43 0x000500A0
 _L 0x0000001A 0x00000000
-_C0 Felyne 20 Lvl
+_C0 Felyne 20 Lvl.
 _L 0xE0014E1C 0x0185E610
 _L 0x817ACF3F 0x000500A0
 _L 0x00000014 0x00000000
@@ -220780,7 +220927,7 @@ _L 0x517A82E0 0x0000001A
 _L 0x0174FCAC 0x00000000
 _L 0x517A82E0 0x0000001A
 _L 0x017A8280 0x00000000
-_C0 ↑[#This Cheat Will Copy New Player Name From Guild Card Comment, So You Need To In-Game Edit Your gc Comment To Your New Hunter Name]
+_C0 ↑[#This Cheat Will Copy New Player Name From Guild Card Comment, So You Need To In-Game Edit Your GC Comment To Your New Hunter Name]
 _L 0x00000000 0x00000000
 _C0 Infinite Carve
 _L 0x819B9BF1 0x001A0070
@@ -223169,7 +223316,7 @@ _L 0x21254F20 0x3FFFFFFF
 _C0 HP Max
 _L 0x112F34F0 0x00000320
 _L 0x112F34F2 0x00000320
-_C0 Infinite Force jokeRed
+_C0 Infinite Force JokeRed
 _L 0xD0000020 0x30002000
 _L 0x212F34F8 0x00D600F2
 _C0 Infinite Health
@@ -223491,7 +223638,7 @@ _L 0x112F34FA 0x00000340
 _L 0x112F34FC 0x00000300
 _L 0x21254F68 0x06060606
 _L 0x21254F6C 0x0B0B0404
-_C0 Play As Demon Commander Low.sp
+_C0 Play As Demon Commander Low.SP
 _L 0x017FF654 0x00000054
 _L 0x01255268 0x00000054
 _L 0x011EBAB6 0x00000077
@@ -223519,7 +223666,7 @@ _L 0x111EBAB2 0x00007277
 _L 0x112F34FA 0x00005F00
 _L 0x112F34FC 0x00000290
 _L 0x21254F68 0x06060606
-_C0 Play As Demon Warrior lsp
+_C0 Play As Demon Warrior Low.SP
 _L 0x017FF654 0x00000053
 _L 0x01255268 0x00000053
 _L 0x011EBAB6 0x00000074
@@ -224682,7 +224829,7 @@ _C0 Inf. Time
 _L 0x20292658 0x41F00000
 _C0 Infinite Time
 _L 0x20292658 0x3B9ACA00
-_C0 Lvls Color
+_C0 Lvl.S Color
 _L 0x00DF15B8 0x40000000
 _L 0x00DF1610 0x80800000
 _C0 Max Gold
@@ -225109,7 +225256,7 @@ _C0 HI-Score
 _L 0x00CC9470 0x000F423F
 _C0 Max Score
 _L 0x00CC964C 0x000F423F
-_C0 Pac-man - Infinite Lives (Arrangement)
+_C0 Pac-Man - Infinite Lives (Arrangement)
 _L 0x00CC946A 0x00000006
 _S ULJM-05434
 _G Nanatama: Chronicle Of Dungeon Maker [JP]
@@ -225271,7 +225418,7 @@ _L 0x20078500 0x00000000
 _L 0xE0020140 0x0023EF54
 _L 0x2007767C 0x14400005
 _L 0x20078500 0x144000A9
-_C0 Kakutoku K-kenti
+_C0 Kakutoku K-Kenti
 _L 0x21258334 0x0098967F
 _C0 Max Cash
 _L 0x211C0124 0x0098967F
@@ -225362,21 +225509,21 @@ _L 0x013F7650 0x00000063
 _C0 Jump Slowly
 _L 0x21490504 0x42191197
 _L 0x213F6B68 0x00000063
-_C0 Lvl 99 Gaara
+_C0 Lvl. 99 Gaara
 _L 0x213F687C 0x00000063
-_C0 Lvl 99 Itachi
+_C0 Lvl. 99 Itachi
 _L 0x213F6AE0 0x00000063
-_C0 Lvl 99 Kakashi
+_C0 Lvl. 99 Kakashi
 _L 0x213F6838 0x00000063
-_C0 Lvl 99 Kankuro
+_C0 Lvl. 99 Kankuro
 _L 0x213F6904 0x00000063
-_C0 Lvl 99 Kisame
+_C0 Lvl. 99 Kisame
 _L 0x213F6B24 0x00000063
-_C0 Lvl 99 Might Guy
+_C0 Lvl. 99 Might Guy
 _L 0x213F6A58 0x00000063
-_C0 Lvl 99 Naruto
+_C0 Lvl. 99 Naruto
 _L 0x213F67B0 0x00000063
-_C0 Lvl 99 Naruto
+_C0 Lvl. 99 Naruto
 _L 0x013F67B0 0x00000063
 _L 0x01490330 0x00000063
 _L 0x017FF200 0x00000063
@@ -225384,25 +225531,25 @@ _L 0x017FF22C 0x00000063
 _L 0x017FF2B8 0x00000063
 _L 0x017FF35C 0x00000063
 _L 0x017FF3F4 0x00000063
-_C0 Lvl 99 Neji
+_C0 Lvl. 99 Neji
 _L 0x213F698C 0x00000063
-_C0 Lvl 99 Rock Lee
+_C0 Lvl. 99 Rock Lee
 _L 0x213F69D0 0x00000063
-_C0 Lvl 99 Sai
+_C0 Lvl. 99 Sai
 _L 0x213F6D00 0x00000063
-_C0 Lvl 99 Sakura
+_C0 Lvl. 99 Sakura
 _L 0x213F67F4 0x00000063
-_C0 Lvl 99 Sasori
+_C0 Lvl. 99 Sasori
 _L 0x213F6BF0 0x00000063
-_C0 Lvl 99 Sasori (Hiruko)
+_C0 Lvl. 99 Sasori (Hiruko)
 _L 0x213F6BAC 0x00000063
-_C0 Lvl 99 Sasuke
+_C0 Lvl. 99 Sasuke
 _L 0x213F6CBC 0x00000063
-_C0 Lvl 99 Shikamaru
+_C0 Lvl. 99 Shikamaru
 _L 0x213F6A9C 0x00000063
-_C0 Lvl 99 Temari
+_C0 Lvl. 99 Temari
 _L 0x213F68C0 0x00000063
-_C0 Lvl 99 Tenten
+_C0 Lvl. 99 Tenten
 _L 0x213F6A14 0x00000063
 _C0 Max Money
 _L 0x213F6784 0x000F423F
@@ -225427,7 +225574,7 @@ _L 0x014933B8 0x000000CC
 _L 0x01493434 0x000000CC
 _S ULUS-10447
 _G Naruto Shippuden Legends: Akatsuki Rising [US]
-_C0 99 Lvl (Kill NPC + Use Strength Pill)
+_C0 99 Lvl. (Kill NPC + Use Strength Pill)
 _L 0xE0120000 0x10073A00
 _L 0x20074FC4 0x3C020003
 _L 0x20073A00 0x00000000
@@ -225727,7 +225874,7 @@ _C0 Hyper Meter Always Full
 _L 0x114902E8 0x00000172
 _C0 Infinite Chakra
 _L 0x114902E4 0x000003E7
-_C0 Infinite Hyper mode
+_C0 Infinite Hyper Mode
 _L 0xE1060000 0x100320B0
 _L 0x200320B0 0x10000033
 _L 0x2001C36C 0x00000000
@@ -226574,7 +226721,7 @@ _L 0x001C8972 0x00000092
 _L 0x001C8976 0x00000092
 _L 0x001C897A 0x00000092
 _L 0x001C8982 0x00000092
-_C0 Wild boar (Brown)
+_C0 Wild Boar (Brown)
 _L 0x001F5FB4 0x00000029
 _L 0x001C8B46 0x000000CC
 _L 0x001C8B4E 0x000000CC
@@ -226582,7 +226729,7 @@ _L 0x001C8B52 0x000000CC
 _L 0x001C8B56 0x000000CC
 _L 0x001C8B5A 0x000000CC
 _L 0x001C8B62 0x000000CC
-_C0 Wild boar (Yellow)
+_C0 Wild Boar (Yellow)
 _L 0x001F5FB4 0x00000029
 _L 0x001C8B46 0x000000CE
 _L 0x001C8B4E 0x000000CE
@@ -227655,13 +227802,13 @@ _L 0x20002028 0x4600083E
 _C0 Actual Hits
 _L 0x604E0668 0x000000FF
 _L 0x00000001 0x00000DD4
-_C0 AI com 2 [Disable]
+_C0 AI Com 2 [Disable]
 _L 0x604DFDB0 0x0000000F
 _L 0x00001001 0x00000070
-_C0 AI com 3 [Disable]
+_C0 AI Com 3 [Disable]
 _L 0x604DFDD8 0x0000000F
 _L 0x00001001 0x00000070
-_C0 AI com 4 [Disable]
+_C0 AI Com 4 [Disable]
 _L 0x604DFE00 0x0000000F
 _L 0x00001001 0x00000070
 _C0 Awakening 0 (Activate Both)
@@ -228352,7 +228499,7 @@ _L 0x20001500 0x24020001
 _L 0x20001504 0xA0820000
 _L 0x20001508 0x03E00008
 _L 0x2000150C 0x0002102B
-_C0 All Characters Lvl 200
+_C0 All Characters Lvl. 200
 _L 0x0146AA20 0x000000C8
 _L 0x0146AA30 0x000000C8
 _L 0x0146AA40 0x000000C8
@@ -228496,95 +228643,95 @@ _L 0xD0000000 0x10000001
 _L 0x2013B0F0 0x3C0440D0
 _C0 ________[>>>Character Codes<<<]________
 _L 0x00000000 0x00000000
-_C0 Ay (Raikage) Lvl 99
+_C0 Ay (Raikage) Lvl. 99
 _L 0x0146AABE 0x000000C8
 _C0 Ay (Raikage) Wallpaper
 _L 0x014744A6 0x00000014
-_C0 Danzo Lvl 99
+_C0 Danzo Lvl. 99
 _L 0x0146AAD6 0x000000C8
 _C0 Danzo Wallpaper
 _L 0x014744CA 0x00000014
-_C0 Deidara Lvl 99
+_C0 Deidara Lvl. 99
 _L 0x0146AA96 0x000000C8
 _C0 Deidara Wallpaper
 _L 0x0147446A 0x00000014
-_C0 Gaara Lvl 99
+_C0 Gaara Lvl. 99
 _L 0x0146AACE 0x000000C8
 _C0 Gaara Wallpaper
 _L 0x014744BE 0x00000014
-_C0 Hidan Lvl 99
+_C0 Hidan Lvl. 99
 _L 0x0146AAA6 0x000000C8
 _C0 Hidan Wallpaper
 _L 0x01474482 0x00000014
-_C0 Hinata Lvl 99
+_C0 Hinata Lvl. 99
 _L 0x0146AA5E 0x000000C8
 _C0 Hinata Wallpaper
 _L 0x01474416 0x00000014
-_C0 Itachi Lvl 99
+_C0 Itachi Lvl. 99
 _L 0x0146AA86 0x000000C8
 _C0 Itachi Wallpaper
 _L 0x01474452 0x00000014
-_C0 Jiraiya Lvl 99
+_C0 Jiraiya Lvl. 99
 _L 0x0146AA66 0x000000C8
 _C0 Jiraiya Wallpaper
 _L 0x01474422 0x00000014
-_C0 Kakashi Lvl 99
+_C0 Kakashi Lvl. 99
 _L 0x0146AA3E 0x000000C8
 _C0 Kakashi Wallpaper
 _L 0x014743E6 0x00000014
-_C0 Kakuzo Lvl 99
+_C0 Kakuzo Lvl. 99
 _L 0x0146AAAE 0x000000C8
 _C0 Kakuzo Wallpaper
 _L 0x0147448E 0x00000014
-_C0 Killer Bee Lvl 99
+_C0 Killer Bee Lvl. 99
 _L 0x0146AAC6 0x000000C8
 _C0 Killer Bee Wallpaper
 _L 0x014744B2 0x00000014
-_C0 Kisame Lvl 99
+_C0 Kisame Lvl. 99
 _L 0x0146AA8E 0x000000C8
 _C0 Kisame Wallpaper
 _L 0x0147445E 0x00000014
-_C0 Konan Lvl 99
+_C0 Konan Lvl. 99
 _L 0x0146AA7E 0x000000C8
 _C0 Konan Wallpaper
 _L 0x01474446 0x00000014
-_C0 Madara Lvl 99
+_C0 Madara Lvl. 99
 _L 0x0146AAB6 0x000000C8
 _C0 Madara Wallpaper
 _L 0x0147449A 0x00000014
-_C0 Might Guy Lvl 99
+_C0 Might Guy Lvl. 99
 _L 0x0146AA56 0x000000C8
 _C0 Might Guy Wallpaper
 _L 0x0147440A 0x00000014
-_C0 Minato Lvl 99
+_C0 Minato Lvl. 99
 _L 0x0146AA6E 0x000000C8
 _C0 Minato Wallpaper
 _L 0x0147442E 0x00000014
-_C0 Naruto Lvl 99
+_C0 Naruto Lvl. 99
 _L 0x0146AA26 0x000000C8
-_C0 Naruto Sage Lvl 99
+_C0 Naruto Sage Lvl. 99
 _L 0x0146AA2E 0x000000C8
 _C0 Naruto Sage Wallpaper
 _L 0x014743CE 0x00000014
 _C0 Naruto Wallpaper
 _L 0x014743C2 0x00000014
-_C0 Pain (Tendo) Lvl 99
+_C0 Pain (Tendo) Lvl. 99
 _L 0x0146AA76 0x000000C8
 _C0 Pain (Tendo) Wallpaper
 _L 0x0147443A 0x00000014
-_C0 Rock Lee Lvl 99
+_C0 Rock Lee Lvl. 99
 _L 0x0146AA4E 0x000000C8
 _C0 Rock Lee Wallpaper
 _L 0x014743FE 0x00000014
-_C0 Sakura Lvl 99
+_C0 Sakura Lvl. 99
 _L 0x0146AA36 0x000000C8
 _C0 Sakura Wallpaper
 _L 0x014743DA 0x00000014
-_C0 Sasori Lvl 99
+_C0 Sasori Lvl. 99
 _L 0x0146AA9E 0x000000C8
 _C0 Sasori Wallpaper
 _L 0x01474476 0x00000014
-_C0 Sasuke (All3) Lvl 99
+_C0 Sasuke (All3) Lvl. 99
 _L 0x0146AADE 0x000000C8
 _C0 Sasuke (Black Costume) Wallpaper
 _L 0x014744E2 0x00000014
@@ -228592,7 +228739,7 @@ _C0 Sasuke (Hebi) Wallpaper
 _L 0x014744D6 0x00000014
 _C0 Sasuke (Taka) Wallpaper
 _L 0x014744EE 0x00000014
-_C0 Shikamaru Lvl 99
+_C0 Shikamaru Lvl. 99
 _L 0x0146AA46 0x000000C8
 _C0 Shikamaru Wallpaper
 _L 0x014743F2 0x00000014
@@ -229987,7 +230134,7 @@ _L 0x2087FB9C 0x00000003
 _L 0x2087FBA0 0x00000002
 _C0 Slide Range x1.5
 _L 0x2022ED9C 0x3F400000
-_C0 Stage Cler Point Max
+_C0 Stage Clear Point Max
 _L 0x0087FB30 0x000000B4
 _C0 Status Abnormal 100
 _L 0x200372C4 0x53E000DB
@@ -230008,9 +230155,32 @@ _L 0x200800C4 0x10000025
 _L 0x2008011C 0x10000010
 _L 0x200A45D4 0x1000003B
 _L 0x200A4624 0x10000028
+_S UCUS-98607
+_G NBA [US]
+_C0 Always Win In Season Sim (Hold Circle)
+_L 0x20001000 0x3C08094E
+_L 0x20001004 0x9508B608
+_L 0x20001008 0x31082000
+_L 0x2000100C 0x1100000E
+_L 0x20001010 0x3C0809E9
+_L 0x20001014 0x2508D8B8
+_L 0x20001018 0x8D080030
+_L 0x2000101C 0x8D09000C
+_L 0x20001020 0x8D080028
+_L 0x20001024 0x8D080010
+_L 0x20001028 0x340B00C8
+_L 0x2000102C 0x00106080
+_L 0x20001030 0x01894820
+_L 0x20001034 0x8D2A0030
+_L 0x20001038 0x8D4A0000
+_L 0x2000103C 0x15480002
+_L 0x20001040 0x2405FFFF
+_L 0x20001044 0xA48B0008
+_L 0x20001048 0x0A26F853
+_L 0x201BE144 0x0A200400
 _S UCUS-98699
 _G NBA 08 [US]
-_C0 231 Points away Game
+_C0 231 Points Away Game
 _L 0x006088F4 0x000003E7
 _L 0x0077D8C4 0x000003E7
 _L 0x0093B348 0x000003E7
@@ -230073,7 +230243,7 @@ _C0 Max Scouting Reports
 _L 0x208B3A3C 0x00000063
 _C0 Pass The Ball & She Always Go To The Floor
 _L 0x0078C454 0x0009EDB0
-_C0 Pass The Ball To My colleague & She Always Go To The Floor
+_C0 Pass The Ball To My Colleague & She Always Go To The Floor
 _L 0x0078C454 0x04B01D30
 _C0 Score A Basket & The Ball Never Enter
 _L 0x0078C454 0x404AE730
@@ -230173,7 +230343,7 @@ _L 0x20001088 0xA068FFCF
 _L 0x2000108C 0x02A01821
 _L 0x20001090 0x0A2896AA
 _L 0x20225AA0 0x0A200414
-_C0 Ball Size (R=incr./L=Decr.)
+_C0 Ball Size (R=Incr./L=Decr.)
 _L 0x20001000 0x3C0808F5
 _L 0x20001004 0x8D086B20
 _L 0x20001008 0x3C0908FE
@@ -230250,7 +230420,7 @@ _L 0x20001028 0x258C007C
 _L 0x2000102C 0xAD2C39A0
 _L 0x20001030 0x03E00008
 _L 0x200000CC 0x0A200400
-_C0 Iron Ball (L+R Before someOne shoots)
+_C0 Iron Ball (L+R Before Someone Shoots)
 _L 0x20001000 0x3C0808F5
 _L 0x20001004 0x8D086B20
 _L 0x20001008 0x24090300
@@ -230370,7 +230540,7 @@ _L 0x2000103C 0x01F8C822
 _L 0x20001040 0xAD393174
 _L 0x20001044 0x03E00008
 _L 0x200000CC 0x0A200400
-_C0 Turn Over (Press Left D-pad)
+_C0 Turn Over (Press Left D-Pad)
 _L 0x20001000 0x3C0808F5
 _L 0x20001004 0x8D086B20
 _L 0x20001008 0x3C090910
@@ -230760,7 +230930,7 @@ _C0 244 Upgrade Attribute Points
 _L 0x0060C868 0x000001F4
 _C0 Always First Down
 _L 0x00CCF768 0x00000001
-_C0 ↑[#Turn On Always First Down Only When You Have The Ball,If Opponent Have The Ball You Can Change The 1 To 5,So It could Be 5th Down On Their Turn & They Will Punt The Ball,When You Get The Ball Back Change It Back To 1]
+_C0 ↑[#Turn On Always First Down Only When You Have The Ball,If Opponent Have The Ball You Can Change The 1 To 5,So It Could Be 5th Down On Their Turn & They Will Punt The Ball,When You Get The Ball Back Change It Back To 1]
 _L 0x00000000 0x00000000
 _C0 Always Win In Dynasty Sim (Hold D-Pad Right)
 _L 0x20001000 0x3C0708E1
@@ -231095,7 +231265,7 @@ _L 0x009735E0 0xFFFFFFFF
 _L 0x009735E4 0x000000FF
 _C0 Infinite Money
 _L 0x00978E18 0x7FFFFFFF
-_C0 Unlock all Upgrades and Visuals
+_C0 Unlock All Upgrades And Visuals
 _L 0x00973510 0xFFFFFFFF
 _L 0x00973514 0xFFFFFFFF
 _L 0x00973518 0xFFFFFFFF
@@ -231180,7 +231350,6 @@ _L 0x00020001 0x00000468
 _C0 _________[>>>Text Cheats<<<]_________
 _L 0x00000000 0x00000000
 _C0 Change 'Hard Drivers' To 'A Cool Music'
-# 4120 636f 6f6c 206d 7573 6963 = 'A Cool Music' Length = 12 Letters
 _L 0x2008F4380 0x00200041
 _L 0x2008F4384 0x006f0063
 _L 0x2008F4388 0x006c006f
@@ -231205,6 +231374,8 @@ _L 0x201326C08 0x006c006f
 _L 0x201326C0C 0x006d0020
 _L 0x201326C10 0x00730075
 _L 0x201326C14 0x00630069
+_C0 ↑[#Note: 4120 636f 6f6c 206d 7573 6963 = 'A Cool Music' Length = 12 Letters]
+_L 0x00000000 0x00000000
 _C0 _________[>>>Ambient Cheats<<<]_________
 _L 0x00000000 0x00000000
 _C0 Slow Background
@@ -231253,7 +231424,7 @@ _L 0x203E4450 0x3ACCCCCD
 _C0 Slow Motion
 _L 0x203E444C 0x3C888889
 _L 0x203E4450 0x3CCCCCCD
-_C0 Normal speed [Default]
+_C0 Normal Speed [Default]
 _L 0x203E444C 0x3C888889
 _L 0x203E4450 0x3DCCCCCD
 _C0 Quick Speed
@@ -233051,7 +233222,7 @@ _C0 Encount
 _L 0x2015DC00 0x34050001
 _L 0xD0000000 0x10008000
 _L 0x2015DC00 0x34050000
-_C0 Exp. 2 bai
+_C0 Exp. x2
 _L 0x20001000 0x34110000
 _L 0x20001004 0x00052840
 _L 0x20001008 0x0A254DA2
@@ -233548,7 +233719,7 @@ _C0 _________[>>>Optimization Cheats<<<]_________
 _L 0x00000000 0x00000000
 _C0 FOV Default (16:9)
 _L 0x201F9B68 0x3F000000
-_C0 FOV iPhoneXs (19.5:9)
+_C0 FOV iPhoneXS (19.5:9)
 _L 0x201F9B68 0x3F170A3D
 _C0 FOV Ultrawide (21:9)
 _L 0x201F9B68 0x3F28F5C3
@@ -234924,7 +235095,7 @@ _L 0x20296678 0xFFFFFFFF
 _L 0x2029667C 0xFFFFFFFF
 _L 0x00296680 0x0000003F
 _S ULJM-05442
-_G Noko Aozora ni Yakusoku: Tenohira No Rakuen [JP]
+_G Noko Aozora Ni Yakusoku: Tenohira No Rakuen [JP]
 _C0 Change System Voice: Akane (茜)
 _L 0x20314708 0x00000007
 _C0 Change System Voice: Chihiro (ちひろ)
@@ -235428,7 +235599,7 @@ _L 0x10000008 0x00000000
 _L 0xE0020001 0x20002002
 _L 0x40002000 0x001C0001
 _L 0x00000000 0x00000000
-_C0 All Characters Lvl 50
+_C0 All Characters Lvl. 50
 _L 0x6044A8B0 0x00000032
 _L 0x0000000A 0x00000034
 _L 0x9000017C 0x00000000
@@ -235714,7 +235885,7 @@ _L 0x1057DD9C 0x0000270F
 _C0 Result Bonus Max
 _L 0x40580028 0x00060001
 _L 0x000186A0 0x00000000
-_C0 Status Fu-ton Max
+_C0 Status Fu-Ton Max
 _L 0x005811F4 0x00000002
 _L 0x005811F8 0x00000001
 _C0 Status Attack Max
@@ -236614,7 +236785,7 @@ _C0 9999 Ka-Ching
 _L 0x10539E0C 0x0000270F
 _C0 Aleacion Dura
 _L 0x10539ABC 0x00000063
-_C0 All Inf. Lvl1-4 Materials
+_C0 All Inf. Lvl.1-4 Materials
 _L 0x00539A74 0x00000063
 _L 0x00539A78 0x00000063
 _L 0x00539A7E 0x00000063
@@ -236774,7 +236945,7 @@ _C0 ARC: Ancien
 _L 0x20539BD4 0x00010162
 _C0 ARC: Divin Bob
 _L 0x20539BDC 0x00010162
-_C0 ARC: Feu yumipon
+_C0 ARC: Feu Yumipon
 _L 0x20539BE0 0x00010162
 _C0 ARC: Geant Touchetas
 _L 0x20539BD8 0x00010162
@@ -237847,19 +238018,19 @@ _S UCJS-10077
 _G Patapon [JP]
 _C0 99 Little Meat
 _L 0x10523994 0x00000063
-_C0 99 Lvl 4 Rock
+_C0 99 Lvl.1 Wood
+_L 0x005239B8 0x00000063
+_C0 99 Lvl.2 Meat
+_L 0x00523998 0x00000063
+_C0 99 Lvl.2 Wood
+_L 0x005239BC 0x00000063
+_C0 99 Lvl.3 Rock
+_L 0x005239AC 0x00000063
+_C0 99 Lvl.3 Wood
+_L 0x005239C0 0x00000063
+_C0 99 Lvl.4 Rock
 _L 0x005239B0 0x00000063
 _L 0x005239A4 0x00000063
-_C0 99 lvl1 Wood
-_L 0x005239B8 0x00000063
-_C0 99 lvl2 Meat
-_L 0x00523998 0x00000063
-_C0 99 lvl2 Wood
-_L 0x005239BC 0x00000063
-_C0 99 lvl3 Rock
-_L 0x005239AC 0x00000063
-_C0 99 lVl3 Wood
-_L 0x005239C0 0x00000063
 _C0 99 Medium Meat
 _L 0x10523998 0x00000063
 _C0 9999 Money
@@ -238319,7 +238490,7 @@ _C0 _________[>>>General Cheats<<<]_________
 _L 0x00000000 0x00000000
 _C0 1 Combo Fever
 _L 0x00CBA474 0x00000009
-_C0 15 Wood - Lvl 2
+_C0 15 Wood - Lvl. 2
 _L 0x00539A88 0x0000000F
 _C0 All Dekapon Weapons
 _L 0x20539C38 0x00010063
@@ -238354,7 +238525,7 @@ _L 0x20539C9C 0x00010063
 _L 0x20539CA0 0x00010063
 _L 0x20539CA4 0x00000000
 _L 0x20539CA8 0x00010063
-_C0 All Inf. Lvl1-4 Materials
+_C0 All Inf. Lvl.1-4 Materials
 _L 0x20539A74 0x00010063
 _L 0x20539A78 0x00010063
 _L 0x20539A7C 0x00010063
@@ -238470,55 +238641,55 @@ _C0 Infinite Divine Stew
 _L 0x00539AD4 0x00000063
 _C0 Infinite Ka-Ching
 _L 0x20539E0C 0x0001869F
-_C0 Infinite Lvl 1 Meat
+_C0 Infinite Lvl. 1 Meat
 _L 0x20539A74 0x00010063
-_C0 Infinite Lvl 1 Ore
+_C0 Infinite Lvl. 1 Ore
 _L 0x20539AB8 0x00010063
-_C0 Infinite Lvl 1 Stew
+_C0 Infinite Lvl. 1 Stew
 _L 0x20539AC8 0x00010063
-_C0 Infinite Lvl 1 Stone
+_C0 Infinite Lvl. 1 Stone
 _L 0x20539A84 0x00010063
-_C0 Infinite Lvl 1 Veg
+_C0 Infinite Lvl. 1 Veg
 _L 0x20539AA8 0x00010063
-_C0 Infinite Lvl 1 Wood
+_C0 Infinite Lvl. 1 Wood
 _L 0x20539A98 0x00010063
-_C0 Infinite Lvl 2 Meat
+_C0 Infinite Lvl. 2 Meat
 _L 0x20539A78 0x00010063
-_C0 Infinite Lvl 2 Ore
+_C0 Infinite Lvl. 2 Ore
 _L 0x20539ABC 0x00010063
-_C0 Infinite Lvl 2 Stew
+_C0 Infinite Lvl. 2 Stew
 _L 0x20539ACC 0x00010063
-_C0 Infinite Lvl 2 Stone
+_C0 Infinite Lvl. 2 Stone
 _L 0x20539A88 0x00010063
-_C0 Infinite Lvl 2 Veg
+_C0 Infinite Lvl. 2 Veg
 _L 0x20539ABC 0x00010063
-_C0 Infinite Lvl 2 Wood
+_C0 Infinite Lvl. 2 Wood
 _L 0x20539A9C 0x00010063
-_C0 Infinite Lvl 2 Wood
+_C0 Infinite Lvl. 2 Wood
 _L 0x20539A9C 0x00010063
-_C0 Infinite Lvl 3 Meat
+_C0 Infinite Lvl. 3 Meat
 _L 0x20539A7C 0x00010063
-_C0 Infinite Lvl 3 Ore
+_C0 Infinite Lvl. 3 Ore
 _L 0x20539AC0 0x00010063
-_C0 Infinite Lvl 3 Stew
+_C0 Infinite Lvl. 3 Stew
 _L 0x20539AD0 0x00010063
-_C0 Infinite Lvl 3 Stone
+_C0 Infinite Lvl. 3 Stone
 _L 0x20539A8C 0x00010063
-_C0 Infinite Lvl 3 Veg
+_C0 Infinite Lvl. 3 Veg
 _L 0x20539AB0 0x00010063
-_C0 Infinite Lvl 3 Wood
+_C0 Infinite Lvl. 3 Wood
 _L 0x20539AA0 0x00010063
-_C0 Infinite Lvl 4 Meat
+_C0 Infinite Lvl. 4 Meat
 _L 0x20539A80 0x00010063
-_C0 Infinite Lvl 4 Ore
+_C0 Infinite Lvl. 4 Ore
 _L 0x20539AC4 0x00010063
-_C0 Infinite Lvl 4 Stew
+_C0 Infinite Lvl. 4 Stew
 _L 0x20539AD4 0x00010063
-_C0 Infinite Lvl 4 Stone
+_C0 Infinite Lvl. 4 Stone
 _L 0x20539A90 0x00010063
-_C0 Infinite Lvl 4 Veg
+_C0 Infinite Lvl. 4 Veg
 _L 0x20539AB4 0x00010063
-_C0 Infinite Lvl 4 Wood
+_C0 Infinite Lvl. 4 Wood
 _L 0x20539AA4 0x00010063
 _C0 Infinite Mystery Meat
 _L 0x10539A80 0x00000063
@@ -238765,7 +238936,7 @@ _L 0x20539AC6 0x00000001
 _C0 Megapon's Memory
 _L 0x20539AEC 0x00000001
 _L 0x20539AEE 0x00000001
-_C0 Metal Lvl 4 (99)
+_C0 Metal Lvl. 4 (99)
 _L 0x20528290 0x00010063
 _C0 Miracle Key
 _L 0x20539A24 0x00000001
@@ -239107,7 +239278,7 @@ _L 0x2051A298 0x000F423F
 _C0 Megapon's Memory
 _L 0x00518D90 0x00000001
 _L 0x00518D95 0x00000001
-_C0 Mud-stained Map
+_C0 Mud-Stained Map
 _L 0x00518D0C 0x00000001
 _L 0x00518D11 0x00000001
 _C0 Pata Drum
@@ -240345,7 +240516,7 @@ _L 0x20000000 0x20000028
 _L 0x2000005C 0x20000020
 _L 0x20000008 0x20000080
 _L 0x200000CC 0x00000000
-_C0 10 Lvl 40 Purple Jeweled Chest
+_C0 10 Lvl. 40 Purple Jeweled Chest
 _L 0x007E8E6C 0x000000EC
 _L 0x007E8E6D 0x00000003
 _L 0x007E8E70 0x00000028
@@ -241980,7 +242151,7 @@ _L 0xD0000002 0x10000009
 _L 0x20179C24 0x14600106
 _L 0x20179DD0 0x00431023
 _L 0x2017968C 0x1043FFCA
-_C0 ↑[#Select+△=???/Select+◯=???/Select+x=???/Select+□=???/Select+Start=Off]
+_C0 ↑[#Select+△=???/Select+◯=???/Select+X=???/Select+□=???/Select+Start=Off]
 _L 0x00000000 0x00000000
 _C0 Neko 99
 _L 0x006E7BAC 0x00000063
@@ -242302,7 +242473,7 @@ _L 0xD0000002 0x10000009
 _L 0x20179C24 0x14600106
 _L 0x20179DD0 0x00431023
 _L 0x2017968C 0x1043FFCA
-_C0 ↑[#Select+△=???/Select+◯=???/Select+x=???/Select+□=???/Select+Start=Off]
+_C0 ↑[#Select+△=???/Select+◯=???/Select+X=???/Select+□=???/Select+Start=Off]
 _L 0x00000000 0x00000000
 _C0 Neko 99
 _L 0x006E7BAC 0x00000063
@@ -242438,7 +242609,7 @@ _L 0x201FFE44 0x0A200804
 _L 0x201FFE48 0x00409021
 _S ULES-01218
 _G Phantasy Star Portable [EU]
-_C0 Disable V-sync
+_C0 Disable V-Sync
 _L 0x20543EEC 0x00000000
 _C0 Display Infos
 _L 0x20580154 0x00000001
@@ -244222,7 +244393,7 @@ _L 0x6056CC14 0x0E040000
 _L 0x00020001 0x00001834
 _L 0x6056CC14 0x00000000
 _L 0x00020001 0x00001838
-_C0 CAS-miko Set (Wearable On Female Cast)
+_C0 CAS-Miko Set (Wearable On Female Cast)
 _L 0x6056CC14 0x000C060A
 _L 0x00020001 0x00001828
 _L 0x6056CC14 0x00000001
@@ -244231,7 +244402,7 @@ _L 0x6056CC14 0x00000000
 _L 0x00020001 0x00001834
 _L 0x6056CC14 0x00000000
 _L 0x00020001 0x00001838
-_C0 CAS-oyal Set (Wearable On Female Cast)
+_C0 CAS-Oyal Set (Wearable On Female Cast)
 _L 0x6056CC14 0x000D060A
 _L 0x00020001 0x00001828
 _L 0x6056CC14 0x00000001
@@ -244249,7 +244420,7 @@ _L 0x6056CC14 0x00000000
 _L 0x00020001 0x00001834
 _L 0x6056CC14 0x00000000
 _L 0x00020001 0x00001838
-_C0 CAS-yukAta (Not wearable On Female Cast)
+_C0 CAS-Yukata (Not Wearable On Female Cast)
 _L 0x6056CC14 0x0009060A
 _L 0x00020001 0x00001828
 _L 0x6056CC14 0x00000001
@@ -244258,7 +244429,7 @@ _L 0x6056CC14 0x00000000
 _L 0x00020001 0x00001834
 _L 0x6056CC14 0x00000000
 _L 0x00020001 0x00001838
-_C0 CAS-yukAta (Wearable On Female Cast)
+_C0 CAS-Yukata (Wearable On Female Cast)
 _L 0x6056CC14 0x000A060A
 _L 0x00020001 0x00001828
 _L 0x6056CC14 0x00000001
@@ -246337,7 +246508,7 @@ _C0 Max All Inv Items
 _L 0x6056CC14 0x00000063
 _L 0x0000003C 0x00000A2C
 _L 0x90000024 0x00000000
-_C0 Max Job Lvl
+_C0 Max Job Lvl.
 _L 0x6056CC14 0x1C20000A
 _L 0x00020008 0x0000089C
 _L 0x90000001 0x00000000
@@ -246346,7 +246517,7 @@ _L 0x6056CC14 0x05F5E0FF
 _L 0x00020001 0x00001820
 _C0 Max NanoBLast / Cast Meter
 _L 0x10829120 0x00002710
-_C0 Max Skill Lvl
+_C0 Max Skill Lvl.
 _L 0x6056CC14 0x0000001D
 _L 0x00000024 0x00000907
 _L 0x90000008 0x00000000
@@ -246464,7 +246635,7 @@ _L 0x6056CC14 0x00000000
 _L 0x00020001 0x00001834
 _L 0x6056CC14 0x00000000
 _L 0x00020001 0x00001838
-_C0 Mikunas Set (Wearable On Female cast)
+_C0 Mikunas Set (Wearable On Female Cast)
 _L 0x6056CC14 0x000B060A
 _L 0x00020001 0x00001828
 _L 0x6056CC14 0x00000001
@@ -248809,7 +248980,7 @@ _L 0x20002098 0x0A20404D
 _L 0x2029400C 0x0E200814
 _L 0x20002058 0x24020001
 _L 0x2000205C 0xA2220014
-_C0 FreeMission S rank [Story]
+_C0 FreeMission S Rank [Story]
 _L 0x10A31B88 0x00000107
 _C0 Force EXTP
 _L 0x10A1FC08 0x00007FFF
@@ -249706,19 +249877,19 @@ _L 0x10A10FA0 0x0000001D
 _C0 Bullets: Rifles - Storage Slot 1 [Save Shoot]
 _L 0x20A10F90 0x00030105
 _L 0x10A10FA0 0x0000001D
-_C0 Bullets: Twin handGuns - Storage Slot 1 [Elemental Bullets]
+_C0 Bullets: Twin Handguns - Storage Slot 1 [Elemental Bullets]
 _L 0x20A10F90 0x00040605
 _L 0x10A10FA0 0x0000001D
-_C0 Bullets: Twin handGuns - Storage Slot 1 [Hit Bullets]
+_C0 Bullets: Twin Handguns - Storage Slot 1 [Hit Bullets]
 _L 0x20A10F90 0x00010605
 _L 0x10A10FA0 0x0000001D
-_C0 Bullets: Twin handGuns - Storage Slot 1 [Long-Range Bullet]
+_C0 Bullets: Twin Handguns - Storage Slot 1 [Long-Range Bullet]
 _L 0x20A10F90 0x00020605
 _L 0x10A10FA0 0x0000001D
-_C0 Bullets: Twin handGuns - Storage Slot 1 [Power Bullets]
+_C0 Bullets: Twin Handguns - Storage Slot 1 [Power Bullets]
 _L 0x20A10F90 0x00000605
 _L 0x10A10FA0 0x0000001D
-_C0 Bullets: Twin handGuns - Storage Slot 1 [Save Bullets]
+_C0 Bullets: Twin Handguns - Storage Slot 1 [Save Bullets]
 _L 0x20A10F90 0x00030605
 _L 0x10A10FA0 0x0000001D
 _C0 Cafe Quest Complete
@@ -249988,19 +250159,19 @@ _L 0x10A10FA0 0x0000001D
 _C0 Skills: Twin Claws - Storage Slot 1 [Sougacho Sekka]
 _L 0x20A10F90 0x00030804
 _L 0x10A10FA0 0x0000001D
-_C0 Skills: Twin Daggers - Storage Slot 1 [Hishou Jinren-zan]
+_C0 Skills: Twin Daggers - Storage Slot 1 [Hishou Jinren-Zan]
 _L 0x20A10F90 0x00060704
 _L 0x10A10FA0 0x0000001D
-_C0 Skills: Twin Daggers - Storage Slot 1 [Moubu Seiren-zan]
+_C0 Skills: Twin Daggers - Storage Slot 1 [Moubu Seiren-Zan]
 _L 0x20A10F90 0x00000704
 _L 0x10A10FA0 0x0000001D
-_C0 Skills: Twin Daggers - Storage Slot 1 [Renkai Buyou-zan]
+_C0 Skills: Twin Daggers - Storage Slot 1 [Renkai Buyou-Zan]
 _L 0x20A10F90 0x00040704
 _L 0x10A10FA0 0x0000001D
-_C0 Skills: Twin Daggers - Storage Slot 1 [Renga Chujin-shou]
+_C0 Skills: Twin Daggers - Storage Slot 1 [Renga Chujin-Shou]
 _L 0x20A10F90 0x00010704
 _L 0x10A10FA0 0x0000001D
-_C0 Skills: Twin Daggers - Storage Slot 1 [Soujin Ranbu-sho]
+_C0 Skills: Twin Daggers - Storage Slot 1 [Soujin Ranbu-Sho]
 _L 0x20A10F90 0x00020704
 _L 0x10A10FA0 0x0000001D
 _C0 Skills: Twin Sabers - Storage Slot 1 [Assault Crush]
@@ -250413,7 +250584,7 @@ _C0 Saika-Omote
 _L 0x20A15D9C 0x03120A01
 _C0 Sakai Hyori
 _L 0x20A10F90 0x03140701
-_C0 Samba maracas
+_C0 Samba Maracas
 _L 0x20A15D9C 0x030F1301
 _C0 Sand Rappy Gun
 _L 0x20A15D9C 0x03151401
@@ -250568,7 +250739,7 @@ _C0 Max SP
 _L 0x109527C4 0x000000C8
 _C0 Money
 _L 0x208FFBD4 0x3B9ACA00
-_C0 Quick Lvl 200
+_C0 Quick Lvl. 200
 _L 0x208FFBD0 0x3B9ACA00
 _S NPJH-50332
 _G Phantasy Star Portable 2 Infinity (PlayStation Store) [JP]
@@ -252846,7 +253017,7 @@ _C0 Dungeon Floor You Want To Enter Mod 61
 _L 0x0012E74E 0x00000061
 _C0 Dungeon Max Floor Mod 63
 _L 0x0012E750 0x00000063
-_C0 Dungeon Lvl Mod 04
+_C0 Dungeon Lvl. Mod 04
 _L 0x0012E74C 0x00000004
 _C0 Dungeon Size Mod 05
 _L 0x0012E772 0x00000005
@@ -252940,7 +253111,7 @@ _L 0x00020001 0x00000A80
 _C0 SP 2
 _L 0x0012E48C 0x00000002
 _S UCES-01564
-_G Phineas and Ferb - Across The 2nd Dimension [EU]
+_G Phineas And Ferb - Across The 2nd Dimension [EU]
 _C0 1 Hit Kill
 _L 0x200D4120 0x00000000
 _L 0x201C5548 0x00000000
@@ -253044,7 +253215,7 @@ _L 0x200011C8 0xkkjj00ii
 _L 0x200011CC 0xoonnmmll
 _C0 ↑[#Edit Codes First, Before Use]
 _L 0x00000000 0x00000000
-_C0 ↑↑[#aa ~ oo = Clothes By Character, aa=Niimi Yuka bb Muroto Aki, cc=Masayuki Asakura, dd=Acta Harima, ee=Masuzaki's, ff=Satoronogi Rina, gg=Deep-Sea Tomoe, hh=Maeda Funao, ii=Miyako Otani, jj=Akira KurabayasHi, kk=Narita Ruu, ll=Kudo HiromicHi, mm=HigasHiko, nn=SHinta Nakagawa, oo=Uchida Yuko]
+_C0 ↑↑[#aa ~ oo = Clothes By Character, aa=Niimi Yuka bb Muroto Aki, cc=Masayuki Asakura, dd=Acta Harima, ee=Masuzaki's, ff=Satoronogi Rina, gg=Deep-Sea Tomoe, hh=Maeda Funao, ii=Miyako Otani, jj=Akira Kurabayashi, kk=Narita Ruu, ll=Kudo HiromicHi, mm=Higashiko, nn=Shinta Nakagawa, oo=Uchida Yuko]
 _L 0x00000000 0x00000000
 _C0 Escape Character
 _L 0x20006E48 0x00000000
@@ -253693,7 +253864,7 @@ _C0 No Pinball Restraint
 _L 0x00111E74 0x00000001
 _C0 Set Total Points At 65k
 _L 0x217FF398 0x00002B7C
-_C0 Set Your Score At 99 mio
+_C0 Set Your Score At 99 Mio
 _L 0x20119B58 0x05EA9AE8
 _C0 Unlimited Credits
 _L 0x0011EEEC 0x000000FF
@@ -254028,7 +254199,7 @@ _L 0x2063FBEC 0x00000000
 _C0 Enemy: No Resources
 _L 0x2063FC14 0x00000000
 _L 0x2063FC18 0x00000000
-_C0 Every Attack is A Stun
+_C0 Every Attack Is A Stun
 _L 0x20807F90 0x16400061
 _C0 Get 20 Resources To Win
 _L 0x20000098 0x0A200400
@@ -254202,7 +254373,7 @@ _C0 Gain 9999 SP Per Battle
 _L 0x202073EC 0x0000270F
 _L 0x20207410 0x0000270F
 _L 0x20207448 0x0000270F
-_C0 Gain tons Of Exp. Per Battle
+_C0 Gain Tons Of Exp. Per Battle
 _L 0x20132070 0x0000FFFF
 _L 0x20132428 0x0000FFFF
 _L 0x202073E8 0x0000FFFF
@@ -256927,7 +257098,7 @@ _L 0x116A7C1C 0x0000270F
 _C0 Max Points v2
 _L 0x11356048 0x0000270F
 _S NPJH-50199
-_G Qix++ (PlayStation Store) [JP]
+_G QiX++ (PlayStation Store) [JP]
 _C0 High Score
 _L 0x60102624 0x00007767
 _L 0x00020001 0x00001DE8
@@ -256937,7 +257108,7 @@ _L 0x00020001 0x00004ED4
 _C0 Max Score
 _L 0x2023AA60 0x00200961
 _S ULJM-05617
-_G Qix++ [JP]
+_G QiX++ [JP]
 _C0 Infinite Shield
 _L 0x20233CE4 0x00000007
 _L 0x20233C44 0x00001770
@@ -257155,10 +257326,10 @@ _C0 Partner ArmorHP1 Arm (L+Down)
 _L 0xD0000000 0x10000140
 _L 0x401D7C44 0x00090054
 _L 0x00000001 0x00000000
-_C0 Partner ArmorHP1 bust
+_C0 Partner ArmorHP1 Bust
 _L 0x401D7C40 0x00090054
 _L 0x00000001 0x00000000
-_C0 Partner ArmorHP1 bust (L+Down)
+_C0 Partner ArmorHP1 Bust (L+Down)
 _L 0xD0000000 0x10000140
 _L 0x401D7C40 0x00090054
 _L 0x00000001 0x00000000
@@ -257175,10 +257346,10 @@ _C0 Partner ArmorHP1 Hip (L+Down)
 _L 0xD0000000 0x10000140
 _L 0x401D7C48 0x00090054
 _L 0x00000001 0x00000000
-_C0 Partner ArmorHP1 leg
+_C0 Partner ArmorHP1 Leg
 _L 0x401D7C4C 0x00090054
 _L 0x00000001 0x00000000
-_C0 Partner ArmorHP1 leg (L+Down)
+_C0 Partner ArmorHP1 Leg (L+Down)
 _L 0xD0000000 0x10000140
 _L 0x401D7C4C 0x00090054
 _L 0x00000001 0x00000000
@@ -257962,7 +258133,7 @@ _L 0x00003F88 0x0000000E
 _C0 Jumping Jacks v2
 _L 0x602F82A0 0x0000000E
 _L 0x00020001 0x00003F88
-_C0 Lot Of cheese
+_C0 Lot Of Cheese
 _L 0x00012E7C 0x0A200ABC
 _L 0x00002AF0 0x3C0808CE
 _L 0x00002AF4 0x3C090000
@@ -258703,7 +258874,7 @@ _C0 Sink Into Ground
 _L 0x00C73338 0x0000000F
 _C0 Slow Motion
 _L 0x00C73338 0x00000005
-_C0 Swim without Getting Eaten (Do Not Use On Land)
+_C0 Swim Without Getting Eaten (Do Not Use On Land)
 _L 0x00C73338 0x00000012
 _C0 Unlock All Weapons
 _L 0x00BE6818 0x00000001
@@ -259142,7 +259313,7 @@ _C0 Rengoku MS 60 (Old)
 _L 0x202B15E8 0x00000001
 _C0 ↑[#Force FPS To Run At 60 FPS -Testing Phase-]
 _L 0x00000000 0x00000000
-_C0 Rengoku MS Un-cap (Old)
+_C0 Rengoku MS Un-Cap (Old)
 _L 0x202B15E8 0x00000000
 _C0 ↑[#Restore Force FPS To Run At More 60 FPS]
 _L 0x00000000 0x00000000
@@ -259258,7 +259429,7 @@ _C0 Rengoku MS 60 (Old) [Beta]
 _L 0x202B15E8 0x00000001
 _C0 ↑[#Force FPS To Run At 60 FPS -Testing Phase-]
 _L 0x00000000 0x00000000
-_C0 Rengoku MS Un-cap (Old) [Beta]
+_C0 Rengoku MS Un-Cap (Old) [Beta]
 _L 0x202B15E8 0x00000000
 _C0 ↑[#Restore Force FPS To Run At More 60 FPS -Testing Phase-]
 _L 0x00000000 0x00000000
@@ -260216,7 +260387,7 @@ _C0 Inf. OU (.303 Secondary)
 _L 0x00283EF0 0x00000000
 _C0 Inf. Plasma Nades
 _L 0x202EB740 0x00000000
-_C0 Inf. Rapid/No Recoil for .303
+_C0 Inf. Rapid/No Recoil For .303
 _L 0x00283E90 0x00000000
 _C0 Inf. Shotgun Secondary
 _L 0x0028E464 0x00000000
@@ -261943,7 +262114,7 @@ _L 0x011B2D4A 0x000000D2
 _L 0x011B2D4B 0x000000D2
 _C0 Max TP
 _L 0x011B41F1 0x00000010
-_C0 Overdrive Max Lvl-3
+_C0 Overdrive Max Lvl.-3
 _L 0x1122A3B2 0x00000180
 _C0 Rank S
 _L 0x1122A3C6 0x00000000
@@ -263015,7 +263186,7 @@ _C0 Tsuisou No Ma (Gallery) All Open
 _L 0x601C6CA0 0xFFFFFFFF
 _L 0x00020021 0x00000290
 _L 0x90000001 0x00000000
-_C0 Weapon Lvl Max
+_C0 Weapon Lvl. Max
 _L 0x601C6CA0 0x00000005
 _L 0x00000045 0x000001E0
 _L 0x90000001 0x00000000
@@ -263046,7 +263217,7 @@ _L 0x00000001 0x00000000
 _L 0x8156422C 0x00090001
 _L 0x00000001 0x00000000
 _S HB9FB7A411
-_G S4inexCraft v.2.0 [Homebrew]
+_G S4inexCraft v2.0 [Homebrew]
 _C0 Fly
 _L 0x200BB058 0x03E00008
 _L 0x200BB05C 0x00000000
@@ -264217,7 +264388,7 @@ _C0 Capital 99999
 _L 0x212A6030 0x000F423F
 _C0 Development No Lv. Limit
 _L 0x2003C024 0x24020063
-_C0 ↑[#This Code Will Turn All Your Unit Into Lvl 99, Use Code Save Then Restart Without Code To Revert Your Level Back]
+_C0 ↑[#This Code Will Turn All Your Unit Into Lvl. 99, Use Code Save Then Restart Without Code To Revert Your Level Back]
 _L 0x00000000 0x00000000
 _C0 Exp.
 _L 0x812D1130 0x0142000E
@@ -264360,7 +264531,7 @@ _C0 ↑[#MS Code From The List=0213: Blaze Zaku Warrior/0215: Only Gunner Zaku L
 _L 0x00000000 0x00000000
 _C0 Development No Lv. Limit
 _L 0x2003C024 0x24020063
-_C0 ↑[#This Code Will Turn All Your Unit Into Lvl 99, Use Code Save Then Restart Without Code To Revert Your Level Back]
+_C0 ↑[#This Code Will Turn All Your Unit Into Lvl. 99, Use Code Save Then Restart Without Code To Revert Your Level Back]
 _L 0x00000000 0x00000000
 _C0 EN No Decrease
 _L 0x200C5D98 0x24050000
@@ -264612,7 +264783,7 @@ _L 0x10007530 0x00000000
 _C0 Align All OP Types 1 By 1
 _L 0x811ECB9C 0x00c40004
 _L 0x10000001 0x00000001
-_C0 All Lvl 99
+_C0 All Lvl. 99
 _L 0x20051D74 0x24020063
 _C0 All Pilot Ace Point 65000
 _L 0x811FF348 0x01A4000E
@@ -265315,16 +265486,16 @@ _C0 30 FPS [Default]
 _L 0x20149F04 0x28A50002
 _C0 ↑[#Force FPS To Run At 30 FPS -Original Value-]
 _L 0x00000000 0x00000000
-_C0 60 FPS (222 mhz.)
+_C0 60 FPS (222 Mhz.)
 _L 0xD0424A24 0x20000000
 _L 0x20149F04 0x28A50001
 _L 0xD0424A24 0x20000001
 _L 0x20149F04 0x28A50002
-_C0 ↑[#Force FPS To Run At 60 FPS - 222 mhz]
+_C0 ↑[#Force FPS To Run At 60 FPS - 222 Mhz.]
 _L 0x00000000 0x00000000
-_C0 60 FPS (300 mhz.)
+_C0 60 FPS (300 Mhz.)
 _L 0x20149F04 0x28A50001
-_C0 ↑[#Force FPS To Run At 60 FPS - 300 mhz]
+_C0 ↑[#Force FPS To Run At 60 FPS - 300 Mhz.]
 _L 0x00000000 0x00000000
 _C0 _________[>>>Optimization Cheats<<<]_________
 _L 0x00000000 0x00000000
@@ -265362,7 +265533,7 @@ _L 0x203167AC 0x3C0608BE
 _L 0x203167B0 0x0A25215A
 _L 0x203167B4 0xACC2B458
 _S ULJM-05878
-_G Sekai De Ichiban NG na Koi: Full House [JP]
+_G Sekai De Ichiban NG Na Koi: Full House [JP]
 _C0 BGM Open
 _L 0x80717998 0x00030001
 _L 0x000000FF 0x00000000
@@ -265373,7 +265544,7 @@ _C0 Omake & Epilogue Open
 _L 0x80712F5B 0x00020001
 _L 0x000000FF 0x00000000
 _S ULJM-05468
-_G Sekai wa Atashi De Mawatteru: Hikari To Yami No Princess [JP]
+_G Sekai Wa Atashi De Mawatteru: Hikari To Yami No Princess [JP]
 _C0 1P All Magic Open
 _L 0x2011B840 0x0FFFFFFF
 _C0 1P Atk. 999
@@ -266252,7 +266423,7 @@ _C0 Chapter 18 Sin & Huang Yan
 _L 0x0053A3B8 0x00000027
 _C0 Chapter 19 Love The Cheater
 _L 0x0053A3B8 0x00000028
-_C0 Chapter 20 A Man way
+_C0 Chapter 20 A Man Way
 _L 0x0053A3B8 0x00000029
 _C0 Chapter 21
 _L 0x0053A3B8 0x0000002A
@@ -266322,7 +266493,7 @@ _C0 Exp. 99999999
 _L 0x2052DB24 0x05F5E0FF
 _C0 Free Tank Repair Cost
 _L 0x0052CAA4 0x00000001
-_C0 Inf. Tank wt. 2ch
+_C0 Inf. Tank Wt. 2ch
 _L 0x202CE064 0x10000021
 _C0 Next Battle End Get All Character
 _L 0x805312F0 0x011D0008
@@ -266905,7 +267076,7 @@ _C0 _________[>>>Widescreen Hack Cheats<<<]_________
 _L 0x00000000 0x00000000
 _C0 ↑[#How To Use: Change Display Layout Editor Setting To "Stretch" Then Enable Widescreen Hack Code, And Start Game]
 _L 0x00000000 0x00000000
-_C0 iPhoneXs Screen (19.5:9)
+_C0 iPhoneXS Screen (19.5:9)
 _L 0x2025DD14 0x400AB021
 _C0 Screen (16:9) PSP
 _L 0x2025DD14 0x3FE1E1E2
@@ -266919,23 +267090,23 @@ _C0 [C3] Exp. After Battle Mod
 _L 0x1050408C 0x00000000
 _C0 [C4] Exp. After Battle Mod
 _L 0x105041A4 0x00000000
-_C0 [C2] Persona Lvl 99
+_C0 [C2] Persona Lvl. 99
 _L 0x20503EFC 0x0098967F
-_C0 [C3] Persona Lvl 99
+_C0 [C3] Persona Lvl. 99
 _L 0x20504014 0x0098967F
-_C0 [C4] Persona Lvl 99
+_C0 [C4] Persona Lvl. 99
 _L 0x2050412C 0x0098967F
-_C0 [C5] Persona Lvl 99
+_C0 [C5] Persona Lvl. 99
 _L 0x20504244 0x0098967F
 _C0 [MC] Exp. After Battle Mod
 _L 0x10503E5C 0x00000000
-_C0 [MC] Persona Lvl 20+
+_C0 [MC] Persona Lvl. 20+
 _L 0x202935D8 0x0000270F
-_C0 [MC] Persona Lvl 32
+_C0 [MC] Persona Lvl. 32
 _L 0x204C5214 0x0001869F
-_C0 [MC] Persona Lvl 57
+_C0 [MC] Persona Lvl. 57
 _L 0x204C5214 0x000F423F
-_C0 [MC] Persona Lvl 99
+_C0 [MC] Persona Lvl. 99
 _L 0x204C5214 0x0098967F
 _C0 [MC] Inf. HP
 _L 0x20503DC8 0x000003E7
@@ -268564,7 +268735,7 @@ _C0 Max Money
 _L 0x2066B3C4 0x0098967F
 _C0 No Lv. Limit (Persona Fusion)
 _L 0x2005C338 0x00000000
-_C0 No Lvl Limit When Creating Persona
+_C0 No Lvl. Limit When Creating Persona
 _L 0x2005C338 0x00000000
 _C0 Non Dec. HP&SP (Skill Use)
 _L 0x20001F00 0x03E00008
@@ -268634,7 +268805,7 @@ _C0 ↑[#How To Use: Change Display Layout Editor Setting To "Stretch" Then Enab
 _L 0x00000000 0x00000000
 _C0 Screen (3:2) Handheld
 _L 0x203B2340 0x3FC00000
-_C0 iPhoneXs Screen (19.5:9)
+_C0 iPhoneXS Screen (19.5:9)
 _L 0x203B2340 0x4009999A
 _L 0x203B2340 0x400AB021
 _L 0x206D94B0 0x3F2D9792
@@ -268723,7 +268894,7 @@ _L 0x00000001 0x00010000
 _C0 All Persona Max Exp. (Compendium Book)
 _L 0x40664ED4 0x00AE000D
 _L 0x00500000 0x00000000
-_C0 All Persona Max Lvl (Compendium Book)
+_C0 All Persona Max Lvl. (Compendium Book)
 _L 0x40664ED0 0x00AE000D
 _L 0x00000063 0x00000000
 _C0 All Persona Max Stats (Compendium Book)
@@ -271451,7 +271622,7 @@ _L 0x0144F1F2 0x00000032
 _C0 Play As Zhang Liao
 _L 0xD0000001 0x10001300
 _L 0x0144F1F2 0x00000009
-_C0 Play As Zhao yun
+_C0 Play As Zhao Yun
 _L 0xD0000001 0x10001300
 _L 0x0144F1F2 0x00000022
 _C0 Play As Zhen Ji
@@ -271920,7 +272091,7 @@ _C0 Seraphim Mode
 _L 0x00524256 0x00000008
 _C0 Stamp
 _L 0x0052E5E4 0x00000009
-_C0 Total Is our Action
+_C0 Total Is Our Action
 _L 0x408DF374 0x003F00CA
 _L 0x00000000 0x00000000
 _C0 Unlock All Party Members
@@ -272518,7 +272689,7 @@ _C0 Money Max
 _L 0x20EDFDB0 0x05F5E0FF
 _C0 MP Diminished
 _L 0xC005D1B4 0x00E03023
-_C0 Not Reduce remainder Task
+_C0 Not Reduce Remainder Task
 _L 0xC00DBDD0 0x00000000
 _C0 Revival Infinity
 _L 0xC009CAB8 0x00000000
@@ -272560,9 +272731,9 @@ _C0 Always Full Power
 _L 0x200435A4 0x3C0142C8
 _L 0x200435D8 0xAE2104EC
 _L 0x200435DC 0xAE810024
-_C0 Each coin worth 100 coins
+_C0 Each Coin Worth 100 Coins
 _L 0x200E5E48 0x34050064
-_C0 Enemies Don't Attack [R+x=On / Select+x=Off]
+_C0 Enemies Don't Attack [R+X=On / Select+X=Off]
 _L 0xD0000000 0x10004200
 _L 0x200092F8 0x00000000
 _L 0xD0000000 0x10004001
@@ -272739,7 +272910,7 @@ _L 0x00217B70 0x00000000
 _C0 No Sail Damage 5th Ship
 _L 0x00217C98 0x00000000
 _S ULES-00201
-_G Signore degli Anelli, Il - Tactics [EU][Italy]
+_G Signore Degli Anelli, Il - Tactics [EU][Italy]
 _C0 Buy Skills And Items Even Without Gold
 _L 0x200DA5E0 0x00000000
 _L 0x200B7554 0x00000000
@@ -272752,7 +272923,7 @@ _L 0x20001008 0x12000003
 _L 0x20001010 0x0A21A5B2
 _L 0x20001018 0x03E00008
 _L 0x2000101C 0x27BD0100
-_C0 Skip in-game videos
+_C0 Skip In-Game Videos
 _L 0x200F27D0 0x10000006
 _C0 ↑[#Note: Use Only In The Fellowship Campaign]
 _L 0x00000000 0x00000000
@@ -273121,7 +273292,7 @@ _L 0x000010B0 0xAD2B0018
 _L 0x000010B4 0xAD2C001C
 _L 0x000010B8 0xAD2D0020
 _L 0x000010BC 0x03E00008
-_C0 ↑[#Note: L+dpad Up=Mark 1,L+dpad Down=Mark 2,R+dpad Up=Recall 1,R+dpad Down=Recall 2]
+_C0 ↑[#Note: L+D-Pad Up=Mark 1,L+D-Pad Down=Mark 2,R+D-Pad Up=Recall 1,R+D-Pad Down=Recall 2]
 _L 0x00000000 0x00000000
 _C0 Flash
 _L 0xFFFFFFFF 0x00308DB0
@@ -273248,7 +273419,7 @@ _L 0x601A14C8 0x000003E7
 _L 0x00020007 0x00000034
 _L 0x90000001 0x00000000
 _S ULJS-00207
-_G Simple 2500 Series Portable!! Vol. 12: The Hohei 2: Senyuu yo, Sakini Ike [JP]
+_G Simple 2500 Series Portable!! Vol. 12: The Hohei 2: Senyuu Yo, Sakini Ike [JP]
 _C0 Max Cash
 _L 0x20CC9CFC 0x05F5E0FF
 _C0 Max Experience
@@ -273814,11 +273985,11 @@ _L 0x217FEE18 0x3B9ACA00
 _L 0x217FF400 0x3B9ACA00
 _S ULJM-05214
 _G Snow Portable [JP]
-_C0 New Game = Test.mes
+_C0 New Game = Test.Mes
 _L 0xE1026573 0x008BEBAC
 _L 0x208BEBAC 0x74736574
 _L 0x208BEBB0 0xD5D5D5D5
-_C0 New Game = Test2.mes
+_C0 New Game = Test2.Mes
 _L 0xE1026573 0x008BEBAC
 _L 0x208BEBAC 0x74736574
 _L 0x208BEBB0 0xD5D5D532
@@ -273987,7 +274158,7 @@ _C0 No Shock
 _L 0x2056C3F4 0x00000000
 _C0 No Vote
 _L 0x200CF908 0x00000000
-_C0 Oh noes!
+_C0 Oh Noes!
 _L 0x20285F54 0x03E00008
 _C0 Perfect No Shock
 _L 0x2088EE98 0x000003E8
@@ -274020,7 +274191,7 @@ _C0 Rapid Fire
 _L 0x5072C3F0 0x413C0100
 _L 0x5056C398 0x451C0000
 _L 0x5056D69C 0x451C0000
-_C0 Remove headSet icon
+_C0 Remove HeadSet Icon
 _L 0x204020F4 0x00000001
 _C0 See Yourself While Sniping
 _L 0x003F06A0 0x00000000
@@ -274055,7 +274226,7 @@ _L 0x20928A54 0x000003E8
 _L 0x20928A90 0x000003E8
 _S UCES-00543
 _G SOCOM: U.S. Navy Seals Fireteam Bravo 2 [EU]
-_C0 Flash par C2S2
+_C0 Flash Par C2S2
 _L 0x205701FC 0x3FC00000
 _C0 Hyper Speed
 _L 0x205701FC 0x40000000
@@ -274649,7 +274820,7 @@ _L 0x20001C70 0xAD4D0630
 _L 0x20001C74 0x03E00008
 _C0 ↑[#L+D-Pad Down = Climb, L+R = Dance's, Square = Jump]
 _L 0x00000000 0x00000000
-_C0 Kill Noobs (Campaign Guns/throw)
+_C0 Kill Noobs (Campaign Guns/Throw)
 _L 0x2060130C 0x00000005
 _L 0x20605FE8 0x00000014
 _L 0x20605FEC 0x00000000
@@ -275675,7 +275846,7 @@ _L 0x206042A0 0x0000000F
 _L 0x20605828 0x0000001E
 _C0 Rapid Fire Real
 _L 0x20289CC8 0x1000000B
-_C0 Rapid Grenades/Keep tapping
+_C0 Rapid Grenades/Keep Tapping
 _L 0x20289DE8 0x00000000
 _L 0x20289DB4 0x00000000
 _L 0x20289DBC 0x00000000
@@ -276531,7 +276702,7 @@ _C0 Move To Marker: Big
 _L 0x004D170C 0x41000000
 _C0 Move To Marker: Red
 _L 0x004D172C 0x41000000
-_C0 Night vision
+_C0 Night Vision
 _L 0x004903F0 0x00000100
 _C0 No Flash Blind
 _L 0x004903F0 0x00000000
@@ -277690,7 +277861,7 @@ _C0 1 Hit Kill (By Attack While Pressing L)
 _L 0x200897AC 0x00808025
 _L 0xD0000000 0x10000100
 _L 0x200897AC 0x8EB0000C
-_C0 1st Person In Party Will Be Displayed On Screen As leader
+_C0 1st Person In Party Will Be Displayed On Screen As Leader
 _L 0x200EEC3C 0x0E2003CC
 _L 0x2013B324 0x0A2003C0
 _L 0x20000F00 0x3222FFFF
@@ -278020,7 +278191,7 @@ _L 0x8023A368 0x00060008
 _L 0x00000063 0x00000000
 _L 0x8023A680 0x00150008
 _L 0x00000063 0x00000000
-_C0 Weapon x9 1/3
+_C0 Weapon x9 (1/3)
 _L 0x00239438 0x00000009
 _L 0x00239470 0x00000009
 _L 0x00239500 0x00000009
@@ -278035,7 +278206,7 @@ _L 0x00239728 0x00000009
 _L 0x002397D0 0x00000009
 _L 0x00239810 0x00000009
 _L 0x00239820 0x00000009
-_C0 Weapon x9 2/3
+_C0 Weapon x9 (2/3)
 _L 0x80239378 0x000A0008
 _L 0x00000009 0x00000000
 _L 0x802393D0 0x00050008
@@ -278050,7 +278221,7 @@ _L 0x80239510 0x00040008
 _L 0x00000009 0x00000000
 _L 0x80239578 0x00050008
 _L 0x00000009 0x00000000
-_C0 Weapon x9 3/3
+_C0 Weapon x9 (3/3)
 _L 0x802395A8 0x00030008
 _L 0x00000009 0x00000000
 _L 0x802395D8 0x00040008
@@ -281628,7 +281799,7 @@ _L 0x20DDF6A4 0x501502F9
 _C0 Unlimted Hero Points
 _L 0x20DDF0D4 0x4479C000
 _S ULES-00901
-_G Spider-Man: Freund oder Feind [DE]
+_G Spider-Man: Freund Oder Feind [DE]
 _C0 Max Tokens
 _L 0x107E0C44 0x0000270F
 _C0 P1: - Infinite Energy
@@ -282108,7 +282279,7 @@ _C0 999 Rivals Wrecked
 _L 0x2029F7FC 0x000003E7
 _C0 99999 Points Score
 _L 0x202B7548 0x0001869F
-_C0 AI Never reSpawns
+_C0 AI Never ReSpawns
 _L 0x2018D34C 0x7F800000
 _C0 All Cars Fly
 _L 0x100548E0 0x00004080
@@ -282868,7 +283039,7 @@ _C0 Char. 4 Exp.
 _L 0x20CAFDB0 0x3B9AC9FF
 _C0 Damascus
 _L 0x10CB010C 0x00000426
-_C0 Debug >Open Menu>Up>accept
+_C0 Debug >Open Menu>Up>Accept
 _L 0x2011132C 0x2408000E
 _C0 Debug Menu 1
 _L 0x60227694 0x0000000B
@@ -284327,7 +284498,7 @@ _S ULUS-10375
 _G Star Ocean: Second Evolution [US]
 _C0 _________[>>>Optimization Cheats<<<]_________
 _L 0x00000000 0x00000000
-_C0 Un-cap DMG
+_C0 Un-Cap DMG
 _L 0xE0067FFF 0x100BCCD4
 _L 0x200BCCD4 0x2A017FFF
 _L 0x200BCD0C 0x2A017FFF
@@ -284337,14 +284508,14 @@ _L 0x200BD798 0x2A417FFF
 _L 0x200C48BC 0x2A817FFF
 _C0 ↑[#Remove Codes Since 0x200BD77C 0x2A417FFF If You Don't Want To Un-cap Melee Dmg..]
 _L 0x00000000 0x00000000
-_C0 Un-cap DMG [Disable]
+_C0 Un-Cap DMG [Disable]
 _L 0x200BCCD4 0x2A012710
 _L 0x200BCD0C 0x2A012710
 _L 0x200C48FC 0x2A812710
 _L 0x200BD77C 0x2A412710
 _L 0x200BD798 0x2A412710
 _L 0x200C48BC 0x2A812710
-_C0 Un-cap HP & MP
+_C0 Un-Cap HP & MP
 _L 0xE0147FFF 0x100B9808
 _L 0x200B9808 0x28417FFF
 _L 0x20143944 0x24067FFF
@@ -284368,7 +284539,7 @@ _L 0x2003DE6C 0x24057FFE
 _L 0x201439C8 0x24067FFE
 _C0 ↑[#Remove Codes Since 0x2003DE14 0x24057FFE If You Don't Want MP]
 _L 0x00000000 0x00000000
-_C0 Un-cap HP & MP [Disable]
+_C0 Un-Cap HP & MP [Disable]
 _L 0x200B9808 0x28412710
 _L 0x20143944 0x2406270F
 _L 0x200B9838 0x28412710
@@ -285155,7 +285326,7 @@ _L 0x00220AE8 0x03E00008
 _L 0x00220AEC 0x00000000
 _C0 Auto Grow
 _L 0x0001DA60 0x00000000
-_C0 Auto Win (Enable When choosing Games)
+_C0 Auto Win (Enable When Choosing Games)
 _L 0x005CC614 0x0000C350
 _C0 Big Explosions
 _L 0x00413DCC 0x40800000
@@ -285276,7 +285447,7 @@ _L 0x00003CF8 0xAD4E3C88
 _L 0x00003CFC 0x3C0E3F00
 _L 0x00003D00 0xAD4E3C88
 _L 0x00003D04 0x03E00008
-_C0 ↑[#GameSpeed, Gravity, Zoom, & CinemAtic Mode,English paUse Menu text hacked]
+_C0 ↑[#GameSpeed, Gravity, Zoom, & Cinematic Mode,English Pause Menu Text Hacked]
 _L 0x00000000 0x00000000
 _C0 Disable Bullets
 _L 0x002D49E8 0x03E00008
@@ -285364,7 +285535,7 @@ _C0 Empire Colors
 _L 0x205CCFF0 0x00000004
 _C0 Everyone Flies
 _L 0x0004AD58 0x0A2CA7C8
-_C0 Everyone DiSappears (Enable In Game)
+_C0 Everyone DiSAppears (Enable In Game)
 _L 0x005CC600 0xFFFFFFFF
 _C0 Everyone Upgrades To Hero [Offline Only - Prees Up]
 _L 0x0001271C 0x0A200C00
@@ -285444,7 +285615,7 @@ _C0 Infinite Ammo (All Weapons)
 _L 0x202CFE38 0x1000000D
 _C0 Infinite Conquest Score Limit
 _L 0x005CC614 0x7F800000
-_C0 Infinite Flag captures
+_C0 Infinite Flag Captures
 _L 0x005CC618 0x7F800000
 _C0 Infinite Health (All Levels)
 _L 0x00A50D24 0x6FFFFFFF
@@ -285508,7 +285679,7 @@ _C0 Invisible
 _L 0x00411C08 0x40800000
 _C0 Invisible Body
 _L 0x00411BD4 0x3FC00000
-_C0 Invisible Jet-jumppack Flame
+_C0 Invisible Jet-Jumppack Flame
 _L 0x00411CBC 0x45800000
 _C0 Jetpack Always Enabled
 _L 0x002260E4 0x03E00008
@@ -285584,7 +285755,7 @@ _L 0x00003238 0x358C882B
 _L 0x0000323C 0xA56D6FEC
 _L 0x00003240 0xAD4C1D4C
 _L 0x00003244 0x03E00008
-_C0 ↑[#Note: Hold Circle Until The mesSages appears,Then Press Up To Open The CustomizAtion Screen]
+_C0 ↑[#Note: Hold Circle Until The Messages Appears,Then Press Up To Open The Customization Screen]
 _L 0x00000000 0x00000000
 _C0 Next Map [Offline - Press Up]
 _L 0x0001271C 0x0A200C00
@@ -285608,13 +285779,13 @@ _C0 One Hit Kill
 _L 0x00281A08 0x3C047F80
 _C0 Particle Vision
 _L 0x00413CAC 0x42800000
-_C0 Player Always In roulade
+_C0 Player Always In Roulade
 _L 0x00228B64 0x03E00008
-_C0 Portable CustomizAtion Menu
+_C0 Portable Customization Menu
 _L 0x002F0CA4 0x03E00008
 _L 0x002F0CA8 0x0A2BC56A
 _L 0x002F0CAC 0x00000000
-_C0 ↑[#[#Restart Map, Map Won't actuAlly Restart Instead, It Will Go To customizAtion, Online & Offline]
+_C0 ↑[#[#Restart Map, Map Won't Actually Restart Instead, It Will Go To Customization, Online & Offline]
 _L 0x00000000 0x00000000
 _C0 Protons Missiles v2
 _L 0x00A1F4A0 0xFFFFFFFF
@@ -285629,7 +285800,7 @@ _L 0x20A4B8C0 0x00000000
 _L 0x20A3CD84 0x00000000
 _L 0x20A3B3B8 0x00000000
 _L 0x20A438EC 0x00000000
-_C0 Rapid Fire cars
+_C0 Rapid Fire Cars
 _L 0x00A42EFC 0x00000000
 _C0 Remove Lock On GUI
 _L 0x00411C78 0x40000000
@@ -285722,7 +285893,7 @@ _L 0x00003048 0xADAED594
 _L 0x0000304C 0x03E00008
 _C0 ↑[#Note: Press L+R+Down To Open The Teleport Menu,Just Stop Holding Buttons & Pick A Command Post,Clones Your Player,Teleports Him,Makes Health & Ammos Full]
 _L 0x00000000 0x00000000
-_C0 Universal Teleporter v2 [Circle & D-pad To Teleport]
+_C0 Universal Teleporter v2 [Circle & D-Pad To Teleport]
 _L 0x0000D7F4 0x0A200400
 _L 0x00001000 0x3C0808C6
 _L 0x00001004 0x8D083F5C
@@ -286585,7 +286756,7 @@ _L 0x00A4D204 0x7F800000
 _L 0x00A4D1BC 0x00000000
 _C0 _________[>>>Weapon Mod Codes: Bowcaster<<<]_________
 _L 0x00000000 0x00000000
-_C0 1337 bowcaster
+_C0 1337 Bowcaster
 _L 0x00A4C3CC 0x7FFFFFFF
 _L 0x00A4C3D8 0x7FFFFFFF
 _L 0x00A4C324 0x00000028
@@ -286663,12 +286834,12 @@ _L 0x005CEB5C 0x7F800000
 _L 0x005CEB60 0x7F800000
 _L 0x005CEB64 0x41800000
 _L 0x005CEB68 0x42C00000
-_C0 Infinite jet & Jump Pack
+_C0 Infinite Jet & Jump Pack
 _L 0x0021F6C4 0x01000000
 _C0 Jetpack Always Enabled
 _L 0x002260E4 0x03E00008
 _L 0x002260E8 0x00000000
-_C0 Jump Pack Always ready
+_C0 Jump Pack Always Ready
 _L 0x0022521C 0x03E00008
 _C0 One Tap Jetpack
 _L 0x0022614C 0x00000000
@@ -287030,7 +287201,7 @@ _C0 Super Rate Level: Tatoinned Clone
 _L 0x2121C050 0x42C00000
 _L 0x212313C8 0x42C00000
 _L 0x21231DB4 0x42C00000
-_C0 Super Rate Level: Tatoinne gcemp
+_C0 Super Rate Level: Tatoinne Gcemp
 _L 0x211AC6B0 0x42C00000
 _L 0x211C1A28 0x42C00000
 _L 0x211C2414 0x42C00000
@@ -288494,53 +288665,53 @@ _L 0x802C9EB0 0x00060001
 _L 0x000000FF 0x00000000
 _S ULJS-00299
 _G Storm Lover (Limited Edition) [JP]
-_C0 0 Degrees Of All complaints
-_L 0x2000CAD8 0x340A0000
-_L 0x2000CAF0 0x00000000
-_C0 10 Ability To Take Action
-_L 0x20154EF8 0x00000000
-_C0 999 900 pocket
-_L 0x2000CA5C 0x00000000
-_C0 All PArents & Maximum density Variations
-_L 0x2000C9F8 0x00000000
-_C0 All Subjects To vary The Maximum
-_L 0x2000CA88 0x00000000
-_C0 Open Extra (Some Clear stand FuragurasHiki)
-_L 0x2000BFD8 0x1000000C
-_L 0x2000BFDC 0x24020001
-_C0 Phone Can Be A Force Even though The lack Of Action Other Than The acting Power Consumption Costs 0 + Phone
-_L 0x20154EF8 0x0000000A
-_L 0x2006A764 0x00000000
-_C0 Skip Logo, such As D3 PUBLISHER
-_L 0x2003C7DC 0x00000000
-_C0 To Maintain The Opening Movie Starts With about Four Seconds inactivity Title Screen
-_L 0x2003FEF8 0x28A40181
-_C0 Zero Cost Power Consumption behavior
-_L 0x20154EF8 0x00000000
-_S ULJS-00300
-_G Storm Lover [JP]
-_C0 0 Degrees Of All complaints
+_C0 0 Degrees Of All Complaints
 _L 0x2000CAD8 0x340A0000
 _L 0x2000CAF0 0x00000000
 _C0 10 Ability To Take Action
 _L 0x20154EF8 0x00000000
 _C0 999 900 Pocket
 _L 0x2000CA5C 0x00000000
-_C0 All PArents & Maximum density Variations
+_C0 All Parents & Maximum Density Variations
 _L 0x2000C9F8 0x00000000
-_C0 All Subjects To vary The Maximum
+_C0 All Subjects To Vary The Maximum
 _L 0x2000CA88 0x00000000
-_C0 Open Extra (Some Clear stand FuragurasHiki)
+_C0 Open Extra (Some Clear Stand Furagurashiki)
 _L 0x2000BFD8 0x1000000C
 _L 0x2000BFDC 0x24020001
-_C0 Phone Can Be A Force Even though The lack Of Action Other Than The acting Power Consumption Costs 0 + Phone
+_C0 Phone Can Be A Force Even Though The Lack Of Action Other Than The Acting Power Consumption Costs 0 + Phone
 _L 0x20154EF8 0x0000000A
 _L 0x2006A764 0x00000000
-_C0 Skip Logo, such As D3 PUBLISHER
+_C0 Skip Logo, Such As D3 PUBLISHER
 _L 0x2003C7DC 0x00000000
-_C0 To Maintain The Opening Movie Starts With about Four Seconds inactivity Title Screen
+_C0 To Maintain The Opening Movie Starts With About Four Seconds Inactivity Title Screen
 _L 0x2003FEF8 0x28A40181
-_C0 Zero Cost Power Consumption behavior
+_C0 Zero Cost Power Consumption Behavior
+_L 0x20154EF8 0x00000000
+_S ULJS-00300
+_G Storm Lover [JP]
+_C0 0 Degrees Of All Complaints
+_L 0x2000CAD8 0x340A0000
+_L 0x2000CAF0 0x00000000
+_C0 10 Ability To Take Action
+_L 0x20154EF8 0x00000000
+_C0 999 900 Pocket
+_L 0x2000CA5C 0x00000000
+_C0 All Parents & Maximum Density Variations
+_L 0x2000C9F8 0x00000000
+_C0 All Subjects To Vary The Maximum
+_L 0x2000CA88 0x00000000
+_C0 Open Extra (Some Clear Stand Furagurashiki)
+_L 0x2000BFD8 0x1000000C
+_L 0x2000BFDC 0x24020001
+_C0 Phone Can Be A Force Even Though The Lack Of Action Other Than The Acting Power Consumption Costs 0 + Phone
+_L 0x20154EF8 0x0000000A
+_L 0x2006A764 0x00000000
+_C0 Skip Logo, Such As D3 PUBLISHER
+_L 0x2003C7DC 0x00000000
+_C0 To Maintain The Opening Movie Starts With About Four Seconds Inactivity Title Screen
+_L 0x2003FEF8 0x28A40181
+_C0 Zero Cost Power Consumption Behavior
 _L 0x20154EF8 0x00000000
 _S ULJS-00504
 _G Storm Lover Kai!! [JP]
@@ -288822,7 +288993,7 @@ _L 0x00000063 0x00000000
 _C0 Accessory x99 (SN4+)
 _L 0x8023D2A4 0x00770001
 _L 0x10006363 0x00000000
-_C0 Armor 99 1/3
+_C0 Armor 99 (1/3)
 _L 0x1023D0FE 0x00006363
 _L 0x1023D100 0x00006363
 _L 0x1023D174 0x00006363
@@ -288853,7 +289024,7 @@ _L 0x1023D1F0 0x00006363
 _L 0x2023D1F8 0x63636363
 _L 0x2023D1FC 0x63636363
 _L 0x1023D21C 0x00006363
-_C0 Armor 99 2/3
+_C0 Armor 99 (2/3)
 _L 0x2023D220 0x63636363
 _L 0x1023D226 0x00006363
 _L 0x2023D228 0x63636363
@@ -288879,7 +289050,7 @@ _L 0x2023D27C 0x63636363
 _L 0x1023D280 0x00006363
 _L 0x2023D284 0x63636363
 _L 0x1023D28A 0x00006363
-_C0 Armor 99 3/3
+_C0 Armor 99 (3/3)
 _L 0x8023D0F4 0x00080001
 _L 0x00000063 0x00000000
 _L 0x8023D104 0x001E0001
@@ -289289,7 +289460,7 @@ _L 0x20247AF4 0x32323232
 _L 0x20247AF8 0x32323232
 _L 0x20247AFC 0x32323232
 _L 0x10247B02 0x00003232
-_C0 Armor All 50 1/3
+_C0 Armor All 50 (1/3)
 _L 0x20247868 0x32323232
 _L 0x1024786C 0x00003232
 _L 0x10247872 0x00003232
@@ -289320,7 +289491,7 @@ _L 0x102478F2 0x00003232
 _L 0x202478F4 0x32323232
 _L 0x202478F8 0x32323232
 _L 0x102478FC 0x00003232
-_C0 Armor All 50 2/3
+_C0 Armor All 50 (2/3)
 _L 0x20247904 0x32323232
 _L 0x20247908 0x32323232
 _L 0x1024790C 0x00003232
@@ -289351,7 +289522,7 @@ _L 0x2024797C 0x32323232
 _L 0x20247980 0x32323232
 _L 0x10247984 0x00003232
 _L 0x20247988 0x32323232
-_C0 Armor All 50 3/3
+_C0 Armor All 50 (3/3)
 _L 0x2024798C 0x32323232
 _L 0x10247990 0x00003232
 _L 0x20247994 0x32323232
@@ -289699,7 +289870,7 @@ _L 0x202442C8 0xFFFFFFFF
 _L 0x202442CC 0x03FFFFFF
 _S NPUH-10198
 _G Summon Night 5 [USA]
-_C0 _________[>>>For UMD. v.1.0<<<]_________
+_C0 _________[>>>For UMD. v1.0<<<]_________
 _L 0x00000000 0x00000000
 _C0 100k Cash (1.00)
 _L 0x20272D38 0x000186A0
@@ -289736,7 +289907,7 @@ _L 0x20845438 0x000186A0
 _C0 Exp. 100k: Yeng-Hua (1.00)
 _L 0x202AEA30 0x000186A0
 _L 0x208452D8 0x000186A0
-_C0 Expless Lvls (1.00)
+_C0 Expless Lvl.S (1.00)
 _L 0xE0072823 0x0002B784
 _L 0x2002B784 0x00000000
 _L 0x2014D358 0x00000000
@@ -289745,7 +289916,7 @@ _L 0x20119004 0x3C137FFF
 _L 0x2010D598 0x3C0C7FFF
 _L 0x2002C9E0 0x3C047FFF
 _L 0x2014C328 0x3C137FFF
-_C0 Expless Lvls [Disable] (1.00)
+_C0 Expless Lvl.S [Disable] (1.00)
 _L 0x2002B784 0x00A62823
 _L 0x2014D358 0x02C4B023
 _L 0x2014D370 0x02C4B023
@@ -289850,7 +290021,7 @@ _L 0x200343E0 0x00C7402A
 _L 0x200343E8 0x00C73023
 _L 0x2003441C 0x00C52823
 _L 0x20034DA8 0x0053202A
-_C0 _________[>>>For UMD. v.2.0<<<]_________
+_C0 _________[>>>For UMD. v2.0<<<]_________
 _L 0x00000000 0x00000000
 _C0 _________[>>>FPS Cheats<<<]_________
 _L 0x00000000 0x00000000
@@ -289868,7 +290039,7 @@ _C0 100 Medals (v2.0)
 _L 0x00272E7C 0x00000064
 _C0 100k Fishing Points (v2.0)
 _L 0x20277D6C 0x000186A0
-_C0 Expless Lvls (v2.0)
+_C0 Expless Lvl.S (v2.0)
 _L 0xE0072823 0x0002B86C
 _L 0x2002B86C 0x00000000
 _L 0x2014D490 0x00000000
@@ -289877,7 +290048,7 @@ _L 0x201190E8 0x3C137FFF
 _L 0x2010D67C 0x3C0C7FFF
 _L 0x2002CAC8 0x3C047FFF
 _L 0x2014C460 0x3C137FFF
-_C0 Expless Lvls (v2.0) [Disable]
+_C0 Expless Lvl.S (v2.0) [Disable]
 _L 0x2002B86C 0x00A62823
 _L 0x2014D490 0x02C4B023
 _L 0x2014D4A8 0x02C4B023
@@ -290255,7 +290426,7 @@ _L 0x20162D08 0x2C420001
 _L 0x20163E64 0x80820078
 _L 0x20163E68 0x30420007
 _L 0x20163E6C 0x2C420001
-_C0 Character 01 flag
+_C0 Character 01 Flag
 _L 0x00873520 0x00000001
 _C0 Doryoku Exp. Rate
 _L 0x200E68A4 0x0014A140
@@ -290308,7 +290479,7 @@ _L 0x00000020 0x00000000
 _C0 Pilot Parts All
 _L 0x8088A129 0x00250001
 _L 0x00000063 0x00000000
-_C0 Robot 01 flag
+_C0 Robot 01 Flag
 _L 0x0086D522 0x00000001
 _C0 Robot Weapon All
 _L 0x8086D524 0x00320030
@@ -291441,7 +291612,7 @@ _C0 Continuous Clear Bonus Even If It Is Not Continuous [1.04]
 _L 0x2014F3F0 0x00000000
 _C0 Level, EC 2 Times Without Restriction Phase Restriction [1.04]
 _L 0x2014F454 0x00000000
-_C0 Necessary visibility 0 [1.04]
+_C0 Necessary Visibility 0 [1.04]
 _L 0x201CAFF0 0x24050000
 _L 0x201D1530 0x24100000
 _L 0x201DB388 0x24050000
@@ -291619,7 +291790,7 @@ _L 0x00489408 0x00000063
 _L 0x00489409 0x0000001E
 _C0 Consecutive Consecutive Tena Kuku Rinner [1.08]
 _L 0x2014F878 0x00000000
-_C0 Development Into The Center Have nn Ni Shi ta Landing May [1.08]
+_C0 Development Into The Center Have'nn Ni Shi Ta Landing May [1.08]
 _L 0x20181ED4 0x00000000
 _C0 Difference Correcting Invalid Toray Bell [1.08]
 _L 0x2021AC9C 0x24050000
@@ -291679,7 +291850,7 @@ _C0 Extrusion,Charge Vote,Citing Investment Arms Full Flavored Party [1.08]
 _L 0x201B6788 0x00000000
 _C0 First Press First Press Tena Kuku Rinner [1.08]
 _L 0x2014F834 0x00000000
-_C0 Fit Shock Attack,Development Activation Conditions Unisuites Residence na [1.08]
+_C0 Fit Shock Attack,Development Activation Conditions Unisuites Residence Na [1.08]
 _L 0x2017223C 0x10000006
 _L 0x201CB344 0x10000013
 _C0 Fixtures,Tenacious,Does Not Move,Carrier,Ship [1.08]
@@ -291754,7 +291925,7 @@ _L 0x20000900 0x0002800A
 _L 0x20000904 0x02058021
 _L 0x20000908 0x03E00008
 _L 0x2000090C 0x248205EC
-_C0 Suites Ritz Cloth Shin Necessary Plastic napal Boots [1.08]
+_C0 Suites Ritz Cloth Shin Necessary Plastic Napal Boots [1.08]
 _L 0x203104E4 0x34060001
 _L 0x203104EC 0x34050001
 _L 0x203104F8 0x34040001
@@ -291795,7 +291966,7 @@ _L 0x20293BB0 0x10000015
 _L 0x20294B68 0x10000014
 _L 0x20294D00 0x1000001D
 _L 0x20295E64 0x10000011
-_C0 Universe ma Plastic Bread Outsidesu Ailuropoda [1.08]
+_C0 Universe Ma Plastic Bread Outsidesu Ailuropoda [1.08]
 _L 0x2031EAB4 0x24040070
 _L 0x2031F9EC 0x24050070
 _C0 Vigor Max [1.08]
@@ -292121,7 +292292,7 @@ _L 0x20001124 0x34210002
 _L 0x20001128 0xA0410002
 _L 0x2000112C 0x03E00008
 _L 0x20001130 0x00201021
-_C0 Friends Lvl Max
+_C0 Friends Lvl. Max
 _L 0x200CEB68 0x0A200450
 _L 0x20001140 0x240100C8
 _L 0x20001144 0xA0410003
@@ -292199,14 +292370,14 @@ _C0 Items Do Not Reduce
 _L 0x20143A34 0x02008021
 _C0 Item Trigger +100
 _L 0x1081DC22 0x0000FF9C
-_C0 Level Of Skill 3000 v.1
+_C0 Level Of Skill 3000 v1
 _L 0x204BCA14 0x75300000
 _L 0x204BCA18 0x75307530
 _L 0x204BCA1C 0x75307530
 _L 0x204BCA20 0x75307530
 _L 0x204BCA24 0x75307530
 _L 0x204BCA28 0x75300000
-_C0 Level Of Skill 3000 v.2
+_C0 Level Of Skill 3000 v2
 _L 0x804BCA16 0x000b0001
 _L 0x10007530 0x00000000
 _C0 Level Of Skill Max
@@ -292271,7 +292442,7 @@ _L 0x20000F74 0xAFE2DA14
 _L 0x20000F78 0xAC601100
 _C0 Not Reduced Items
 _L 0x20143A34 0x02008021
-_C0 Partner Switch 3/3
+_C0 Partner Switch (3/3)
 _L 0x011AE5F4 0x00000003
 _C0 Photo Album All
 _L 0x104BC95A 0x0000FFFC
@@ -293631,7 +293802,7 @@ _L 0x005C24D4 0x5350122E
 _L 0x005C24D8 0x2E534850
 _L 0x005C24DC 0x4D4F4316
 _L 0x005C24E0 0x00000000
-_C0 ↑[#Press Start To Start The spam, Only Works In rooms]
+_C0 ↑[#Press Start To Start The Spam, Only Works In Rooms]
 _L 0x00000000 0x00000000
 _C0 Change Name While Hosting
 _L 0xFFFFFFFF 0x017FB218
@@ -293837,7 +294008,7 @@ _L 0x202C47E8 0x24840000
 _L 0x202AB71C 0x24840000
 _C0 Infinite Ammo/No Recoil (Guns) [Lv.1]
 _L 0x20297D44 0x00000000
-_C0 Infinite Ammo w/Sound
+_C0 Infinite Ammo W/Sound
 _L 0x20297D44 0x1000001D
 _C0 Infinite Health & Armor
 _L 0x2020BF68 0x0E200800
@@ -295713,7 +295884,7 @@ _L 0x804AC6E6 0x01FE0040
 _L 0x00000002 0x00000000
 _L 0x8046D670 0x00FE003C
 _L 0x10000F80 0x00000000
-_C0 All Characters Can Use "Ring Of the Dead, Bloodstained Sigil, Rebirth Sigil" As Items
+_C0 All Characters Can Use "Ring Of The Dead, Bloodstained Sigil, Rebirth Sigil" As Items
 _L 0x804AC6E7 0x01FE0040
 _L 0x00000008 0x00000000
 _C0 All Equipment
@@ -296806,7 +296977,7 @@ _L 0x00010001 0x00000004
 _C0 Costume All
 _L 0x8080E237 0x001E0001
 _L 0x00000001 0x00000000
-_C0 Gold crown
+_C0 Gold Crown
 _L 0x60002008 0x000003E8
 _L 0x00010004 0x00000004
 _L 0x90000002 0x00000000
@@ -296861,7 +297032,7 @@ _L 0x00010001 0x00000004
 _C0 Costume All
 _L 0x8080E237 0x001E0001
 _L 0x00000001 0x00000000
-_C0 Gold crown
+_C0 Gold Crown
 _L 0x60002008 0x000003E8
 _L 0x00010004 0x00000004
 _L 0x90000002 0x00000000
@@ -300356,7 +300527,7 @@ _L 0x2004703C 0x10000010
 _L 0x20047030 0x13E0001D
 _C0 Walk Speed
 _L 0x0074CA24 0x00000064
-_C0 Weapon 1/3
+_C0 Weapon (1/3)
 _L 0x10745F04 0x000001AA
 _L 0x10745F58 0x000001AB
 _L 0x10745FAC 0x000001AC
@@ -300384,7 +300555,7 @@ _L 0x10746690 0x000001C2
 _L 0x107466E4 0x000001C3
 _L 0x10746738 0x000001C4
 _L 0x1074678C 0x000001C5
-_C0 Weapon 2/3
+_C0 Weapon (2/3)
 _L 0x80745F10 0x001D0054
 _L 0x00000004 0x00000000
 _L 0x80745F1C 0x001D0054
@@ -300399,7 +300570,7 @@ _L 0x80745F40 0x001D0054
 _L 0x0000001E 0x00000000
 _L 0x80745F4C 0x001D0054
 _L 0x0000001F 0x00000000
-_C0 Weapon 3/3
+_C0 Weapon (3/3)
 _L 0x80745F0E 0x001D0054
 _L 0x00000006 0x00000000
 _L 0x80745F14 0x001D002A
@@ -300561,7 +300732,7 @@ _L 0x2004703C 0x10000010
 _L 0x20047030 0x13E0001D
 _C0 Walk Speed
 _L 0x0074CA24 0x00000064
-_C0 Weapon 1/3
+_C0 Weapon (1/3)
 _L 0x10745F04 0x000001AA
 _L 0x10745F58 0x000001AB
 _L 0x10745FAC 0x000001AC
@@ -300589,7 +300760,7 @@ _L 0x10746690 0x000001C2
 _L 0x107466E4 0x000001C3
 _L 0x10746738 0x000001C4
 _L 0x1074678C 0x000001C5
-_C0 Weapon 2/3
+_C0 Weapon (2/3)
 _L 0x80745F10 0x001D0054
 _L 0x00000004 0x00000000
 _L 0x80745F1C 0x001D0054
@@ -300604,7 +300775,7 @@ _L 0x80745F40 0x001D0054
 _L 0x0000001E 0x00000000
 _L 0x80745F4C 0x001D0054
 _L 0x0000001F 0x00000000
-_C0 Weapon 3/3
+_C0 Weapon (3/3)
 _L 0x80745F0E 0x001D0054
 _L 0x00000006 0x00000000
 _L 0x80745F14 0x001D002A
@@ -302020,7 +302191,7 @@ _L 0x00000032 0x00000000
 _C0 Weapon (Hammer)
 _L 0x81500068 0x00100001
 _L 0x00000032 0x00000000
-_C0 Weapon (Magic wand)
+_C0 Weapon (Magic Wand)
 _L 0x81500090 0x000C0001
 _L 0x00000032 0x00000000
 _C0 Weapon (Sword)
@@ -302132,7 +302303,7 @@ _C0 Wrist Equipment
 _L 0x815000E0 0x000E0001
 _L 0x00000032 0x00000000
 _S ULJM-05587
-_G Tegami BacHi: Kokoro Tsumugu Mono e [JP]
+_G Tegami Bachi: Kokoro Tsumugu Mono e [JP]
 _C0 Gallery Open
 _L 0x81349B90 0x00900004
 _L 0x00000001 0x00000000
@@ -303247,7 +303418,7 @@ _L 0x2056F270 0x3D000000
 _L 0x00000000 0x00000000
 _C0 Quick Cash Gain
 _L 0x20419B10 0x0001869F
-_C0 Rage All Open 1/3
+_C0 Rage All Open (1/3)
 _L 0x213E1828 0x00FFFF00
 _L 0x213E1848 0x00FFFF00
 _L 0x213E1868 0x00FFFF00
@@ -303261,7 +303432,7 @@ _L 0x213E1948 0x00FFFF00
 _L 0x213E1968 0x00FFFF00
 _L 0x213E1988 0x00FFFF00
 _L 0x213E19A8 0x00FFFF00
-_C0 Rage All Open 2/3
+_C0 Rage All Open (2/3)
 _L 0x213E19C8 0x00FFFF00
 _L 0x213E19E8 0x00FFFF00
 _L 0x213E1A08 0x00FFFF00
@@ -303275,7 +303446,7 @@ _L 0x213E1AE8 0x00FFFF00
 _L 0x213E1B08 0x00FFFF00
 _L 0x213E1B28 0x00FFFF00
 _L 0x213E1B48 0x00FFFF00
-_C0 Rage All Open 3/3
+_C0 Rage All Open (3/3)
 _L 0x213E1B68 0x00FFFF00
 _L 0x213E1B88 0x00FFFF00
 _L 0x213E1BA8 0x00FFFF00
@@ -304791,7 +304962,7 @@ _L 0xE0030001 0x015A0000
 _L 0xE0020007 0x003701D8
 _L 0xE0010005 0x303701D6
 _L 0x103701D6 0x00000005
-_C0 1P Bound Add Adjustment 1/3
+_C0 1P Bound Add Adjustment (1/3)
 _L 0xE0010004 0x0036F7EE
 _L 0x1159FFFE 0x00000000
 _L 0xE0010014 0x0036F7EE
@@ -304814,7 +304985,7 @@ _L 0xE0010020 0x0036F7EE
 _L 0x1159FFFE 0x00000000
 _L 0xE0010021 0x0036F7EE
 _L 0x1159FFFE 0x00000000
-_C0 1P Bound Add Adjustment 2/3
+_C0 1P Bound Add Adjustment (2/3)
 _L 0xE0010000 0x0036F7EE
 _L 0x1159FFFE 0x00000002
 _L 0xE0010001 0x0036F7EE
@@ -304845,7 +305016,7 @@ _L 0xE0010011 0x0036F7EE
 _L 0x1159FFFE 0x00000003
 _L 0xE0010013 0x0036F7EE
 _L 0x1159FFFE 0x00000001
-_C0 1P Bound Add Adjustment 3/3
+_C0 1P Bound Add Adjustment (3/3)
 _L 0xE0010015 0x0036F7EE
 _L 0x1159FFFE 0x00000001
 _L 0xE0010016 0x0036F7EE
@@ -305787,7 +305958,7 @@ _L 0xE001000E 0x0036F7EE
 _L 0x115AEFFC 0x00000001
 _L 0xE0010004 0x0036F7EE
 _L 0x115AEFFC 0x00000001
-_C0 1P Bound Master cord1/4
+_C0 1P Bound Master Cord (1/4)
 _L 0xE0010007 0x003701D8
 _L 0x115A0000 0x00000001
 _L 0xE0020001 0x015A0000
@@ -305795,7 +305966,7 @@ _L 0xE0010007 0x00370394
 _L 0x115A0000 0x00000002
 _L 0xE0010000 0x003701CC
 _L 0x115A0000 0x00000000
-_C0 1P Bound Master cord2/4
+_C0 1P Bound Master Cord (2/4)
 _L 0xE0060001 0x015A0004
 _L 0xE0050000 0x015A0000
 _L 0xE0040007 0x00370394
@@ -305820,7 +305991,7 @@ _L 0x603703A0 0x00000025
 _L 0x00010001 0x00000024
 _L 0x603703A0 0x00000007
 _L 0x00010001 0x0000002A
-_C0 1P Bound Master cord3/4
+_C0 1P Bound Master Cord (3/4)
 _L 0xE0110001 0x015A0004
 _L 0xE0100000 0x015A0000
 _L 0xE00F0007 0x00370394
@@ -305839,7 +306010,7 @@ _L 0x20000030 0x00000000
 _L 0x603703A0 0x80020007
 _L 0x00020002 0x00000010
 _L 0x20000030 0x00000010
-_C0 1P Bound Master cord4/4
+_C0 1P Bound Master Cord (4/4)
 _L 0xE0060100 0x0036F96E
 _L 0x215A0010 0x000B0009
 _L 0x215A0014 0x000B000A
@@ -308904,11 +309075,11 @@ _C0 Exp. [Needs Adjusting]
 _L 0x2144F63C 0x00000001
 _C0 Exp. Max
 _L 0x214AB900 0x001A3EC0
-_C0 Health v.1 (Use Only One Code)
+_C0 Health v1 (Use Only One Code)
 _L 0x61496AB0 0x461C4000
 _L 0x00020002 0x0000036C
 _L 0x20000008 0x00000000
-_C0 Health v.2 (Use Only One Code)
+_C0 Health v2 (Use Only One Code)
 _L 0x61496AB4 0x461C4000
 _L 0x00020002 0x0000036C
 _L 0x20000008 0x00000000
@@ -310605,7 +310776,7 @@ _L 0x200000B4 0x00000000
 _C0 Card Alle
 _L 0x80615074 0x01780001
 _L 0x00000050 0x00000000
-_C0 Card Alle (Not tested)
+_C0 Card Alle (Not Tested)
 _L 0x80615074 0x01780001
 _L 0x00000050 0x00000000
 _C0 Enemy No Mana
@@ -310623,7 +310794,7 @@ _L 0x200000B4 0x00000000
 _C0 Card Alle
 _L 0x80615074 0x01780001
 _L 0x00000050 0x00000000
-_C0 Card Alle (Not tested)
+_C0 Card Alle (Not Tested)
 _L 0x80615074 0x01780001
 _L 0x00000050 0x00000000
 _C0 Enemy No Mana
@@ -312165,17 +312336,17 @@ _L 0x203E86B4 0x000F423F
 _L 0x203E871C 0x000F423F
 _L 0x203E8784 0x000F423F
 _L 0x203E87EC 0x000F423F
-_C0 Quick Lvl Up Estelle
+_C0 Quick Lvl. Up Estelle
 _L 0x203E86B4 0x000F423F
-_C0 Quick Lvl Up Joshua
+_C0 Quick Lvl. Up Joshua
 _L 0x203E86E8 0x000F423F
 _C0 Semi-Infinite CP Estelle
 _L 0x103E86B2 0x000000C8
 _C0 Semi-Infinite CP Joshua
 _L 0x103E86E6 0x000000C8
-_C0 Super Lvl & Stats Estelle
+_C0 Super Lvl. & Stats Estelle
 _L 0x203E86A8 0x12341234
-_C0 Super Lvl & Stats Joshua
+_C0 Super Lvl. & Stats Joshua
 _L 0x203E86DC 0x12341234
 _S ULUS-10475
 _G The Lord Of The Rings: Aragon's Quest [US]
@@ -314019,10 +314190,10 @@ _L 0x414A7BE0 0x00140003
 _L 0x05015001 0x00000001
 _L 0x414A7CD0 0x00A80003
 _L 0x06016001 0x00000001
-_C0 All People To join
+_C0 All People To Join
 _L 0x814DDD58 0x00130001
 _L 0x10000001 0x00000001
-_C0 Appreciation Of Partner types Of Skills & results
+_C0 Appreciation Of Partner Types Of Skills & Results
 _L 0x114DE550 0x00001FFF
 _C0 Auto KANTEI
 _L 0x20001170 0x30847FFF
@@ -314041,7 +314212,7 @@ _L 0x20055DD0 0x0A20045C
 _C0 CG Open
 _L 0x814DEAD4 0x00090001
 _L 0x000000FF 0x00000000
-_C0 Character illustrAtions Open
+_C0 Character Illustrations Open
 _L 0x814DEB58 0x00130001
 _L 0x10000001 0x00000001
 _L 0x814DEAE4 0x004B0001
@@ -314055,7 +314226,7 @@ _L 0x2006E910 0x54000001
 _L 0x2006EADC 0x1000000A
 _L 0x2006EC5C 0x0A200468
 _L 0x2006EC98 0x2A84000B
-_C0 Cut/sudden/assault resistance Maxixmum
+_C0 Cut/Sudden/Assault Resistance Maxixmum
 _L 0x414AC044 0x001306CA
 _L 0x42C80000 0x00000000
 _L 0x414AC048 0x001306CA
@@ -314067,7 +314238,7 @@ _L 0x2004A070 0x00000000
 _L 0x2004A078 0x10000069
 _L 0xD0000001 0x10004000
 _L 0x2004A078 0x00000000
-_C0 Enemy Character illustrAtions Open
+_C0 Enemy Character Illustrations Open
 _L 0x814DE604 0x00460001
 _L 0x000000FF 0x00000000
 _C0 Enemy Life1
@@ -314325,10 +314496,10 @@ _L 0x414A7BE0 0x00140003
 _L 0x05015001 0x00000001
 _L 0x414A7CD0 0x00A80003
 _L 0x06016001 0x00000001
-_C0 All People To join
+_C0 All People To Join
 _L 0x814DDD58 0x00130001
 _L 0x10000001 0x00000001
-_C0 Appreciation Of Partner types Of Skills & results
+_C0 Appreciation Of Partner Types Of Skills & Results
 _L 0x114DE550 0x00001FFF
 _C0 Auto KANTEI
 _L 0x20001170 0x30847FFF
@@ -314347,7 +314518,7 @@ _L 0x20055DD0 0x0A20045C
 _C0 CG Open
 _L 0x814DEAD4 0x00090001
 _L 0x000000FF 0x00000000
-_C0 Character illustrAtions Open
+_C0 Character Illustrations Open
 _L 0x814DEB58 0x00130001
 _L 0x10000001 0x00000001
 _L 0x814DEAE4 0x004B0001
@@ -314361,7 +314532,7 @@ _L 0x2006E910 0x54000001
 _L 0x2006EADC 0x1000000A
 _L 0x2006EC5C 0x0A200468
 _L 0x2006EC98 0x2A84000B
-_C0 Cut/sudden/assault resistance Maxixmum
+_C0 Cut/Sudden/Assault Resistance Maxixmum
 _L 0x414AC044 0x001306CA
 _L 0x42C80000 0x00000000
 _L 0x414AC048 0x001306CA
@@ -314373,7 +314544,7 @@ _L 0x2004A070 0x00000000
 _L 0x2004A078 0x10000069
 _L 0xD0000001 0x10004000
 _L 0x2004A078 0x00000000
-_C0 Enemy Character illustrAtions Open
+_C0 Enemy Character Illustrations Open
 _L 0x814DE604 0x00460001
 _L 0x000000FF 0x00000000
 _C0 Enemy Life1
@@ -315756,7 +315927,7 @@ _L 0x20258E68 0x0A2963A7
 _L 0x20394C44 0xBFFF4000
 _L 0x20252FD4 0x3C074240
 _L 0xD2000000 0x00000000
-_C0 No Clipping (Press L+R Activate, X stop)
+_C0 No Clipping (Press L+R Activate, X Stop)
 _L 0x20394C44 0x00000300
 _L 0x216CC846 0x00000010
 _L 0xD2000000 0x00000000
@@ -316096,7 +316267,7 @@ _L 0xD2000000 0x00000000
 _L 0x20002014 0x3C0F4248
 _L 0x20002018 0x0A2AFA2A
 _L 0x2000201C 0xAD0F0188
-_C0 No Clipping (Press L+R Activate, X stop)
+_C0 No Clipping (Press L+R Activate, X Stop)
 _L 0x20371038 0x00000300
 _L 0x206DE506 0x00000010
 _L 0xD2000000 0x00000000
@@ -317258,7 +317429,7 @@ _L 0x20165544 0x3404270F
 _L 0x20165560 0x10000005
 _L 0x201667EC 0x00000000
 _L 0x20166C28 0x10000014
-_C0 Material All 1/3
+_C0 Material All (1/3)
 _L 0x805AB036 0x04E40002
 _L 0x10000063 0x00000000
 _L 0x805AB034 0x007C0002
@@ -317287,7 +317458,7 @@ _L 0x805ABC44 0x000A0002
 _L 0x10000304 0x00000001
 _L 0x805ABC74 0x00080002
 _L 0x10000310 0x00000001
-_C0 Material All 2/3
+_C0 Material All (2/3)
 _L 0x805ABC9C 0x00080002
 _L 0x1000031A 0x00000001
 _L 0x805ABCC4 0x00080002
@@ -317318,7 +317489,7 @@ _L 0x805ABF50 0x00030002
 _L 0x100003C7 0x00000001
 _L 0x805ABF64 0x00090002
 _L 0x100003CC 0x00000001
-_C0 Material All 3/3
+_C0 Material All (3/3)
 _L 0x805ABF90 0x002D0002
 _L 0x100003D7 0x00000001
 _L 0x805AC054 0x00020002
@@ -317371,7 +317542,7 @@ _C0 Players Often Full Gas Tank
 _L 0x60002004 0x00000004
 _L 0x00000002 0x000001FC
 _L 0x10000200 0x00000000
-_C0 Players Often Full Of Weapons & Power groove
+_C0 Players Often Full Of Weapons & Power Groove
 _L 0x60002004 0x00000004
 _L 0x00000002 0x00000204
 _L 0x10000208 0x00000000
@@ -319602,7 +319773,7 @@ _L 0x10000258 0x00000000
 _C0 Boost: Maximum Weight (1.00)
 _L 0x8060914E 0x0004000A
 _L 0x1000FFFF 0x00000000
-_C0 ↑[#See More For v.1.00: http://forums.PPSSPP.org/showthread.php?tid=13045&Page=6]
+_C0 ↑[#See More For v1.00: http://forums.PPSSPP.org/showthread.php?tid=13045&Page=6]
 _L 0x00000000 0x00000000
 _C0 ________[>>>Cheats For Game Version 1.01<<<]________
 _L 0x00000000 0x00000000
@@ -319749,10 +319920,10 @@ _L 0xFFFFFFFF 0x00000000
 _L 0x10605ECC 0x0000FFFF
 _C0 ↑[#Note: http://forums.PPSSPP.org/showthread.php?tid=13045]
 _L 0x00000000 0x00000000
-_C0 All Weapons To Lvl 9 (1.02)
+_C0 All Weapons To Lvl. 9 (1.02)
 _L 0x805AEADA 0x03200010
 _L 0x00000009 0x00000000
-_C0 All Armors To Lvl 9 (1.02)
+_C0 All Armors To Lvl. 9 (1.02)
 _L 0x805B3447 0x0320000A
 _L 0x00000009 0x00000000
 _C0 Change Face (1.02)
@@ -319935,11 +320106,11 @@ _C0 Invincibility [Disable] (1.02)
 _L 0x2032FEF0 0x4600634D
 _L 0x2032FEF4 0x44056800
 _L 0x20049514 0xE614008C
-_C0 LvlUp Gear Without Exp. (1.02)
+_C0 Lvl.Up Gear Without Exp. (1.02)
 _L 0xE00200FF 0x10294DA0
 _L 0x20294DA0 0x341300FF
 _L 0x20294DAC 0x1400003F
-_C0 LvlUp Gear Without Exp. [Disable] (1.02)
+_C0 Lvl.Up Gear Without Exp. [Disable] (1.02)
 _L 0x20294DA0 0x8054000A
 _L 0x20294DAC 0x10800066
 _C0 Max Weapon & Unity Gauges (1.02)
@@ -320008,7 +320179,7 @@ _L 0x2028C3D4 0x34110001
 _C0 Unlock All Crafting [Disable] (1.02)
 _L 0x2028C328 0x34110000
 _L 0x2028C3D4 0x34110000
-_C0 Unlock All Mitamas Lvl 12 (1.02)
+_C0 Unlock All Mitamas Lvl. 12 (1.02)
 _L 0x405B5F40 0x013E0004
 _L 0x00014B40 0x00000000
 _L 0x405B5F44 0x013E0004
@@ -320030,10 +320201,10 @@ _C0 ↑[#Note: http://forums.PPSSPP.org/showthread.php?tid=13045 #Change 0x41200
 _L 0x00000000 0x00000000
 _C0 Unity Gauge Multiplier [Disable] (1.02)
 _L 0x20043FD8 0x46146B80
-_C0 Upgrade Lvl 9 (1.02)
+_C0 Upgrade Lvl. 9 (1.02)
 _L 0xE0010009 0x10197828
 _L 0x20197828 0x24040009
-_C0 Upgrade Lvl 9 [Disable] (1.02)
+_C0 Upgrade Lvl. 9 [Disable] (1.02)
 _L 0x20197828 0x00D12021
 _C0 Weapon Gauge Multiplier (1.02)
 _L 0xE007082A 0x1033822C
@@ -320054,10 +320225,10 @@ _C0 All Achievements (1.03)
 _L 0x40609B40 0x00030001
 _L 0xFFFFFFFF 0x00000000
 _L 0x10609B4C 0x0000FFFF
-_C0 All Armors To Lvl 9 (1.03)
+_C0 All Armors To Lvl. 9 (1.03)
 _L 0x805B70C7 0x0320000A
 _L 0x00000009 0x00000000
-_C0 All Weapons To Lvl 9 (1.03)
+_C0 All Weapons To Lvl. 9 (1.03)
 _L 0x805B275A 0x03200010
 _L 0x00000009 0x00000000
 _C0 Change Face (1.03)
@@ -320252,11 +320423,11 @@ _C0 Invincibility [Disable] (1.03)
 _L 0x20332FC0 0x44166000
 _L 0x203335F4 0xE66C0084
 _L 0x20049740 0xE614008C
-_C0 LvlUp Gear Without Exp. (1.03)
+_C0 Lvl.Up Gear Without Exp. (1.03)
 _L 0xE00200FF 0x10297890
 _L 0x20297890 0x341300FF
 _L 0x2029789C 0x1400003F
-_C0 LvlUp Gear Without Exp. [Disable] (1.03)
+_C0 Lvl.Up Gear Without Exp. [Disable] (1.03)
 _L 0x20297890 0x8054000A
 _L 0x2029789C 0x1080008E
 _C0 Max Weapon & Unity Gauges (1.03)
@@ -320354,7 +320525,7 @@ _L 0x2028ED2C 0x34110001
 _C0 Unlock All Crafting [Disable] (1.03)
 _L 0x2028EC80 0x34110000
 _L 0x2028ED2C 0x34110000
-_C0 Unlock All Mitamas Lvl 12 (1.03)
+_C0 Unlock All Mitamas Lvl. 12 (1.03)
 _L 0x405B9BC0 0x013D0004
 _L 0x00014B40 0x00000000
 _L 0x405B9BC4 0x013D0004
@@ -320363,11 +320534,11 @@ _L 0x805B9BCB 0x013D0008
 _L 0x10000B0B 0x00000000
 _C0 ↑[#Note: http://forums.PPSSPP.org/showthread.php?tid=13045 #Mitamas Cannot Be Reverted Properly & Will Be Keept In The Game Save, So Do Not Save If You Just Want To Check What You're Missing:P.]
 _L 0x00000000 0x00000000
-_C0 Upgrade Lvl 9 (1.03)
+_C0 Upgrade Lvl. 9 (1.03)
 _L 0xE0020009 0x10198C54
 _L 0x20198668 0x24040009
 _L 0x20198C54 0x24040009
-_C0 Upgrade Lvl 9 [Disable] (1.03)
+_C0 Upgrade Lvl. 9 [Disable] (1.03)
 _L 0x20198668 0x00D12021
 _L 0x20198C54 0x00D12021
 _C0 Weapon Gauge Multiplier (1.03)
@@ -320398,12 +320569,12 @@ _C0 All Achievements (1.04)
 _L 0x4060A040 0x00030001
 _L 0xFFFFFFFF 0x00000000
 _L 0x1060A04C 0x0000FFFF
-_C0 All Armors To Lvl 9 (1.04)
+_C0 All Armors To Lvl. 9 (1.04)
 _L 0x805B75C7 0x0320000A
 _L 0x00000009 0x00000000
 _C0 All Gestures (1.04)
 _L 0x105B0814 0x0000F7FF
-_C0 All Weapons To Lvl 9 (1.04)
+_C0 All Weapons To Lvl. 9 (1.04)
 _L 0x805B2C5A 0x03200010
 _L 0x00000009 0x00000000
 _C0 Camera Control In The Village (1.04)
@@ -320645,11 +320816,11 @@ _L 0xE0013F0C 0x100DD4F4
 _L 0x200DD4F4 0x3C043F0C
 _C0 Keep Zoom [Disable] (1.04)
 _L 0x200DD4F4 0x3C043F80
-_C0 LvlUp Gear Without Exp. (1.04)
+_C0 Lvl.Up Gear Without Exp. (1.04)
 _L 0xE00200FF 0x10297AD0
 _L 0x20297AD0 0x341300FF
 _L 0x20297ADC 0x1400003F
-_C0 LvlUp Gear Without Exp. [Disable] (1.04)
+_C0 Lvl.Up Gear Without Exp. [Disable] (1.04)
 _L 0x20297AD0 0x8054000A
 _L 0x20297ADC 0x1080008E
 _L 0xE00601CC 0x1000FCCC
@@ -320751,7 +320922,7 @@ _L 0x2028EF6C 0x34110001
 _C0 Unlock All Crafting [Disable] (1.04)
 _L 0x2028EEC0 0x34110000
 _L 0x2028EF6C 0x34110000
-_C0 Unlock All Mitamas Lvl 12 (1.04)
+_C0 Unlock All Mitamas Lvl. 12 (1.04)
 _L 0x405BA0C0 0x013E0004
 _L 0x00014B40 0x00000000
 _L 0x405BA0C4 0x013E0004
@@ -320773,11 +320944,11 @@ _C0 ↑[#Note: http://forums.PPSSPP.org/showthread.php?tid=13045 #Change 0x41200
 _L 0x00000000 0x00000000
 _C0 Unity Gauge Multiplier [Disable] (1.04)
 _L 0x20044208 0x46146B80
-_C0 Upgrade Lvl 9 (1.04)
+_C0 Upgrade Lvl. 9 (1.04)
 _L 0xE0020009 0x101988A8
 _L 0x201988A8 0x24040009
 _L 0x20198E94 0x24040009
-_C0 Upgrade Lvl 9 [Disable] (1.04)
+_C0 Upgrade Lvl. 9 [Disable] (1.04)
 _L 0x201988A8 0x00D12021
 _L 0x20198E94 0x00D12021
 _C0 Weapon Gauge Multiplier (1.04)
@@ -320808,12 +320979,12 @@ _C0 All Achievements (1.05)
 _L 0x4060B340 0x00030001
 _L 0xFFFFFFFF 0x00000000
 _L 0x1060B34C 0x0000FFFF
-_C0 All Armors To Lvl 9 (1.05)
+_C0 All Armors To Lvl. 9 (1.05)
 _L 0x805B88C7 0x0320000A
 _L 0x00000009 0x00000000
 _C0 All Gestures (1.05)
 _L 0x105B1B14 0x0000F7FF
-_C0 All Weapons To Lvl 9 (1.05)
+_C0 All Weapons To Lvl. 9 (1.05)
 _L 0x805B3F5A 0x03200010
 _L 0x00000009 0x00000000
 _C0 Camera Control In The Village (1.05)
@@ -321063,11 +321234,11 @@ _L 0xE0013F0C 0x100DD710
 _L 0x200DD710 0x3C043F0C
 _C0 Keep Zoom [Disable] (1.05)
 _L 0x200DD710 0x3C043F80
-_C0 LvlUp Gear Without Exp. (1.05)
+_C0 Lvl.Up Gear Without Exp. (1.05)
 _L 0xE00200FF 0x10298254
 _L 0x20298254 0x341300FF
 _L 0x20298260 0x1400003F
-_C0 LvlUp Gear Without Exp. [Disable] (1.05)
+_C0 Lvl.Up Gear Without Exp. [Disable] (1.05)
 _L 0x20298254 0x8054000A
 _L 0x20298260 0x1080008E
 _C0 Max Weapon & Unity Gauges (1.05)
@@ -321175,7 +321346,7 @@ _L 0x2028F54C 0x34110001
 _C0 Unlock All Crafting [Disable] (1.05)
 _L 0x2028F4A0 0x34110000
 _L 0x2028F54C 0x34110000
-_C0 Unlock All Mitamas Lvl 12 (1.05)
+_C0 Unlock All Mitamas Lvl. 12 (1.05)
 _L 0x405BB3C0 0x013E0004
 _L 0x00014B40 0x00000000
 _L 0x405BB3C4 0x013E0004
@@ -321184,11 +321355,11 @@ _L 0x805BB3CB 0x013E0008
 _L 0x10000B0B 0x00000000
 _C0 ↑[#Note: http://forums.PPSSPP.org/showthread.php?tid=13045 #Uncomment 2 Following Lines If You Want Automatically Set 3 Last Skills #_L 0x405BB3C7 0x013E0004 #_L 0x0A090800 0x00000000 #Note: Unlocking Mitamas Cannot Be Reverted Properly & Will Be Keept In The Game Save, So Do Not Save If You Just Want To Check What You're Missing:P.]
 _L 0x00000000 0x00000000
-_C0 Upgrade Lvl 9 (1.05)
+_C0 Upgrade Lvl. 9 (1.05)
 _L 0xE0020009 0x101988A8
 _L 0x20198AE4 0x24040009
 _L 0x201990D0 0x24040009
-_C0 Upgrade Lvl 9 [Disable] (1.05)
+_C0 Upgrade Lvl. 9 [Disable] (1.05)
 _L 0x20198AE4 0x00D12021
 _L 0x201990D0 0x00D12021
 _C0 Weapon Gauge Multiplier (1.05)
@@ -321219,12 +321390,12 @@ _C0 All Achievements (1.06)
 _L 0x4060B340 0x00030001
 _L 0xFFFFFFFF 0x00000000
 _L 0x1060B34C 0x0000FFFF
-_C0 All Armors To Lvl 9 (1.06)
+_C0 All Armors To Lvl. 9 (1.06)
 _L 0x805B88C7 0x0320000A
 _L 0x00000009 0x00000000
 _C0 All Gestures (1.06)
 _L 0x105B1B14 0x0000F7FF
-_C0 All Weapons To Lvl 9 (1.06)
+_C0 All Weapons To Lvl. 9 (1.06)
 _L 0x805B3F5A 0x03200010
 _L 0x00000009 0x00000000
 _C0 Camera Control In The Village (1.06)
@@ -321476,11 +321647,11 @@ _L 0xE0013F0C 0x100DD710
 _L 0x200DD710 0x3C043F0C
 _C0 Keep Zoom [Disable] (1.06)
 _L 0x200DD710 0x3C043F80
-_C0 LvlUp Gear Without Exp. (1.06)
+_C0 Lvl.Up Gear Without Exp. (1.06)
 _L 0xE00200FF 0x10298254
 _L 0x20298220 0x341300FF
 _L 0x2029822C 0x1400003F
-_C0 LvlUp Gear Without Exp. [Disable] (1.06)
+_C0 Lvl.Up Gear Without Exp. [Disable] (1.06)
 _L 0x20298220 0x8054000A
 _L 0x2029822C 0x1080008E
 _C0 Max Weapon & Unity Gauges (1.06)
@@ -321590,7 +321761,7 @@ _L 0x2028F56C 0x34110001
 _C0 Unlock All Crafting [Disable] (1.06)
 _L 0x2028F4C0 0x34110000
 _L 0x2028F56C 0x34110000
-_C0 Unlock All Mitamas Lvl 12 (1.06)
+_C0 Unlock All Mitamas Lvl. 12 (1.06)
 _L 0x405BB3C0 0x013F0004
 _L 0x00014B40 0x00000000
 _L 0x405BB3C4 0x013F0004
@@ -321599,11 +321770,11 @@ _L 0x805BB3CB 0x013F0008
 _L 0x10000B0B 0x00000000
 _C0 ↑[#Note: http://forums.PPSSPP.org/showthread.php?tid=13045 #Uncomment 2 Following Lines If You Want Automatically Set 3 Last Skills #_L 0x405BB3C7 0x013E0004 #_L 0x0A090800 0x00000000 #Note: Unlocking Mitamas Cannot Be Reverted Properly & Will Be Keept In The Game Save, So Do Not Save If You Just Want To Check What You're Missing:P.]
 _L 0x00000000 0x00000000
-_C0 Upgrade Lvl 9 (1.06)
+_C0 Upgrade Lvl. 9 (1.06)
 _L 0xE0020009 0x101988A8
 _L 0x20198AE4 0x24040009
 _L 0x201990D0 0x24040009
-_C0 Upgrade Lvl 9 [Disable] (1.06)
+_C0 Upgrade Lvl. 9 [Disable] (1.06)
 _L 0x20198AE4 0x00D12021
 _L 0x201990D0 0x00D12021
 _C0 Weapon Gauge Multiplier (1.06)
@@ -323361,7 +323532,7 @@ _L 0x20002028 0xAE040208
 _L 0x2004D4D0 0x0A200808
 _S ULJS-00316
 _G Twinkle * Crusaders GoGo! [JP]
-_C0 All illustrAtions Collection
+_C0 All Illustrations Collection
 _L 0x8021611C 0x001E0004
 _L 0x00000003 0x00000000
 _C0 Enemy Without Full Gas
@@ -324947,7 +325118,7 @@ _L 0x102908A8 0x0000270F
 _L 0x1029089A 0x000003E7
 _L 0x00290898 0x00000005
 _L 0x002907AA 0x0000001E
-_C0 Stat. Max: jik
+_C0 Stat. Max: Jik
 _L 0x102918B4 0x0000270F
 _L 0x102918B8 0x0000270F
 _L 0x102918AA 0x000003E7
@@ -325451,7 +325622,7 @@ _L 0x20002030 0x0A21B211
 _L 0x20002034 0xC44C0098
 _C0 Kill Count Never Ends
 _L 0x2006EA94 0x00000000
-_C0 Lv. l Award
+_C0 Lvl. Award
 _L 0xC00A3140 0x24050BB8
 _C0 Max Armor
 _L 0xC0001044 0xAE013D64
@@ -325487,7 +325658,7 @@ _C0 TimeScale: Slow Motion
 _L 0x2018D694 0x3F400000
 _C0 TimeScale: Super Slow Motion
 _L 0x2018D694 0x3F000000
-_C0 Unlock All Lvl
+_C0 Unlock All Lvl.
 _L 0xC00A2ED0 0x24050001
 _C0 _________[>>>Warlock Codes<<<]_________
 _L 0x00000000 0x00000000
@@ -327718,7 +327889,7 @@ _L 0x202F780C 0x00000001
 _L 0x202F7810 0x00000001
 _L 0x202F7814 0x00000001
 _L 0x202F7818 0x00000001
-_C0 Fight 1 Exp. tnl
+_C0 Fight 1 Exp. Tnl
 _L 0x202F780C 0x00000001
 _C0 Hero Max & Inf. HP
 _L 0x102F77EC 0x000003E7
@@ -327752,7 +327923,7 @@ _C0 Lv. Up Status Point 0
 _L 0x00315D1A 0x00000000
 _C0 Lv. Up Status Point 9
 _L 0x00315D1A 0x00000009
-_C0 Mage 1 Exp. tnl
+_C0 Mage 1 Exp. Tnl
 _L 0x202F7810 0x00000001
 _C0 Main Char. Max Health
 _L 0x102F9B7C 0x000003E7
@@ -327815,7 +327986,7 @@ _C0 Paper Player
 _L 0x002F75B0 0x30800000
 _C0 Play Time 0
 _L 0x20221100 0x00000000
-_C0 Priest 1 Exp. tnl
+_C0 Priest 1 Exp. Tnl
 _L 0x202F7814 0x00000001
 _C0 Rainbow Kickup Dust
 _L 0x000D4038 0x3C044080
@@ -327879,7 +328050,7 @@ _L 0x000089B0 0x0A200240
 _L 0x000089D4 0x0A200254
 _C0 ↑[#Note: D-Pad Left=West, D-Pad Right=East, D-Pad Up=North, D-Pad Down=South, L+D-Pad Up=Up, L+D-Pad Down=Down]
 _L 0x00000000 0x00000000
-_C0 Thief 1 Exp. tnl
+_C0 Thief 1 Exp. Tnl
 _L 0x202F7818 0x00000001
 _C0 Villagers/Enemies Size Mod
 _L 0x00031D7C 0x3C044080
@@ -328007,7 +328178,7 @@ _L 0x2002BE88 0x00000000
 _L 0x2002C218 0x00000000
 _L 0x2002C608 0x00000000
 _L 0x2002C908 0x00000000
-_C0 Fighter Lvl 50
+_C0 Fighter Lvl. 50
 _L 0x00217FEC 0x00000032
 _C0 Inf. HP [Main Character]
 _L 0x00217FCC 0x000000FF
@@ -328876,7 +329047,7 @@ _C0 Prove Book
 _L 0x2023FD88 0x01020046
 _C0 Quadarra
 _L 0x2023FD88 0x01000042
-_C0 Quick Lvl All Class First Char.
+_C0 Quick Lvl. All Class First Char.
 _L 0x116E0650 0x00000001
 _C0 Quickness Book
 _L 0x2023FD88 0x01020051
@@ -334422,7 +334593,7 @@ _C0 Synthesize Without Material
 _L 0xC0168CF0 0x54000094
 _L 0xC0169798 0x50000008
 _S ULES-00540
-_G Who Wants to Be a Millionaire - Party Edition [EU]
+_G Who Wants To Be A Millionaire - Party Edition [EU]
 _C0 50:50 Lifeline Removes All Wrong Answers
 _L 0x2001657C 0x00000000
 _C0 Infinite Lifelines
@@ -337551,7 +337722,7 @@ _C0 Inf. Ml Points
 _L 0x204AD6C0 0x0005B1CA
 _C0 Max Wen
 _L 0x2108392C 0x0000270F
-_C0 Unlimited wen
+_C0 Unlimited Wen
 _L 0x2108392C 0x00010000
 _L 0x21082AA0 0x00010000
 _S ULUS-10056
@@ -339870,7 +340041,7 @@ _L 0x2003FB98 0x10000007
 _L 0x2003FBA0 0x10000005
 _L 0x2003FBA8 0x10000003
 _L 0x2003FBB0 0x14000007
-_C0 Rockfall (Opponent In The wild)
+_C0 Rockfall (Opponent In The Wild)
 _L 0x2004034C 0x17E00007
 _L 0x200403A8 0x1000000F
 _C0 Same Sex
@@ -340473,7 +340644,7 @@ _C0 UnEquip: Pamela
 _L 0x10293BE0 0x00000000
 _L 0x00293BF8 0x00000000
 _S ULJM-05625
-_G Yoake Mae Yori Ruriiro na Portable [JP]
+_G Yoake Mae Yori Ruriiro Na Portable [JP]
 _C0 Enable Debug Mode
 _L 0x204C47FC 0x00000001
 _S ULJM-05466
@@ -340899,7 +341070,7 @@ _L 0x0027759C 0x00000001
 _L 0x0027759D 0x00000001
 _L 0x0027759E 0x00000001
 _L 0x0027759F 0x00000001
-_C0 All Items 1/3
+_C0 All Items (1/3)
 _L 0x002775B8 0x00000001
 _L 0x002775B9 0x00000001
 _L 0x002775BA 0x00000001
@@ -340930,7 +341101,7 @@ _L 0x002775D2 0x00000001
 _L 0x002775D3 0x00000001
 _L 0x002775D4 0x00000001
 _L 0x002775D5 0x00000001
-_C0 All Items 2/3
+_C0 All Items (2/3)
 _L 0x002775D6 0x00000001
 _L 0x002775D7 0x00000001
 _L 0x002775D8 0x00000001
@@ -340961,7 +341132,7 @@ _L 0x002775F0 0x00000001
 _L 0x002775F1 0x00000001
 _L 0x002775F2 0x00000001
 _L 0x002775F3 0x00000001
-_C0 All Items 3/3
+_C0 All Items (3/3)
 _L 0x002775F4 0x00000001
 _L 0x002775F5 0x00000001
 _L 0x002775F6 0x00000001
@@ -341059,7 +341230,7 @@ _C0 Agi. 999
 _L 0xE0020000 0x1089F834
 _L 0x6089F834 0x4479C000
 _L 0x00020001 0x00000700
-_C0 All Accessories 1/3
+_C0 All Accessories (1/3)
 _L 0x10D5CBF8 0x00000064
 _L 0x10D5CBFA 0x00000064
 _L 0x10D5CBFC 0x00000064
@@ -341083,7 +341254,7 @@ _L 0x10D5CC20 0x00000064
 _L 0x10D5CC22 0x00000064
 _L 0x10D5CC24 0x00000064
 _L 0x10D5CC26 0x00000064
-_C0 All Accessories 2/3
+_C0 All Accessories (2/3)
 _L 0x10D5CC28 0x00000064
 _L 0x10D5CC2A 0x00000064
 _L 0x10D5CC2C 0x00000064
@@ -341104,7 +341275,7 @@ _L 0x10D5CC48 0x00000064
 _L 0x10D5CC4A 0x00000064
 _L 0x10D5CC4C 0x00000064
 _L 0x10D5CC4E 0x00000064
-_C0 All Accessories 3/3
+_C0 All Accessories (3/3)
 _L 0x10D5CC50 0x00000064
 _L 0x10D5CC52 0x00000064
 _L 0x10D5CC54 0x00000064
@@ -341268,7 +341439,7 @@ _C0 Max SP
 _L 0x20D5C744 0x00002710
 _C0 Money Max
 _L 0x20090968 0x57E00001
-_C0 Number Of Potion (Hex+2)
+_C0 Number Of Potion (HeX+2)
 _L 0x10D5CC98 0x00000005
 _C0 Play Time Zero
 _L 0x20D5C748 0x00000000
@@ -342317,7 +342488,7 @@ _L 0x00000001 0x00000000
 _C0 All Tools
 _L 0x40174EF8 0x000C0001
 _L 0x00000009 0x00000000
-_C0 Each Enemy Killed Makes Character Lv. up
+_C0 Each Enemy Killed Makes Character Lv. Up
 _L 0x20055C44 0xC53502A4
 _C0 Exp. Level Boost
 _L 0x20174E6C 0x4B18967F
@@ -345347,7 +345518,7 @@ _L 0x90000002 0x00000000
 _L 0x602A5680 0x00000704
 _L 0x00040D6E 0x00001AEC
 _L 0x90000002 0x00000000
-_C0 All Cards (7 times) v2
+_C0 All Cards (7 Times) v2
 _L 0x606CD964 0x00000704
 _L 0x00040018 0x00005210
 _L 0x90000002 0x00000000
@@ -345751,7 +345922,7 @@ _L 0x2162B064 0x00000000
 _L 0x210E6944 0x00000000
 _C0 Instant Win [Turn On In Battle]
 _L 0x2162B064 0x00000000
-_C0 Magic! (Cast Me To proceed)
+_C0 Magic! (Cast Me To Proceed)
 _L 0xC02A5680 0x00000000
 _L 0xC06CD960 0x00000000
 _L 0x506CD964 0x00000004
@@ -347411,7 +347582,7 @@ _L 0x2018A290 0x0A20080C
 _L 0x2018A294 0x964505CE
 _C0 No Weight At All
 _L 0x210910EC 0x00000000
-_C0 Quick Lvl Gain
+_C0 Quick Lvl. Gain
 _L 0x2111D098 0x00989680
 _C0 Quick Level Up
 _L 0x20002010 0xAE8605B0
